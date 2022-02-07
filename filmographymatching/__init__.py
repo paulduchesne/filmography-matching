@@ -52,7 +52,7 @@ class matchmaker:
         if numpy.median(scores) == 100:
             self.accepted.append(n)
 
-def filmography_matching(d1, d2, output):
+def match(d1, d2, output):
 
     # function to process matching creator by creator.
 
@@ -74,13 +74,3 @@ def filmography_matching(d1, d2, output):
             results.loc[len(results)] = [(c), (m.accepted[0])]
 
     results.to_csv(output, index=False)
-
-if __name__ == "__main__":
-
-    # define inputs and outputs. 
-
-    a = pathlib.Path.cwd() / 'data' / 'data-1.csv'
-    b = pathlib.Path.cwd() / 'data' / 'data-2.csv'
-    output = pathlib.Path.cwd() / 'results' / 'results.csv'
-
-    filmography_matching(a, b, output)
