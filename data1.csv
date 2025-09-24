@@ -1,0 +1,3340 @@
+agent_id,agent_label,work_id,work_label
+Q433960,Ralph Thomas,Q4657,Percy
+Q16012937,Ray Cameron,Q4733,Bloodbath at the House of Death
+Q433960,Ralph Thomas,Q4815,Percy's Progress
+Q29442224,Jonathan auf der Heide,Q24154,Van Diemen's Land
+Q25078,Terry Gilliam,Q25057,Brazil
+Q521691,Ruben Fleischer,Q27751,Gangster Squad
+Q726024,Vincent Ward,Q32424,Map of the Human Heart
+Q1320761,Mark Steven Johnson,Q41754,Ghost Rider
+Q358322,Don Siegel,Q49398,The Black Windmill
+Q230448,Jane Campion,Q59572,In the Cut
+Q508248,Andrew V. McLaglen,Q64211,The Wild Geese
+Q944198,John Stockwell,Q74319,Dark Tide
+Q9544977,Lilly Wachowski,Q83495,The Matrix
+Q9545711,Lana Wachowski,Q83495,The Matrix
+Q2160854,Rod Hardy,Q83730,December Boys
+Q113119050,Jody Dwyer,Q115394,Dying Breed
+Q2719725,Stuart Beattie,Q115993,"Tomorrow, When the War Began"
+Q230448,Jane Campion,Q117315,The Piano
+Q43203,Clint Eastwood,Q126699,Gran Torino
+Q446960,George Miller,Q126800,Happy Feet
+Q358804,John Duigan,Q127665,Flirting
+Q504503,Andrew Dominik,Q128855,Chopper
+Q230448,Jane Campion,Q143835,Holy Smoke!
+Q470260,Griffin Dunne,Q148429,Practical Magic
+Q3076237,Peter Sasdy,Q151715,Nothing But the Night
+Q1332531,Ellory Elkayem,Q151946,Eight Legged Freaks
+Q2063309,Timo Vuorensola,Q158398,Iron Sky
+Q1374169,Rolf de Heer,Q169087,Ten Canoes
+Q309715,Roland Joffé,Q172260,Singularity
+Q1652154,Mark Levin,Q177340,Nim's Island
+Q1702691,Jennifer Flackett,Q177340,Nim's Island
+Q119348,Irvin Kershner,Q180279,Never Say Never Again
+Q552814,John Hillcoat,Q180337,The Proposition
+Q1374169,Rolf de Heer,Q180363,Alexandra's Project
+Q250545,Baz Luhrmann,Q193573,Moulin Rouge!
+Q470601,Michael Radford,Q194728,"Another Time, Another Place"
+Q518868,Dennis Dugan,Q198451,Saving Silverman
+Q2094420,Stephan Elliott,Q198560,A Few Best Men
+Q192990,Guy Ritchie,Q200396,Sherlock Holmes
+Q51506,Richard Attenborough,Q202211,Gandhi
+Q2397306,Michael Rymer,Q202982,Queen of the Damned
+Q103917,Steven Soderbergh,Q205447,Ocean's Eleven
+Q9544977,Lilly Wachowski,Q207536,The Matrix Revolutions
+Q9545711,Lana Wachowski,Q207536,The Matrix Revolutions
+Q538578,Hugh Hudson,Q207921,Chariots of Fire
+Q56008,Tim Burton,Q218235,Charlie and the Chocolate Factory
+Q561387,Francis Lawrence,Q219150,Constantine
+Q43203,Clint Eastwood,Q221586,Mystic River
+Q3328027,Murali K. Thalluri,Q221992,2:37
+Q230448,Jane Campion,Q232181,Two Friends
+Q192990,Guy Ritchie,Q243643,Sherlock Holmes: A Game of Shadows
+Q446960,George Miller,Q248775,Mad Max
+Q2094420,Stephan Elliott,Q255328,"The Adventures of Priscilla, Queen of the Desert"
+Q944763,Peyton Reed,Q269887,Yes Man
+Q250545,Baz Luhrmann,Q275180,Australia
+Q6988244,Neil Armfield,Q280928,Candy
+Q3498963,Steve Jacobs,Q281830,Disgrace
+Q2924898,Brian Gilbert,Q285024,The Frog Prince
+Q5537604,George C. Wolfe,Q287385,Nights in Rodanthe
+Q740649,Gerald Thomas,Q302927,Carry On Dick
+Q9544977,Lilly Wachowski,Q312078,Speed Racer
+Q9545711,Lana Wachowski,Q312078,Speed Racer
+Q303891,Lewis Gilbert,Q320423,The Spy Who Loved Me
+Q56008,Tim Burton,Q323318,Dark Shadows
+Q722023,Julien Temple,Q332394,Absolute Beginners
+Q303891,Lewis Gilbert,Q334780,Moonraker
+Q4757687,Andrew Lancaster,Q339127,Accidents Happen
+Q1738629,Ken Kwapis,Q368674,License to Wed
+Q358804,John Duigan,Q369435,One Night Stand
+Q1393077,Gregor Jordan,Q391542,Ned Kelly
+Q441510,Cate Shortland,Q421583,Lore
+Q446960,George Miller,Q426663,Mad Max Beyond Thunderdome
+Q3101803,George Ogilvie,Q426663,Mad Max Beyond Thunderdome
+Q492743,David Twohy,Q429934,Pitch Black
+Q2088074,Ryuhei Kitamura,Q431660,Godzilla: Final Wars
+Q51577,James Ivory,Q432088,Maurice
+Q6504110,Lawrence Guterman,Q459398,Son of the Mask
+Q250545,Baz Luhrmann,Q463313,Romeo + Juliet
+Q7803256,Tim Burstall,Q463579,Attack Force Z
+Q543563,Phillip Noyce,Q464653,The Quiet American
+Q543563,Phillip Noyce,Q845077,Dead Calm
+Q271284,Alan Parker,Q851611,Bugsy Malone
+Q449220,Bruce Beresford,Q880515,Black Robe
+Q18002645,Andrew Traucki,Q880636,Black Water
+Q56448254,David Nerlich,Q880636,Black Water
+Q5112877,Christopher Miles,Q883500,That Lucky Touch
+Q250545,Baz Luhrmann,Q892735,The Great Gatsby
+Q309214,Norman Jewison,Q898465,Jesus Christ Superstar
+Q267138,Yahoo Serious,Q898684,Young Einstein
+Q1252342,Douglas Hickox,Q898759,Brannigan
+Q507519,Geoffrey Wright,Q909098,Romper Stomper
+Q51541,Nicolas Roeg,Q912936,Castaway
+Q26955517,Carmelo Musca,Q915388,Zombie Brigade
+Q26955611,Barrie Pattison,Q915388,Zombie Brigade
+Q730984,Dzongsar Jamyang Khyentse Rinpoche,Q922054,The Cup
+Q55424,Peter Weir,Q926678,The Cars That Ate Paris
+Q726024,Vincent Ward,Q928963,The Navigator: A Medieval Odyssey
+Q51552,Roman Polanski,Q929582,Macbeth
+Q438911,Gillian Armstrong,Q930294,My Brilliant Career
+Q543700,Jack Gold,Q938727,The Medusa Touch
+Q436829,Russell Mulcahy,Q943003,Swimming Upstream
+Q19858148,Antony Hoffman,Q945685,Red Planet
+Q5715671,Henri Safran,Q958772,Storm Boy
+Q1114465,Brad Peyton,Q959335,Cats & Dogs: The Revenge of Kitty Galore
+Q348059,Franc Roddam,Q962987,Quadrophenia
+Q6410007,Kimble Rendall,Q970746,Bait 3D
+Q263486,Curtis Hanson,Q973722,Lucky You
+Q5715671,Henri Safran,Q975421,Bush Christmas
+Q6410007,Kimble Rendall,Q978522,Cut
+Q363653,Guy Hamilton,Q980257,Evil Under the Sun
+Q114833956,James Rabbitts,Q980327,The Clinic
+Q16195520,Peter Duncan,Q987973,A Little Bit of Soul
+Q707773,Peter R. Hunt,Q996995,Shout at the Devil
+Q97959720,Joe McCormick,Q1004363,Funny Things Happen Down Under
+Q282787,Derek Jarman,Q1035443,Caravaggio
+Q3474451,Savage Steve Holland,Q1041839,Better Off Dead
+Q51575,John Huston,Q1042931,The Man Who Would Be King
+Q711914,Gordon Chan,Q1046883,The King of Fighters
+Q6504110,Lawrence Guterman,Q1051315,Cats & Dogs
+Q573730,Anthony Page,Q1058723,The Lady Vanishes
+Q778865,Alex Cox,Q1065276,Straight to Hell
+Q457559,John Mackenzie,Q1074940,The Honorary Consul
+Q55424,Peter Weir,Q1077160,Gallipoli
+Q55238,Ken Loach,Q1077565,Family Life
+Q1852104,Tom Dey,Q1091168,Showtime
+Q6304164,Philippe Mora,Q1093373,Howling III
+Q238638,Chris Weitz,Q1116772,Down to Earth
+Q1968839,Paul Weitz,Q1116772,Down to Earth
+Q446960,George Miller,Q1125262,Mad Max 2
+Q259687,Alex Proyas,Q1127281,Dark City
+Q23836180,Michael Spierig,Q1128499,Daybreakers
+Q23836181,Peter Spierig,Q1128499,Daybreakers
+Q349842,Anton Corbijn,Q1129186,Control
+Q435577,Clara Law,Q1138902,The Goddess of 1967
+Q25183124,George Whaley,Q1140623,Clowning Around
+Q3182498,John Stainton,Q1140738,The Crocodile Hunter: Collision Course
+Q1368884,Simon Wincer,Q1140744,Crocodile Dundee in Los Angeles
+Q153379,John Cornell,Q1140745,Crocodile Dundee II
+Q286890,Harold Ramis,Q1141746,Analyze This
+Q543563,Phillip Noyce,Q1142799,Rabbit-Proof Fence
+Q1559143,Ralph Nelson,Q1143625,The Wilby Conspiracy
+Q3018459,David Michôd,Q1144983,Animal Kingdom
+Q486895,Robert Fuest,Q1145807,The Abominable Dr. Phibes
+Q719827,Mark Goldblatt,Q1153794,The Punisher
+Q2982591,Colin Eggleston,Q1157757,Sky Pirates
+Q51461,Sam Peckinpah,Q1163628,Straw Dogs
+Q2094420,Stephan Elliott,Q1167200,Eye of the Beholder
+Q358804,John Duigan,Q1168478,Wide Sargasso Sea
+Q521135,Michael Carreras,Q1168595,Blood from the Mummy's Tomb
+Q530235,Seth Holt,Q1168595,Blood from the Mummy's Tomb
+Q358804,John Duigan,Q1169123,The Year My Voice Broke
+Q1368884,Simon Wincer,Q1170071,The Phantom
+Q457559,John Mackenzie,Q1171720,The Fourth Protocol
+Q230448,Jane Campion,Q1190988,Bright Star
+Q262820,John Frankenheimer,Q1192054,The Holcroft Covenant
+Q3852272,Matthew Robbins,Q1193005,Dragonslayer
+Q51575,John Huston,Q1195342,The Mackintosh Man
+Q449220,Bruce Beresford,Q1195774,Breaker Morant
+Q51530,Jerzy Skolimowski,Q1197556,The Shout
+Q55420,Fred Zinnemann,Q1198545,The Sundowners
+Q17887,Jack Clayton,Q1198799,The Great Gatsby
+Q48765,Stanley Donen,Q1199280,The Little Prince
+Q740649,Gerald Thomas,Q1199683,Carry On Behind
+Q1279660,David Nutter,Q1209390,Disturbing Behavior
+Q747522,Don Sharp,Q1210739,The Thirty Nine Steps
+Q56005,Ridley Scott,Q1212051,The Duellists
+Q1177114,David Peoples,Q1213701,The Blood of Heroes
+Q2397462,Mark Achbar,Q1214005,Manufacturing Consent: Noam Chomsky and the Media
+Q7177754,Peter Wintonick,Q1214005,Manufacturing Consent: Noam Chomsky and the Media
+Q2309487,Larry Peerce,Q1215805,Ash Wednesday
+Q55424,Peter Weir,Q1218841,The Last Wave
+Q269357,Joseph Losey,Q1219179,The Romantic Englishwoman
+Q912200,Brian G. Hutton,Q1238219,Zee and Co.
+Q703727,Fred Schepisi,Q1249239,Evil Angels
+Q533522,Alan Gibson,Q1254444,The Satanic Rites of Dracula
+Q6304164,Philippe Mora,Q1257078,Mad Dog Morgan
+Q318712,Renny Harlin,Q1259419,Driven
+Q3378977,Philip Brophy,Q1278728,Body Melt
+Q5372704,Emma-Kate Croghan,Q1282904,Strange Planet
+Q113141010,Scott P. Levy,Q1286059,Time Under Fire
+Q230448,Jane Campion,Q1304431,An Angel at My Table
+Q3161747,Jan Sardi,Q1306776,Love's Brother
+Q316051,Lasse Hallström,Q1309886,ABBA: The Movie
+Q1494914,Gary McKendry,Q1320416,Killer Elite
+Q295445,Frank Darabont,Q1322943,The Majestic
+Q709076,Stephen Hopkins,Q1322981,The Reaping
+Q55260,David Lean,Q1323132,A Passage to India
+Q3189167,Julie Bertuccelli,Q1323303,The Tree
+Q287607,Rob Reiner,Q1330571,Rumor Has It
+Q51541,Nicolas Roeg,Q1342653,Walkabout
+Q250545,Baz Luhrmann,Q1346439,Strictly Ballroom
+Q2011694,P. J. Hogan,Q1348275,Muriel's Wedding
+Q16193745,David McNally,Q1354617,Kangaroo Jack
+Q2031570,Steve Beck,Q1356265,Ghost Ship
+Q55258,Stephen Frears,Q1384699,Sammy and Rosie Get Laid
+Q6793366,Maurice Murphy,Q1398280,Fatty Finn
+Q736300,Brett Leonard,Q1400892,Feed
+Q2342969,Rob Sitch,Q1410845,The Dish
+Q4932121,Bob Connolly,Q1419324,First Contact
+Q55249,Ken Russell,Q1419797,Tommy
+Q55424,Peter Weir,Q1421747,Picnic at Hanging Rock
+Q730169,Roger Christian,Q1437524,Starship
+Q60291444,Richard Trueblood,Q1442214,Alice in Wonderland
+Q450728,Tobe Hooper,Q1455006,Lifeforce
+Q94333,Michael Laughlin,Q1459137,My Letter to George
+Q997312,Peter Wollen,Q1464593,Friendship's Death
+Q325805,David Leland,Q1465864,Wish You Were Here
+Q73136,Stanley Kramer,Q1469774,On the Beach
+Q444583,D.J. Caruso,Q1480747,Taking Lives
+Q1368884,Simon Wincer,Q1511623,Lightning Jack
+Q441510,Cate Shortland,Q1513503,Somersault
+Q3116260,Greg McLean,Q1515931,Rogue
+Q5181140,Craig Lahiff,Q1516308,Heaven's Burning
+Q6396177,Kevin Dowling,Q1518910,The Sum of Us
+Q17126570,Ringan Ledwidge,Q1537088,Gone
+Q358804,John Duigan,Q1542458,Sirens
+Q1368884,Simon Wincer,Q1544448,Quigley Down Under
+Q703727,Fred Schepisi,Q1545013,Plenty
+Q113986838,Scott Reynolds,Q1555773,When Strangers Appear
+Q4461183,Warwick Thornton,Q1568425,Samson and Delilah
+Q1061316,Jamie Blanks,Q1580522,Storm Warning
+Q4353594,Vivi Friedman,Q3986991,The Family Tree
+Q7117020,P.J. Ramster,Q3989113,The Russell Affair
+Q3421009,Raymond Longford,Q3989208,The Sentimental Bloke
+Q3758734,Gaston Mervale,Q3989518,The Stubbornness of Geraldine
+Q3758734,Gaston Mervale,Q3989638,The Ticket of Leave Man
+Q1337082,Freddie Francis,Q4081059,Craze
+Q6793366,Maurice Murphy,Q4081065,Exchange Lifeguards
+Q3082659,Frank Howson,Q4085738,Hunting
+Q470818,Ken Annakin,Q4099134,Paper Tiger
+Q5238384,David Parker,Q4114646,Hercules Returns
+Q114012270,Justin Dix,Q4120943,Crawlspace
+Q5232078,David Caesar,Q4151182,Dirty Deeds
+Q15463660,Michael Blakemore,Q4158757,Country Life (film)
+Q2160854,Rod Hardy,Q4177861,Thirst
+Q543563,Phillip Noyce,Q4178172,Heatwave
+Q11801520,Oles Yanchuk,Q4178755,The Company of Heroes
+Q16730387,Jonathan Teplitzky,Q4178880,The Railway Man
+Q113552803,Ron Myrick,Q4189554,Kangaroo Jack: G'Day U.S.A.!
+Q4750388,Ana Kokkinos,Q4224682,The Book of Revelation
+Q7803256,Tim Burstall,Q4237136,Nightmare at Bittercreek
+Q958911,Alec Mills,Q4241471,Bloodmoon
+Q113388900,Robert Tiffe,Q4292259,Sword of Honor
+Q7634026,Sue Brooks,Q4303595,Japanese Story
+Q438911,Gillian Armstrong,Q4315248,The Last Days of Chez Nous
+Q539685,Michael Anderson,Q4316126,Conduct Unbecoming
+Q59506363,Tony McNamara,Q4316368,The Rage in Placid Lake
+Q16199151,Colin Keith Gray,Q4316371,Freedom's Fury
+Q2453153,Kevin Hooks,Q4317245,Irresistible Force
+Q2059818,Paul Goldman,Q4327809,The Night We Called It a Day
+Q117860381,Frank Heimans,Q4332530,Frank Heimans and Nevill Drury's the Occult Experience
+Q7931560,Vince Monton,Q4337557,Windrider
+Q117860319,Tristan Kenyon,Q4367968,Persons of Interest
+Q114008586,Ed Aldridge,Q4373706,Tan Lines
+Q3293340,Mario Andreacchio,Q4373795,The Dragon Pearl
+Q6833415,Michael Pattinson,Q4373873,The Last Bullet
+Q5489550,Frank Shields,Q4380063,Fatal Sky
+Q131387232,Timothy Boyle,Q4418080,The Plex
+Q6255888,John Ruane,Q4424397,Death in Brunswick
+Q6768251,Mark Joffe,Q4431081,Spotswood
+Q6272923,Jonathan Dawson,Q4449268,Ginger Meggs
+Q115197092,Anthony Mir,Q4466958,You Can't Stop the Murders
+Q913154,Brian Trenchard-Smith,Q4469287,Strike of the Panther
+Q1368884,Simon Wincer,Q4481165,Phar Lap
+Q195719,the Wachowskis,Q4525627,The Shmatrix
+Q20657642,Alan White,Q4532625,Erskineville Kings
+Q113740385,Kylie Eddy,Q4533120,This Kiss
+Q20973943,Daina Reid,Q4535752,I Love You Too
+Q3421009,Raymond Longford,Q4540499,'Neath Austral Skies
+Q5249934,Dee McLachlan,Q4546916,10 Terrorists
+Q117860589,Danielle Lauren,Q4547746,11Eleven Project
+Q6793366,Maurice Murphy,Q4550854,15 Amore
+Q7803256,Tim Burstall,Q4597966,2000 Weeks
+Q743866,Esben Storm,Q4632540,27A
+Q545146,Pauline Chan,Q4635211,33 Postcards
+Q369113,Daniel Lapaine,Q4638652,48 Shades
+Q27043626,Mike Hill,Q4652136,AKA: Girl Skater
+Q5492176,Franklyn Barrett,Q4655524,A Blue Gum Romance
+Q4964286,Brian Kavanagh,Q4655932,A City's Child
+Q7342100,Robert Bilheimer,Q4655982,A Closer Walk
+Q117858920,E.A. Dietrich-Derrick,Q4655988,A Co-respondent's Course
+Q114554703,Paul Middleditch,Q4655994,A Cold Summer
+Q5083707,Charles Woods,Q4656099,A Coo-ee from Home
+Q7347357,Robert Markowitz,Q4656240,A Dangerous Life
+Q107487041,Quentin Masters,Q4656244,A Dangerous Summer
+Q6504975,Lawson Harris,Q4656275,A Daughter of Australia
+Q27051284,Aaron Scheibner,Q4656395,A Delicate Balance – The Truth
+Q5259200,Denny Lawrence,Q4656516,A Divided Heart
+Q5492176,Franklyn Barrett,Q4657048,A Girl of the Bush
+Q1040537,Carl Schultz,Q4657253,A Hard God
+Q131401879,George Dean,Q4657909,"A Long, Long Way to Tipperary"
+Q5107089,Chris Kennedy,Q4658033,A Man's Gotta Do
+Q3421009,Raymond Longford,Q4658119,A Maori Maid's Love
+Q453792,Charles Chauvel,Q4658388,A Mountain Goes to Sea
+Q5492176,Franklyn Barrett,Q4659285,A Rough Passage
+Q5492176,Franklyn Barrett,Q4659518,A Silent Witness
+Q6228224,John D. Lamond,Q4659579,A Slice of Life
+Q6755588,Marc Gracie,Q4659594,A Slow Night at the Kuwaiti Cafe
+Q5387293,Eric Porter,Q4659657,A Son Is Born
+Q4908103,Bill Bennett,Q4659857,A Street to Die
+Q3082659,Frank Howson,Q4660064,A Thin Life
+Q5424085,Francis William Thring,Q4660128,A Ticket in Tatts
+Q237268,Paul Cox,Q4660710,A Woman's Tale
+Q2835202,Alfred J. Goulding,Q4660844,A Yank in Australia
+Q50348439,Alex Stitt,Q4668693,Abra Cadabra
+Q6251290,John Orcsik,Q4671327,Academy
+Q3399106,Stanley Long,Q4686656,Adventures of a Plumber's Mate
+Q3399106,Stanley Long,Q4686661,Adventures of a Taxi Driver
+Q3564549,W. J. Lincoln,Q4690575,After Sundown
+Q55234,Michael Powell,Q4691874,Age of Consent
+Q3182311,John Power,Q4726201,Alice to Nowhere
+Q3147246,Ian Coughlan,Q4727001,Alison's Birthday
+Q1097219,Claude Whatham,Q4728672,All Creatures Great and Small
+Q5550058,Gerard Lee,Q4729070,All Men Are Liars
+Q6688609,Louise Alston,Q4729104,All My Friends Are Leaving Brisbane
+Q5492176,Franklyn Barrett,Q4729949,"All for Gold, or Jumping the Claim"
+Q117883776,David Waddington,Q4861680,Barney
+Q4877593,Beaumont Smith,Q4864065,Barry Butts In
+Q449220,Bruce Beresford,Q4864500,Barry McKenzie Holds His Own
+Q271948,Rachel Ward,Q4877736,Beautiful Kate
+Q1284772,Tracey Moffatt,Q4879081,Bedevil
+Q5180756,Craig Boreham,Q4880366,Before the Rain
+Q66088108,CJ Johnson,Q4880366,Before the Rain
+Q66088110,Stephen de Villiers,Q4880366,Before the Rain
+Q117861493,Pamela Gibbons,Q4882853,Belinda
+Q6234993,John Gavin,Q4885775,Ben Hall and his Gang
+Q6097453,Ivan Sen,Q4887177,Beneath Clouds
+Q117860823,Jeremy Dylan,Q4889243,Benjamin Sniddlegrass and the Cauldron of Penguins
+Q16730387,Jonathan Teplitzky,Q4898542,Better Than Sex
+Q116779324,Peter Batey,Q4898722,Betty Blokk-buster Follies
+Q131406708,Doug Livermore,Q4898722,Betty Blokk-buster Follies
+Q6834878,Michael Thornhill,Q4899130,Between Wars
+Q117883764,Dan Burstall,Q4900000,Beyond My Reach
+Q6702423,Luke Walker,Q4900008,Beyond Our Ken
+Q5563487,Giorgio Mangiamele,Q4900017,Beyond Reason
+Q131349770,Phillip Cullen,Q4906171,Big Red Car
+Q131406556,Neil Foley,Q4906898,Bigger Than Tina
+Q7329929,Richard Wherrett,Q4912057,Billy's Holiday
+Q7288095,Ralph Smart,Q4919025,Bitter Springs
+Q110435090,Julian Kemp,Q4920012,Blabbermouth & Stickybeak
+Q16187371,John Winter,Q4920204,Black & White & Sex
+Q6142088,James Ricketson,Q4922836,Blackfellas
+Q7804290,Tim Slade,Q4925123,Blank Canvas
+Q4750388,Ana Kokkinos,Q4926230,Blessed
+Q4727711,Alkinos Tsilimidos,Q4926523,Blind Company
+Q18637425,Richard Gray,Q4926690,Blinder
+Q2744017,Ray Lawrence,Q4926832,Bliss
+Q28086157,Chris Fitchett,Q4927641,Blood Money
+Q16193147,Jon Hewitt,Q4927978,Bloodlust
+Q114247002,Duke Hendrix,Q4928007,Bloodspit
+Q6755588,Marc Gracie,Q4928591,Blowing Hot and Cold
+Q1040537,Carl Schultz,Q4929111,Blue Fin
+Q7369286,Ross Dimsey,Q4929113,Blue Fire Lady
+Q113585891,Evan Clarry,Q4930799,Blurred
+Q1514898,Gerry Lively,Q4936791,Body Armour
+Q61770178,Kim Mordaunt,Q4940413,Bomb Harvest
+Q114028129,Rachael Lucas,Q4941409,Bondi Tsunami
+Q16104830,Nigel Buesst,Q4942103,Bonjour Balwyn
+Q113986799,John Prescott,Q4943977,Bootleg
+Q7976106,Wayne Coles-Janess,Q4949392,Bougainville – Our Island Our Fight
+Q7196373,Pino Amenta,Q4949681,Boulevard of Broken Dreams
+Q6537578,Lex Marinos,Q4949894,Boundaries of the Heart
+Q6438600,Kriv Stenders,Q4951724,Boxing Day
+Q113625317,Kevin Carlin,Q4952040,BoyTown
+Q7279354,Rachel Perkins,Q4956299,Bran Nue Dae
+Q3195038,Q3195038,Q4959331,Break of Day
+Q6228224,John D. Lamond,Q4959480,Breakfast in Paris
+Q7356222,Rod Hay,Q4959559,Breaking Loose
+Q117859118,Susan Murphy Dermody,Q4959906,Breathing Under Water
+Q726445,Richard Franklin,Q4968055,Brilliant Lies
+Q117859121,Nick Hallam,Q4973302,Broken Allegiance
+Q60215641,Laurie McInnes,Q4973402,Broken Highway
+Q114247004,Brad Haynes,Q4973484,Broken Sun
+Q7704133,Terry Bourke,Q4975648,Brothers
+Q4785317,Arch Nicholson,Q4984288,Buddies
+Q1040537,Carl Schultz,Q4997043,Bullseye
+Q113988074,Jim Jeffrey,Q4997601,Bungala Boys
+Q363458,Graeme Clifford,Q4998921,Burke & Wills
+Q117844961,Dominic Deacon,Q4999132,Burlesque
+Q16730387,Jonathan Teplitzky,Q4999868,Burning Man
+Q7288095,Ralph Smart,Q5001367,Bush Christmas
+Q328660,George T. Miller,Q5001502,Bushfire Moon
+Q5321938,E. J. Cole,Q5001566,"Bushranger's Ransom, or A Ride for Life"
+Q113471481,Lezli-An Barrett,Q5001845,Business as Usual
+Q4706380,Alan Clay,Q5002929,Butterfly Crush
+Q237268,Paul Cox,Q5016134,Cactus
+Q114598896,Jasmine Yuen Carrucan,Q5016137,Cactus
+Q5294199,Donald Crombie,Q5016297,Caddie
+Q3564549,W. J. Lincoln,Q5021873,Called Back
+Q4723361,Alfred Rolfe,Q5023176,"Caloola, or The Adventures of a Jackeroo"
+Q6142088,James Ricketson,Q5032126,Candy Regentag
+Q6768591,Mark Lewis,Q5032217,Cane Toads: An Unnatural History
+Q113443051,Antony J. Bowman,Q5036199,Cappuccino
+Q4723361,Alfred Rolfe,Q5036733,"Captain Midnight, the Bush King"
+Q4723361,Alfred Rolfe,Q5036807,"Captain Starlight, or Gentleman of the Road"
+Q5056131,Cecil Holmes,Q5036825,Captain Thunderbolt
+Q1040537,Carl Schultz,Q5038970,"Careful, He Might Hear You"
+Q358804,John Duigan,Q5038998,Careless Love
+Q3018459,David Michôd,Q5042347,The Rover
+Q2982591,Colin Eggleston,Q5049221,Cassandra
+Q5294199,Donald Crombie,Q5053373,Cathy's Child
+Q7117020,P.J. Ramster,Q5054089,Cattiva Evasione
+Q113456898,Adam Blaiklock,Q5054430,Caught Inside
+Q103844860,Serhat Caradee,Q5056580,Cedar Boys
+Q4766717,Ann Turner,Q5057968,Celia
+Q117883723,Tony Paterson,Q5062701,Centrespread
+Q117844887,Barry Peak,Q5072382,Channel Chaos
+Q6234993,John Gavin,Q5085751,Charlie at the Sydney Show
+Q15452427,David Bradbury,Q5098635,Chile: When Will It End?
+Q1738601,Ken G. Hall,Q5120893,Cinesound Varieties
+Q6504975,Lawson Harris,Q5121763,Circumstance
+Q107640222,Belinda Chayko,Q5123285,City Loop
+Q5424085,Francis William Thring,Q5125989,Clara Gibbings
+Q5563487,Giorgio Mangiamele,Q5129821,Clay
+Q117860598,Fiona Cochrane,Q5475706,Four of a Kind
+Q6260281,John Tatoulis,Q5476352,Fovou tous Ellines
+Q358804,John Duigan,Q5477735,Fragments of War: The Story of Damien Parer
+Q6234993,John Gavin,Q5486791,"Frank Gardiner, the King of the Road"
+Q117883754,Ron Way,Q5502707,Frenchman's Farm
+Q6939225,Murray Fahey,Q5502935,Fresh Air
+Q913154,Brian Trenchard-Smith,Q5505183,Frog Dreaming
+Q15452427,David Bradbury,Q5505790,Front Line
+Q117844887,Barry Peak,Q5510758,Future Schlock
+Q117861481,Chris Kiely,Q5510758,Future Schlock
+Q5546611,George Young,Q5519668,Gambler's Gold
+Q6154553,Janine Hosking,Q5521347,Ganja Queen
+Q3441378,Ron Cobb,Q5522034,Garbo
+Q131387355,Martin Simpson,Q5531042,Gene-X
+Q5056131,Cecil Holmes,Q5533689,Gentle Strangers
+Q933562,Ben Lewin,Q5547303,Georgia
+Q6939225,Murray Fahey,Q5553798,"Get Away, Get Away"
+Q16730387,Jonathan Teplitzky,Q5554560,Gettin' Square
+Q6116523,Jackie McKimmie,Q5563206,Gino
+Q114565714,Jennifer Ussi,Q5564354,Girl Clock!
+Q5107089,Chris Kennedy,Q5567016,Glass
+Q113572899,Mark Lamprell,Q5576273,Goddess
+Q5686458,Haydn Keenan,Q5577776,Going Down
+Q1738601,Ken G. Hall,Q5581634,Gone to the Dogs
+Q1040537,Carl Schultz,Q5583300,Goodbye Paradise
+Q1738601,Ken G. Hall,Q5595279,Grandad Rudd
+Q6768251,Mark Joffe,Q5598793,Great Bookie Robbery
+Q7803256,Tim Burstall,Q5599125,Great Expectations: The Untold Story
+Q453792,Charles Chauvel,Q5604098,Greenhide
+Q5232078,David Caesar,Q5604194,Greenkeeping
+Q6524635,Leon Ford,Q5608758,Griff the Invisible
+Q4978057,Bruce Myles,Q5610898,Ground Zero
+Q6833415,Michael Pattinson,Q5610898,Ground Zero
+Q5233328,David Elfick,Q5654787,Harbour Beat
+Q3421009,Raymond Longford,Q5659602,Harmony Row
+Q5424085,Francis William Thring,Q5659602,Harmony Row
+Q6820930,Mervyn Murphy,Q5676779,Harvest Gold
+Q15456104,Terry Marcel,Q5684873,Hawk the Slayer
+Q17001256,Leste Chen,Q5691797,HeartBeat Love
+Q7196373,Pino Amenta,Q5694749,Heaven Tonight
+Q747522,Don Sharp,Q5714880,Hennessy
+Q101549114,Beck Cole,Q5737257,Here I Am
+Q453792,Charles Chauvel,Q5738637,Heritage
+Q5294199,Donald Crombie,Q5743122,Heroes II: The Return
+Q5293005,Don Levy,Q5743596,Herostratus
+Q114946233,Cathy Randall,Q5749159,"Hey, Hey, It's Esther Blueburger"
+Q5993122,Igor Auzins,Q5756374,High Rolling
+Q438911,Gillian Armstrong,Q5757276,High Tide
+Q3421009,Raymond Longford,Q5763506,Hills of Hate
+Q6234993,John Gavin,Q5771948,His Convict Bride
+Q5424085,Francis William Thring,Q5772181,His Royal Highness
+Q27902911,Geoff Collins,Q5814027,Dr. Jekyll y Mr. Hyde
+Q23822013,Drew Heriot,Q5824590,Q5824590
+Q117859349,Leo Berkeley,Q5880596,Holidays on the River Yarra
+Q1097219,Claude Whatham,Q5897662,Hoodwink
+Q7604855,Stavros Kazantzidis,Q5905890,Horseplay
+Q5489550,Frank Shields,Q5909290,Hostage
+Q61732626,Craig Rosenberg,Q5912157,Hotel de Love
+Q6388849,Kendal Flanagan,Q5915734,Houseboat Horror
+Q7150609,Paul Fenech,Q5916271,Housos vs. Authority
+Q7926409,Victor Upton-Brown,Q5917986,How McDougall Topped the Score
+Q4723361,Alfred Rolfe,Q5918188,How We Beat the Emden
+Q4877593,Beaumont Smith,Q5936100,Hullo Marmaduke
+Q237268,Paul Cox,Q5937650,Human Touch
+Q116771857,Luigi Acquisto,Q5943489,Hungry Heart
+Q5489550,Frank Shields,Q5947021,Hurrah
+Q1441455,Francis D. Lyon,Q5977183,I Found Joe Barton
+Q117885629,Stephen Ramsey,Q5978707,I Own the Racecourse
+Q6229315,John Dexter,Q5979489,I Want What I Want
+Q5232078,David Caesar,Q5988951,Idiot Box
+Q130527301,George Coates,Q5991074,If the Huns Came to Melbourne
+Q5563487,Giorgio Mangiamele,Q5996517,Il Contratto
+Q237268,Paul Cox,Q6000394,Illuminations
+Q114312494,Simone North,Q6009632,In Her Skin
+Q743866,Esben Storm,Q6010646,In Search of Anna
+Q6260281,John Tatoulis,Q6011007,In Too Deep
+Q6777645,Martyn Keith,Q6012411,In the Last Stride
+Q7976106,Wayne Coles-Janess,Q6012891,In the Shadow of the Palms
+Q1374169,Rolf de Heer,Q6014570,Incident at Raven's Gate
+Q113853232,Michael Pearce,Q6034195,Initiation
+Q7704133,Terry Bourke,Q6035127,Inn of the Damned
+Q237268,Paul Cox,Q6035913,Innocence
+Q117860725,Andrew Scarano,Q6058143,Into the Shadows
+Q7668046,T.O. McCreadie,Q6058168,Into the Straight
+Q7175721,Peter Maxwell,Q6075531,Is There Anybody There?
+Q5982634,Ian Pringle,Q6078224,Isabelle Eberhardt
+Q237268,Paul Cox,Q6082951,Island
+Q4647281,A.R. Harwood,Q6083930,Isle of Intrigue
+Q3564549,W. J. Lincoln,Q6091844,It Is Never Too Late to Mend
+Q1738601,Ken G. Hall,Q6091875,It Isn't Done
+Q27043371,Janet Merewether,Q6110082,Jabe Babe – A Heightened Life
+Q7117020,P.J. Ramster,Q6161360,Jasamine Freckel's Love Affair
+Q913154,Brian Trenchard-Smith,Q6179367,Jenny Kissed Me
+Q3837650,Louise Lovely,Q6189574,Jewelled Nights
+Q6755588,Marc Gracie,Q6192371,Jigsaw
+Q4908103,Bill Bennett,Q6193220,Jilted
+Q4877593,Beaumont Smith,Q6208254,Joe
+Q29872788,Pip Mushin,Q6289021,Josh Jarman
+Q6767947,Mark Hartley,Q7062172,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!"
+Q117883740,Peter Carmody,Q7062802,Nothing Like Experience
+Q114204465,Adrian Carr,Q7065897,Now and Forever
+Q3564549,W. J. Lincoln,Q7070190,Nurse Cavell
+Q4799064,Arthur Higgins,Q7077531,Odds On
+Q153527,Fred Niblo,Q7079442,Officer 666
+Q913154,Brian Trenchard-Smith,Q7079502,Official Denial
+Q98828309,Antonio Tibaldi,Q7091069,On My Own
+Q3421009,Raymond Longford,Q7091100,On Our Selection
+Q1738601,Ken G. Hall,Q7091101,On Our Selection
+Q7976106,Wayne Coles-Janess,Q7091306,On the Border of Hopetown
+Q7279354,Rachel Perkins,Q7093078,One Night the Moon
+Q7150070,Paul Currie,Q7093117,One Perfect Day
+Q4750388,Ana Kokkinos,Q7094331,Only the Brave
+Q15615844,Phoebe Hart,Q7100297,"Orchids, My Intersex Adventure"
+Q1738601,Ken G. Hall,Q7103933,Orphan of the Wilderness
+Q4877593,Beaumont Smith,Q7110641,"Our Friends, the Hayseeds"
+Q920584,Alan Bridges,Q7111610,Out of Season
+Q913154,Brian Trenchard-Smith,Q7111720,Out of the Body
+Q2982591,Colin Eggleston,Q7111870,Outback Vampires
+Q51624648,Chris Löfvén,Q7116409,Oz
+Q6228224,John D. Lamond,Q7122301,Pacific Banana
+Q4712361,Albie Thoms,Q7127973,Palm Beach
+Q5686458,Haydn Keenan,Q7130566,Pandemonium
+Q57415831,Kathryn Millard,Q7138582,Parklands
+Q16195520,Peter Duncan,Q7142697,Passion
+Q6767947,Mark Hartley,Q7146001,Patrick
+Q5981361,Ian Darling,Q7151726,Paul Kelly: Stories of Me
+Q4647281,A.R. Harwood,Q7158125,Pearl Lust
+Q3431335,Richard Wolstencroft,Q7158241,Pearls Before Swine
+Q958587,Frank Hurley,Q7158247,Pearls and Savages
+Q1174863,Davyd Cherkaskyi,Q7176283,Peter Pan
+Q60291444,Richard Trueblood,Q7176283,Peter Pan
+Q3421009,Raymond Longford,Q7177495,Peter Vernon's Silence
+Q7803256,Tim Burstall,Q7178200,Petersen
+Q7380315,Rupert Kathner,Q7180562,Phantom Gold
+Q2927155,Bryan Gordon,Q7191339,Pie in the Sky
+Q6847274,Mike Hollands,Q7200057,Piñata
+Q5294199,Donald Crombie,Q7203385,Playing Beatie Bow
+Q7704133,Terry Bourke,Q7205267,Plugg
+Q3421009,Raymond Longford,Q7227355,Pommy Arrives in Australia
+Q25183124,George Whaley,Q7228792,Poor Man's Orange
+Q711682,Dick Clement,Q7230374,Porridge
+Q5083137,Charles Villiers,Q7233444,Possum Paddock
+Q6375547,Kate Howarde,Q7233444,Possum Paddock
+Q453792,Charles Chauvel,Q7236633,Power to Win
+Q4877593,Beaumont Smith,Q7239930,Prehistoric Hayseeds
+Q328660,George T. Miller,Q7242453,Prey
+Q5112877,Christopher Miles,Q7242893,Priest of Love
+Q5232078,David Caesar,Q7243324,Prime Mover
+Q7288095,Ralph Smart,Q7243570,Primitive Peoples
+Q117864014,Keith Salvat,Q7246061,Private Collection
+Q7815438,Tom Cowan,Q7249802,Promised Woman
+Q43901468,Alessandro Cavadini,Q7251254,Protected
+Q6405381,Kieran Galvin,Q7260738,Puppy
+Q22277550,Bert Deling,Q7261128,Pure Shit
+Q6255888,John Ruane,Q7270879,Queensland
+Q130527274,M. Frank,Q7278357,Ra Choi
+Q7380315,Rupert Kathner,Q7279685,Racing Luck
+Q7279354,Rachel Perkins,Q7280293,Radiance
+Q5539735,George Gittoes,Q7289994,Rampage
+Q2975559,Clarence G. Badger,Q7292876,Rangle River
+Q117860410,Nicholas Hansen,Q7294762,Rash
+Q4932121,Bob Connolly,Q7295920,Rats in the Ranks
+Q15710032,Robin Anderson,Q7295920,Rats in the Ranks
+Q7381540,Russell Hagg,Q7296856,Raw Deal
+Q114158030,Tony Wellington,Q7296879,Raw Nerve
+Q113139208,Darren Ashton,Q7299693,Razzle Dazzle: A Journey into Dance
+Q16107356,Michael Jenkins,Q7302016,Rebel
+Q5675105,Hartney Arthur,Q7305051,Red Sky at Morning
+Q16193147,Jon Hewitt,Q7305447,Redball
+Q113552822,Danny Vendramini,Q7305893,Redheads
+Q6105488,J. E. Mathews,Q7312069,"Remorse, a Story of the Red Plague"
+Q382599,Michael Hoffman,Q7316160,Restless Natives
+Q53414693,Ray Argall,Q7317149,Return Home
+Q115097844,Lachlan Ryan,Q7318200,Reverse Runner
+Q115097845,Jarrod Theodore,Q7318200,Reverse Runner
+Q675977,Don Chaffey,Q7332514,Ride a Wild Pony
+Q532307,Nadia Tass,Q7334087,Rikky and Pete
+Q3564549,W. J. Lincoln,Q7335543,Rip Van Winkle
+Q20657642,Alan White,Q7336223,Risk
+Q2636665,Alan John Clarke,Q7336459,"Rita, Sue and Bob Too"
+Q95785706,Tony Mahood,Q7337831,River Street
+Q7634026,Sue Brooks,Q7339544,Road to Nhill
+Q6389885,Kenneth Brampton,Q7340828,Robbery Under Arms
+Q5080538,Charles MacMahon,Q7340830,Robbery Under Arms
+Q3157245,Jack Lee,Q7340832,Robbery Under Arms
+Q3195038,Q3195038,Q7340833,Robbery Under Arms
+Q5294199,Donald Crombie,Q7340833,Robbery Under Arms
+Q3228926,Lee Robinson,Q7354120,Rock'n'Roll
+Q98001,Christian Wagner,Q7355520,Rockpalast
+Q5294199,Donald Crombie,Q7370819,Rough Diamonds
+Q3421009,Raymond Longford,Q7376827,Rudd's New Selection
+Q113365841,Chris Langman,Q7379502,Run Chrissie Run!
+Q7175721,Peter Maxwell,Q7379519,"Run Rebecca, Run"
+Q6229518,John Dixon,Q7380023,Running from the Guns
+Q113471494,John Clark,Q7380038,Running on Empty
+Q131340902,Steve Middleton,Q5135393,Closer and Closer Apart
+Q5181140,Craig Lahiff,Q5139942,Coda
+Q114028130,Rupert Glasson,Q5141012,Coffin Rock
+Q5335962,Eddie Davis,Q5148562,Color Me Dead
+Q16104830,Nigel Buesst,Q5151242,Come Out Fighting
+Q3568632,William Freshman,Q5151292,Come Up Smiling
+Q16104830,Nigel Buesst,Q5156677,Compo
+Q4908809,Bill Douglas,Q5157667,Comrades
+Q1351727,Val Guest,Q5160040,Confessions of a Window Cleaner
+Q6372399,Karl Zwicky,Q5164864,Contagion
+Q4723361,Alfred Rolfe,Q5166839,Cooee and the Echo
+Q328660,George T. Miller,Q5167277,Cool Change
+Q6768251,Mark Joffe,Q5173917,Cosi
+Q3504464,Dennis O'Rourke,Q5176122,Couldn't Be Fairer
+Q7175721,Peter Maxwell,Q5177448,Country Town
+Q131406978,David Swann,Q5180379,Crackers
+Q6755588,Marc Gracie,Q5185511,Crimetime
+Q5107610,Chris Nyst,Q5187786,Crooked Business
+Q6261681,John V. Soto,Q5190184,Crush
+Q117854193,Damian Heffernan,Q5191761,Cthulhu
+Q6939225,Murray Fahey,Q5192195,Cubbyhouse
+Q4723361,Alfred Rolfe,Q5194504,Cupid Camouflaged
+Q1738601,Ken G. Hall,Q5207855,"Dad Rudd, MP"
+Q25183124,George Whaley,Q5207857,Dad and Dave: On Our Selection
+Q1738601,Ken G. Hall,Q5207859,Dad and Dave Come to Town
+Q3177481,Jerry London,Q5207901,Dadah Is Death
+Q6939225,Murray Fahey,Q5208656,Dags
+Q117860334,Stasch Radwanski Jr.,Q5209788,Daisy and Simon
+Q117858927,Leigh Sheehan,Q5211065,Dalkeith
+Q4766717,Ann Turner,Q5211325,Dallas Doll
+Q22277550,Bert Deling,Q5211523,Dalmas
+Q113654370,Brett Anstey,Q5212753,Damned by Dawn
+Q4723361,Alfred Rolfe,Q5214050,Dan Morgan
+Q1374169,Rolf de Heer,Q5215162,Dance Me to My Song
+Q709076,Stephen Hopkins,Q5216093,Dangerous Game
+Q850385,Bryan Forbes,Q5220932,International Velvet
+Q7372730,Roy Darling,Q5227922,Daughter of the East
+Q3808351,Jim Loach,Q5230733,Oranges and Sunshine
+Q3195038,Q3195038,Q5242390,Dawn!
+Q913154,Brian Trenchard-Smith,Q5242975,Day of the Panther
+Q16104830,Nigel Buesst,Q5245148,Dead Easy
+Q22277550,Bert Deling,Q5245150,Dead Easy
+Q913154,Brian Trenchard-Smith,Q5245167,Dead End Drive-In
+Q39005726,Tony Krawitz,Q5245178,Dead Europe
+Q113586146,Nick Parsons,Q5245210,Dead Heart
+Q6255888,John Ruane,Q5245250,Dead Letter Office
+Q958911,Alec Mills,Q5245405,Dead Sleep
+Q94517959,Ross Gibson,Q5245524,Dead to the World
+Q4785317,Arch Nicholson,Q5245578,Deadline
+Q743866,Esben Storm,Q5245604,Deadly
+Q4908103,Bill Bennett,Q5246821,Dear Cardholder
+Q117860629,Chris Cudlipp,Q5246824,Dear Claudia
+Q6304164,Philippe Mora,Q5247591,Death of a Soldier
+Q913154,Brian Trenchard-Smith,Q5247671,Deathcheaters
+Q913154,Brian Trenchard-Smith,Q5249093,Absolute Deception
+Q22115024,Steve Pasvolsky,Q5249264,Deck Dogz
+Q131406875,Warwick Freeman,Q5256327,Demonstrator
+Q117859680,Greg Arce,Q5256446,Den
+Q4964286,Brian Kavanagh,Q5260579,Departure
+Q4877593,Beaumont Smith,Q5263931,Desert Gold
+Q28086157,Chris Fitchett,Q5264862,Desolation Angels
+Q16733042,Scott Murray,Q5267342,Devil in the Flesh
+Q5238384,David Parker,Q5271064,Diana & Me
+Q5424085,Francis William Thring,Q5275641,Diggers
+Q3421009,Raymond Longford,Q5275649,Diggers in Blighty
+Q7143507,Pat Hanna,Q5275649,Diggers in Blighty
+Q358804,John Duigan,Q5277185,Dimboola
+Q4723361,Alfred Rolfe,Q5286136,Do Men Love Women?
+Q6793366,Maurice Murphy,Q5287568,Doctors and Nurses
+Q3430994,Richard Lowenstein,Q5288447,Dogs in Space
+Q5107089,Chris Kennedy,Q5288674,Doing Time for Patsy Cline
+Q117859415,Timothy Jolley,Q5290914,Dominick Dunne: After the Party
+Q117859522,Kirsty de Garis,Q5290914,Dominick Dunne: After the Party
+Q449220,Bruce Beresford,Q5291409,Don's Party
+Q6251025,John O'Shea,Q5291723,Don't Let It Get You
+Q84217,Rudolf Nureyev,Q5293358,Don Quixote
+Q115090274,Faramarz K. Rahber,Q5296234,Donkey in Lahore
+Q5315730,Dunstan Webb,Q5297296,Dope
+Q109648674,Chisholm McTavish,Q5298700,The Dorothy the Dinosaur and Friends Video
+Q4964286,Brian Kavanagh,Q5299711,Double Deal
+Q5672514,Harry Southwell,Q5302881,Down Under
+Q951522,Scott Hicks,Q5303019,Down the Wind
+Q5542148,George Marlow,Q5308076,Driving a Girl to Destruction
+Q7803256,Tim Burstall,Q5312255,Duet for Four
+Q117859041,Lee Rogers,Q5316988,Dust Off the Wings
+Q3228926,Lee Robinson,Q5317009,Dust in the Sun
+Q113677627,John Richardson,Q5317162,Dusty
+Q130526872,Charles Hardy,Q5328902,East Lynne
+Q5181140,Craig Lahiff,Q5331560,Ebbtide
+Q543563,Phillip Noyce,Q5332796,Echoes of Paradise
+Q53414693,Ray Argall,Q5348951,Eight Ball
+Q3470620,Samantha Lang,Q5361998,The Well
+Q7803256,Tim Burstall,Q5362135,Eliza Fraser
+Q4727711,Alkinos Tsilimidos,Q5368741,Em4Jay
+Q113509706,Clive Rees,Q7718642,The Blockhouse
+Q3421009,Raymond Longford,Q7718807,The Blue Mountains Mystery
+Q6685026,Lottie Lyell,Q7718807,The Blue Mountains Mystery
+Q5083707,Charles Woods,Q7719094,The Bondage of the Bush
+Q7610796,Stephen Wallace,Q7719641,The Boy Who Had Everything
+Q3129929,Rowan Woods,Q7719728,The Boys
+Q117860898,Geoff Bennett,Q7719766,The Boys in the Island
+Q5492176,Franklyn Barrett,Q7719923,The Breaking of the Drought
+Q5672514,Harry Southwell,Q7720639,The Burgomeister
+Q19958066,Cathy Henkel,Q7720680,The Burning Season
+Q3421009,Raymond Longford,Q7720732,The Bushwhackers
+Q6988244,Neil Armfield,Q7721564,The Castanet Club
+Q105697790,Sandra Sciberras,Q7721707,The Caterpillar Wish
+Q4723361,Alfred Rolfe,Q7722263,The Cheat
+Q7154855,Paulette McDonagh,Q7722268,The Cheaters
+Q617383,Roy Redgrave,Q7722714,The Christian
+Q5492176,Franklyn Barrett,Q7722714,The Christian
+Q3421009,Raymond Longford,Q7722865,The Church and the Woman
+Q6388331,Ken Quinnell,Q7723144,The City's Edge
+Q6387409,Ken Cameron,Q7723336,The Clean Machine
+Q5240080,David Stevens,Q7723409,The Clinic
+Q449220,Bruce Beresford,Q7723514,The Club
+Q14902479,David Field,Q7726899,The Combination
+Q5993122,Igor Auzins,Q7727561,The Coolangatta Gold
+Q28839849,Ted Emery,Q7727942,The Craic
+Q4723361,Alfred Rolfe,Q7728064,The Crime and the Criminal
+Q3564549,W. J. Lincoln,Q7728109,The Crisis
+Q7437018,Scott Patterson,Q7728163,The Crop
+Q3101803,George Ogilvie,Q7728178,The Crossing
+Q1368884,Simon Wincer,Q7728406,The Cup
+Q4723361,Alfred Rolfe,Q7728410,The Cup Winner
+Q6229465,John Dingwall,Q7728500,The Custodian
+Q117848446,Paul Harmon,Q7728983,The Dark Room
+Q3228926,Lee Robinson,Q7729129,The Dawn Fraser Story
+Q16012394,Joy Cavill,Q7729129,The Dawn Fraser Story
+Q4723361,Alfred Rolfe,Q7729142,The Day
+Q113443085,Peter Fisk,Q7729216,The Day of the Roses
+Q110265386,Chris Thomson,Q7729665,The Delinquents
+Q2463688,Brian Bell,Q7729747,The Department
+Q237268,Paul Cox,Q7730099,The Diaries of Vaslav Nijinsky
+Q4877593,Beaumont Smith,Q7730168,The Digger Earl
+Q6389885,Kenneth Brampton,Q7730210,The Dingo
+Q3421009,Raymond Longford,Q7730217,The Dinkum Bloke
+Q6685026,Lottie Lyell,Q7730217,The Dinkum Bloke
+Q3161154,James Hill,Q7730463,The Dock Brief
+Q7299016,Raymond Menmuir,Q7730463,The Dock Brief
+Q3564549,W. J. Lincoln,Q7730734,The Double Event
+Q951493,Charles Jarrott,Q7730764,The Dove
+Q3293340,Mario Andreacchio,Q7730975,The Dreaming
+Q6234993,John Gavin,Q7731061,The Drover's Sweetheart
+Q5492176,Franklyn Barrett,Q7731783,The Eleventh Hour
+Q110265386,Chris Thomson,Q7731969,The Empty Beach
+Q6834878,Michael Thornhill,Q7732680,The Everlasting Secret Family
+Q89074,Louis Ralph,Q7732846,The Exploits of the Emden
+Q1738601,Ken G. Hall,Q7732846,The Exploits of the Emden
+Q113625317,Kevin Carlin,Q7732882,The Extra
+Q6834878,Michael Thornhill,Q7732966,The FJ Holden
+Q5083137,Charles Villiers,Q7733022,The Face at the Window
+Q7154855,Paulette McDonagh,Q7733414,The Far Paradise
+Q3421009,Raymond Longford,Q7733529,The Fatal Wedding
+Q3082659,Frank Howson,Q7733944,The Final Stage
+Q113462163,Brian Andrews,Q7733953,The Final Winter
+Q113462164,Jane Forrest,Q7733953,The Final Winter
+Q6401926,Khoa Do,Q7733988,The Finished People
+Q358804,John Duigan,Q7734059,The Firm Man
+Q5321938,E. J. Cole,Q7734297,The Five of Hearts
+Q1237389,Miles Mander,Q7734577,The Flying Doctor
+Q675977,Don Chaffey,Q7735084,The Fourth Wish
+Q449220,Bruce Beresford,Q7735329,The Fringe Dwellers
+Q4877593,Beaumont Smith,Q7736132,The Gentleman Bushranger
+Q449220,Bruce Beresford,Q7736240,The Getting of Wisdom
+Q131406975,Kathy Mueller,Q7736524,The Girl Who Came Late
+Q7380315,Rupert Kathner,Q7736766,The Glenrowan Affair
+Q5546611,George Young,Q7737123,The Golden West
+Q106375199,David Baker,Q7737838,The Great Macarthy
+Q5315730,Dunstan Webb,Q7738274,The Grey Glove
+Q6227202,John Cosgrove,Q7738566,The Guyra Ghost Mystery
+Q5424085,Francis William Thring,Q7738998,The Haunted Barn
+Q3421009,Raymond Longford,Q7739084,The Hayseeds
+Q4877593,Beaumont Smith,Q7739084,The Hayseeds
+Q4877593,Beaumont Smith,Q7739085,The Hayseeds' Back-blocks Show
+Q4877593,Beaumont Smith,Q7739086,The Hayseeds' Melbourne Cup
+Q4877593,Beaumont Smith,Q7739087,The Hayseeds Come to Sydney
+Q16107356,Michael Jenkins,Q7739216,The Heartbreak Kid
+Q4723361,Alfred Rolfe,Q7739495,The Hero of the Dardanelles
+Q28839849,Ted Emery,Q7740191,The Honourable Wally Norman
+Q5672514,Harry Southwell,Q7740276,The Hordern Mystery
+Q958587,Frank Hurley,Q7740465,The Hound of the Deep
+Q2011694,P. J. Hogan,Q7740937,The Humpty Dumpy Man
+Q113559061,Warwick Gilbert,Q7740963,The Hunchback of Notre Dame
+Q117859570,John Studley,Q7741792,The Independent
+Q117864061,Andrew O'Keefe,Q7741792,The Independent
+Q110989897,Craig Monahan,Q7742367,The Interview
+Q3431335,Richard Wolstencroft,Q7742389,The Intruder
+Q3228926,Lee Robinson,Q7742391,The Intruders
+Q5294199,Donald Crombie,Q7742576,The Irishman
+Q2477748,Wilfred Lucas,Q7742854,The Jackeroo of Coolabong
+Q5546394,George Willoughby,Q7743312,The Joan of Arc of Loos
+Q6834878,Michael Thornhill,Q7743642,The Journalist
+Q1804597,Lesley Selander,Q7743960,The Kangaroo Kid
+Q18002645,Andrew Traucki,Q1632707,The Reef
+Q3116260,Greg McLean,Q1633106,Wolf Creek
+Q114204465,Adrian Carr,Q1637162,The Sword of Bushido
+Q19872804,Dean Murphy,Q1648869,Charlie & Boots
+Q320259,Kevin Connor,Q1659336,Arabian Adventure
+Q1530946,Glendyn Ivin,Q1660083,Last Ride
+Q951522,Scott Hicks,Q1680405,The Boys Are Back
+Q532307,Nadia Tass,Q1692212,Malcolm
+Q3470620,Samantha Lang,Q1712162,The Monkey's Mask
+Q711415,Herbert Ross,Q1737987,The Seven-Per-Cent Solution
+Q4908103,Bill Bennett,Q1743756,Kiss or Kill
+Q5091950,Cherie Nowlan,Q1745723,Clubland
+Q131460872,Christopher Fraser,Q1753929,Summer City
+Q51506,Richard Attenborough,Q1754270,Young Winston
+Q707773,Peter R. Hunt,Q1754840,Wild Geese II
+Q51541,Nicolas Roeg,Q1755023,Insignificance
+Q1330752,Elissa Down,Q1755928,The Black Balloon
+Q991798,Bruce Robinson,Q1756560,Withnail and I
+Q5980854,Ian Barry,Q1757269,The Chain Reaction
+Q446960,George Miller,Q1757288,Mad Max: Fury Road
+Q8054208,Yoav Shamir,Q1766498,Defamation
+Q4766717,Ann Turner,Q1778814,Irresistible
+Q1045172,Carroll Ballard,Q1781817,Wind
+Q966124,Christopher Smith,Q1783930,Triangle
+Q8312,Nicholas Meyer,Q1786324,Volunteers
+Q2744017,Ray Lawrence,Q1790524,Jindabyne
+Q17385689,Bruce Best,Q1807367,Warming Up
+Q23836180,Michael Spierig,Q1810314,Undead
+Q23836181,Peter Spierig,Q1810314,Undead
+Q951493,Charles Jarrott,Q1856597,"Mary, Queen of Scots"
+Q3129929,Rowan Woods,Q1865670,Little Fish
+Q491809,Mike Hodges,Q1887799,Pulp
+Q7822887,Tony Martin,Q1939403,Bad Eggs
+Q740649,Gerald Thomas,Q1941014,Carry On Girls
+Q328660,George T. Miller,Q1961374,Les Patterson Saves the World
+Q449220,Bruce Beresford,Q1970669,Paradise Road
+Q16195520,Peter Duncan,Q1977021,Children of the Revolution
+Q55258,Stephen Frears,Q1984419,Gumshoe
+Q5606993,Gregory J. Read,Q1984949,Like Minds
+Q55303,John Schlesinger,Q2004460,Yanks
+Q652149,Anees Bazmee,Q2007104,Singh Is Kinng
+Q1908416,Brian Clemens,Q2020736,Captain Kronos – Vampire Hunter
+Q438911,Gillian Armstrong,Q2033052,Oscar and Lucinda
+Q1061316,Jamie Blanks,Q2062852,Long Weekend
+Q47799114,Daniel Nettheim,Q2118926,The Hunter
+Q6317793,Justin Kurzel,Q2133240,Snowtown
+Q6438600,Kriv Stenders,Q2135949,Red Dog
+Q740649,Gerald Thomas,Q2146384,Carry On England
+Q703727,Fred Schepisi,Q2205409,The Chant of Jimmie Blacksmith
+Q964832,Peter Sykes,Q2253853,To the Devil a Daughter
+Q328660,George T. Miller,Q2259533,The Man from Snowy River
+Q3189051,Julia Leigh,Q2294057,Sleeping Beauty
+Q27630796,Sean Byrne,Q2296492,The Loved Ones
+Q730984,Dzongsar Jamyang Khyentse Rinpoche,Q2298281,Travellers and Magicians
+Q7846914,Troy Nixey,Q2299378,Don't Be Afraid of the Dark
+Q298352,Lindsay Anderson,Q2306978,O Lucky Man!
+Q967544,Jay Chandrasekhar,Q2306995,The Dukes of Hazzard
+Q5249934,Dee McLachlan,Q2339315,The Jammed
+Q269669,Illeana Douglas,Q2352173,Stories of Lost Souls
+Q447694,Deborra-Lee Furness,Q2352173,Stories of Lost Souls
+Q4758784,Andrew Upton,Q2352173,Stories of Lost Souls
+Q6769142,Mark Palansky,Q2352173,Stories of Lost Souls
+Q7151355,Paul Holmes,Q2352173,Stories of Lost Souls
+Q51530,Jerzy Skolimowski,Q2364520,Moonlighting
+Q117859259,David Denneen,Q2386658,Restraint
+Q923930,John Whitesell,Q2407062,See Spot Run
+Q7343062,Robert Connolly,Q2409617,The Bank
+Q967593,Jimmy Sangster,Q2411296,Fear in the Night
+Q1689216,Jim Sharman,Q2415762,The Night the Prowler
+Q16107356,Michael Jenkins,Q2451484,Emerald City
+Q113443051,Antony J. Bowman,Q2456097,Paperback Hero
+Q2342969,Rob Sitch,Q2471493,The Castle
+Q3063860,Fabrice Du Welz,Q2479261,Vinyan
+Q328660,George T. Miller,Q2515683,Gross Misconduct
+Q2442472,Tony Ayres,Q2542475,Walking on Water
+Q363653,Guy Hamilton,Q2543979,The Mirror Crack'd
+Q361630,Richard Roxburgh,Q2548513,"Romulus, My Father"
+Q1334509,Trevor Nunn,Q2559966,Hedda
+Q117848445,Dan Castle,Q2565495,Newcastle
+Q2059818,Paul Goldman,Q2579375,Suburban Mayhem
+Q113489054,Clinton Smith,Q2586958,Sample People
+Q7343062,Robert Connolly,Q2597292,Balibo
+Q3048459,Edward Bennett,Q2607773,Ascendancy
+Q3378803,Phil Lord,Q2608065,The LEGO Movie
+Q13638984,Christopher Miller,Q2608065,The LEGO Movie
+Q5252449,Dein Perry,Q2634003,Bootmen
+Q36486276,Bruce D. Clark,Q2636180,Galaxy of Terror
+Q1726589,Rita Lengyel,Q2638438,Gabriel
+Q23542535,Shane Abbess,Q2638438,Gabriel
+Q357316,Dušan Makavejev,Q2663674,The Coca-Cola Kid
+Q1368884,Simon Wincer,Q2682416,The Lighthorsemen
+Q1393077,Gregor Jordan,Q2699724,Two Hands
+Q4750388,Ana Kokkinos,Q2700562,Head On
+Q2719725,Stuart Beattie,Q2708907,"I, Frankenstein"
+Q114678308,Dean Francis,Q2710763,Road Kill
+Q1506091,Wayne Blair,Q2715076,The Sapphires
+Q8004970,William Baker,Q2733930,White Diamond: A Personal Portrait of Kylie Minogue
+Q850385,Bryan Forbes,Q2779010,The Slipper and the Rose
+Q3157204,Jack Hazan,Q2819650,A Bigger Splash
+Q16193147,Jon Hewitt,Q2823386,Acolytes
+Q7815438,Tom Cowan,Q6296331,Journey Among Women
+Q6688609,Louise Alston,Q6302017,Jucy
+Q6103892,J.A. Lipman,Q6316299,Just Peggy
+Q6129930,James Bogle,Q6344965,Kadaicha
+Q7803256,Tim Burstall,Q6362508,Kangaroo
+Q21662977,Melanie Hogan,Q6365876,Kanyini
+Q28839849,Ted Emery,Q6376051,Kath & Kimderella
+Q3436568,Robert Young,Q6383001,Keep It Up Downstairs
+Q5130263,Clayton Jacobson,Q6390950,Kenny
+Q117860371,Lynda Heys,Q6404196,Kick
+Q4723361,Alfred Rolfe,Q6412331,King of the Coiners
+Q3228926,Lee Robinson,Q6412332,King of the Coral Sea
+Q5492176,Franklyn Barrett,Q6423167,Know Thy Child
+Q7693669,Ted Robinson,Q6426728,Kokoda Crescent
+Q237268,Paul Cox,Q6433483,Kostas
+Q913154,Brian Trenchard-Smith,Q6444464,Kung Fu Killers
+Q3498963,Steve Jacobs,Q6465315,La Spagnola
+Q7704133,Terry Bourke,Q6470563,Lady Stay Dead
+Q114312512,David Pulbrook,Q6494265,Last Dance
+Q6181881,Jeremy Sims,Q6494727,Last Train to Freo
+Q6504975,Lawson Harris,Q6503522,Law or Loyalty
+Q1337082,Freddie Francis,Q6517827,Legend of the Werewolf
+Q117883761,Derek Strachan,Q6526680,Leonora
+Q16230635,Matthew George,Q6532367,Let's Get Skase
+Q1738601,Ken G. Hall,Q6532660,Let George Do It
+Q117848469,Oliver Howes,Q6533067,Let the Balloon Go
+Q19872804,Dean Murphy,Q6537610,Lex and Rory
+Q703727,Fred Schepisi,Q6542266,Libido
+Q6220063,John B. Murray,Q6542266,Libido
+Q7803256,Tim Burstall,Q6542266,Libido
+Q117851606,Lawrence Johnston,Q6544652,Life
+Q7976106,Wayne Coles-Janess,Q6545078,Life at the End of the Rainbow
+Q6185374,Jerzy Domaradzki,Q6547664,Lilian's Story
+Q7185610,Phillip Avalon,Q6557344,Liquid Bridge
+Q237268,Paul Cox,Q6671608,Lonely Hearts
+Q1018614,Byron Haskin,Q6672759,Long John Silver
+Q120401921,Peter Dodds,Q6684450,Lost in the Bush
+Q3182376,John Robins,Q6691430,Love Thy Neighbour
+Q5372704,Emma-Kate Croghan,Q6691661,Love and Other Catastrophes
+Q5233328,David Elfick,Q6691803,Love in Limbo
+Q507519,Geoffrey Wright,Q6692348,Lover Boy
+Q1738601,Ken G. Hall,Q6692460,Lovers and Luggers
+Q933562,Ben Lewin,Q6697866,Lucky Break
+Q6438600,Kriv Stenders,Q6697875,Lucky Country
+Q6831596,Michael James Rowland,Q6697962,Lucky Miles
+Q524821,Judy Morris,Q6699927,Luigi's Ladies
+Q237268,Paul Cox,Q6705261,Lust and Revenge
+Q7279354,Rachel Perkins,Q6721611,Mabo
+Q908689,Brendan Fletcher,Q6725911,Mad Bastards
+Q6129930,James Bogle,Q6725917,Mad Bomber in Love
+Q117860293,Vincent Giarrusso,Q6744098,Mallboy
+Q4908103,Bill Bennett,Q6744607,Malpractice
+Q237268,Paul Cox,Q6746388,Man of Flowers
+Q114955853,John Honey,Q6748794,Manganinnie
+Q5387293,Eric Porter,Q6757681,Marco Polo Junior Versus the Red Dragon
+Q117860478,Kay Pavlou,Q6778749,Mary
+Q7117020,P.J. Ramster,Q6786365,Mated in the Wilds
+Q4723361,Alfred Rolfe,Q6786661,Mates of the Murrumbidgee
+Q117859368,Chris McGill,Q6796943,Maybe This Time
+Q117860664,John Eastway,Q6813921,"Melvin, Son of Alvin"
+Q117859152,Michael Joy,Q6815990,Men's Group
+Q507519,Geoffrey Wright,Q6822696,Metal Skin
+Q4693632,Agostino Imondi,Q6836601,Waking Up the Nation
+Q107487041,Quentin Masters,Q6842889,Midnite Spares
+Q21605119,R. Maslyn Williams,Q6849376,Mike and Stefani
+Q5980854,Ian Barry,Q6867932,Minnamurra
+Q16107529,Tom Zubrycki,Q6896502,Molly & Mobarak
+Q29617984,Ned Lander,Q6896507,Molly
+Q449220,Bruce Beresford,Q6899176,Money Movers
+Q6387409,Ken Cameron,Q6900738,Monkey Grip
+Q117861534,Mark Forstmann,Q6900802,Monkey Puzzle
+Q3564549,W. J. Lincoln,Q6907722,Moondyne
+Q4723361,Alfred Rolfe,Q6908063,"Moora Neya, or The Message of the Spear"
+Q4712872,Alby Falzon,Q6912929,Morning of the Earth
+Q5233328,David Elfick,Q6912929,Morning of the Earth
+Q6401926,Khoa Do,Q6917340,Mother Fish
+Q358804,John Duigan,Q6926348,Mouth to Mouth
+Q20984502,Richard Mason,Q6927077,Moving On
+Q6833415,Michael Pattinson,Q6927079,Moving Out
+Q1738601,Ken G. Hall,Q6928519,Mr. Chedworth Steps Out
+Q532307,Nadia Tass,Q6929129,Mr. Reliable
+Q19872804,Dean Murphy,Q6932119,Muggers
+Q3035855,Don McLennan,Q6934049,Mull
+Q5232078,David Caesar,Q6934200,Mullet
+Q5667433,Harry Booth,Q6943957,Mutiny on the Buses
+Q117859244,David Monaghan,Q6945126,My Brother the Serial Killer
+Q113572899,Mark Lamprell,Q6946075,My Mother Frank
+Q5594166,Granaz Moussavi,Q6946494,My Tehran for Sale
+Q4476256,Sarah Watt,Q6946660,My Year Without Sex
+Q6103892,J.A. Lipman,Q6948844,Mystery Island
+Q3228926,Lee Robinson,Q6961343,Namatjira the Painter
+Q4666385,Abe Forsythe,Q6985914,Ned
+Q6261681,John V. Soto,Q6986572,Needle
+Q543563,Phillip Noyce,Q7019633,Newsfront
+Q107346210,Tony Williams,Q7021192,Next of Kin
+Q3182039,John McCallum,Q7028273,Nickel Queen
+Q106375199,David Baker,Q7031406,Niel Lynne
+Q7823488,Tony Stevens,Q7746046,The Last Stand
+Q5386430,Eric Ellena,Q7746132,The Last Trackers of the Outback
+Q7803256,Tim Burstall,Q7746251,The Last of the Knucklemen
+Q3564549,W. J. Lincoln,Q7747107,The Life's Romance of Adam Lindsay Gordon
+Q4800571,Arthur W. Sterry,Q7747138,"The Life Story of John Lee, or The Man They Could Not Hang"
+Q5492176,Franklyn Barrett,Q7747217,The Life of a Jackeroo
+Q6834973,Michael Tuchner,Q7747345,The Likely Lads
+Q2982591,Colin Eggleston,Q7747595,The Little Feller
+Q6988982,Neil McGregor,Q7747737,The Little Things
+Q7173307,Peter Clifton,Q7748060,The London Rock and Roll Show
+Q3564549,W. J. Lincoln,Q7748580,The Lost Chord
+Q913154,Brian Trenchard-Smith,Q7748903,The Love Epidemic
+Q4723361,Alfred Rolfe,Q7748987,The Love Tyrant
+Q4723361,Alfred Rolfe,Q7749124,The Loyal Rebel
+Q5128834,Claude Flemming,Q7749194,The Lure of the Bush
+Q7372730,Roy Darling,Q7749197,The Lust for Gold
+Q60734347,Scott Ryan,Q7749533,The Magician
+Q961768,Graham Stark,Q7749585,The Magnificent Seven Deadly Sins
+Q3421009,Raymond Longford,Q7749894,The Man They Could Not Hang
+Q4647281,A.R. Harwood,Q7749934,The Man Who Forgot
+Q913154,Brian Trenchard-Smith,Q7750035,The Man from Hong Kong
+Q2477748,Wilfred Lucas,Q7750037,The Man from Kangaroo
+Q462036,David Atkins,Q7750058,The Man from Snowy River: Arena Spectacular
+Q5992748,Ignatius Jones,Q7750058,The Man from Snowy River: Arena Spectacular
+Q4877593,Beaumont Smith,Q7750059,The Man from Snowy River
+Q5534071,Geoff Burrowes,Q7750062,The Man from Snowy River II
+Q13435404,Kevin James Dobson,Q7750183,The Mango Tree
+Q6234993,John Gavin,Q7750366,The Mark of the Lash
+Q6234993,John Gavin,Q7750470,The Martyrdom of Nurse Cavell
+Q3421009,Raymond Longford,Q7751333,The Midnight Wedding
+Q4723361,Alfred Rolfe,Q7751549,The Miner's Curse
+Q11754243,Leon Forbert,Q7751550,The Miner's Daughter
+Q6372399,Karl Zwicky,Q7751655,The Miraculous Mellops
+Q4723361,Alfred Rolfe,Q7751906,"The Moira, or Mystery of the Bush"
+Q5492176,Franklyn Barrett,Q7752031,The Monk and the Woman
+Q7353620,Robyn Nevin,Q7752241,The More Things Change...
+Q6234993,John Gavin,Q7752674,The Murder of Captain Fryatt
+Q7175721,Peter Maxwell,Q7752875,The Mystery at Castle House
+Q4800277,Arthur Shirley,Q7752899,The Mystery of a Hansom Cab
+Q5492176,Franklyn Barrett,Q7752902,The Mystery of the Black Pearl
+Q6220063,John B. Murray,Q7753012,The Naked Bunyip
+Q2907645,Bob Ellis,Q7754411,The Nostradamus Kid
+Q237268,Paul Cox,Q7754500,The Nun and the Bandit
+Q5546611,George Young,Q7754682,The Octoroon
+Q7816324,Tom Jeffrey,Q7754685,The Odd Angry Shot
+Q7815438,Tom Cowan,Q7754723,The Office Picnic
+Q1374169,Rolf de Heer,Q7754873,The Old Man Who Read Love Stories
+Q114065740,Doc Duhame,Q7755173,The Open Door
+Q1637771,Harry Watt,Q7755740,The Overlanders
+Q106472543,Strathford Hamilton,Q7755872,The Pact
+Q110265386,Chris Thomson,Q7756714,The Perfectionist
+Q3228926,Lee Robinson,Q7756849,The Phantom Stockman
+Q3182311,John Power,Q7757054,The Picture Show Man
+Q5492176,Franklyn Barrett,Q7757231,The Pioneers
+Q3101803,George Ogilvie,Q7757326,The Place at the Coast
+Q5982634,Ian Pringle,Q7757356,The Plains of Heaven
+Q113957525,Willy Roe,Q7757440,The Playbirds
+Q7047118,Noel Monkman,Q7757927,The Power and the Glory
+Q5315730,Dunstan Webb,Q7758123,The Price
+Q3330820,Harry Sinclair,Q7758149,The Price of Milk
+Q5982634,Ian Pringle,Q7758391,The Prisoner of St. Petersburg
+Q117860297,Brian Davies,Q7758708,The Pudding Thieves
+Q6774325,Martha Ansara,Q7758824,The Pursuit of Happiness
+Q7380315,Rupert Kathner,Q7758847,The Pyjama Girl Murder Case
+Q7599660,Stanley Hawes,Q7759002,The Queen in Australia
+Q942796,Harold Becker,Q7759280,The Ragman's Daughter
+Q3293340,Mario Andreacchio,Q7759609,The Real Macaw
+Q6105488,J. E. Mathews,Q7759738,The Rebel
+Q117860220,Tim Pek,Q7759931,The Red Sense
+Q3564549,W. J. Lincoln,Q7760148,The Remittance Man
+Q7816324,Tom Jeffrey,Q7760180,The Removalists
+Q3564549,W. J. Lincoln,Q7760227,The Reprieve
+Q6304164,Philippe Mora,Q7760394,The Return of Captain Invincible
+Q7117020,P.J. Ramster,Q7760482,The Rev. Dell's Secret
+Q3531823,Tony Maylam,Q7760684,The Riddle of the Sands
+Q185846,Chris Noonan,Q7760685,The Riddle of the Stinson
+Q3564549,W. J. Lincoln,Q7761145,The Road to Ruin
+Q862673,Bill Young,Q7761389,The Roly Poly Man
+Q7437087,Scott R. Dunlap,Q7761404,The Romance of Runnibede
+Q5549357,Gerald M. Hayle,Q7761876,The Rushing Tide
+Q5112669,Q5112669,Q7762731,The Sculptor
+Q4800277,Arthur Shirley,Q7762815,The Sealed Room
+Q5424085,Francis William Thring,Q7763311,The Sentimental Bloke
+Q4706280,Alan Burke,Q7763312,The Sentimental Bloke
+Q117883739,Frank Brittain,Q7763401,The Set
+Q16948248,Howard Rubie,Q7763409,The Settlement
+Q2477748,Wilfred Lucas,Q7763563,The Shadow of Lightning Ridge
+Q1449546,Alexander Butler,Q7763777,The Shepherd of the Southern Cross
+Q5108247,Chris Terrill,Q7763837,The Ship
+Q199327,Leslie Norman,Q7763858,The Shiralee
+Q3564549,W. J. Lincoln,Q7764090,The Sick Stockrider
+Q5576393,Godfrey Cass,Q7764090,The Sick Stockrider
+Q3421009,Raymond Longford,Q7764194,The Silence of Dean Maitland
+Q1738601,Ken G. Hall,Q7764196,The Silence of Dean Maitland
+Q2442472,Tony Ayres,Q5368751,The Home Song Stories
+Q5137184,Clytie Jessop,Q5372694,Emma's War
+Q5259200,Denny Lawrence,Q5373662,Emoh Ruo
+Q6939225,Murray Fahey,Q5375590,Encounters
+Q7803256,Tim Burstall,Q5375802,End Play
+Q5549357,Gerald M. Hayle,Q5381006,Environment
+Q6968967,Nathan Christoffel,Q5384906,Eraser Children
+Q63256461,Shawn Seet,Q5396877,The Mystery of a Hansom Cab
+Q117859545,Arthur Cornwall,Q5411237,Eureka Stockade
+Q117859592,George Cornwell,Q5411237,Eureka Stockade
+Q1637771,Harry Watt,Q5411239,Eureka Stockade
+Q4727711,Alkinos Tsilimidos,Q5417859,Everynight ... Everynight
+Q237268,Paul Cox,Q5420265,Exile
+Q16609597,Tahir Cambis,Q5420284,Exile in Sarajevo
+Q114804141,Alma Sahbaz,Q5420284,Exile in Sarajevo
+Q2397306,Michael Rymer,Q5428410,Face to Face
+Q4932121,Bob Connolly,Q5428643,Facing the Music
+Q3293340,Mario Andreacchio,Q5429796,Fair Game
+Q115172873,Ursula Dabrowsky,Q5433095,Family Demons
+Q2982591,Colin Eggleston,Q5434157,Fantasm Comes Again
+Q726445,Richard Franklin,Q5434158,Fantasm
+Q117859608,John Meagher,Q5434311,Fantasy Man
+Q358804,John Duigan,Q5434525,Far East
+Q6387409,Ken Cameron,Q5436993,Fast Talking
+Q7150609,Paul Fenech,Q5437219,Fat Pizza
+Q7931560,Vince Monton,Q5437280,Fatal Bond
+Q3182311,John Power,Q5437557,Father
+Q1177479,Davida Allen,Q5441388,Feeling Sexy
+Q6228224,John D. Lamond,Q5441780,Felicity
+Q4799064,Arthur Higgins,Q5442455,Fellers
+Q5181140,Craig Lahiff,Q5446051,Fever
+Q113283562,Robert Marchand,Q5447214,Fields of Fire
+Q6829175,Michael Caulfield,Q5447870,Fighting Back
+Q16206339,Macario De Souza,Q5447888,Fighting Fear
+Q7369286,Ross Dimsey,Q5449370,Final Cut
+Q6097453,Ivan Sen,Q5451488,Fire Talker
+Q3421009,Raymond Longford,Q5454722,Fisher's Ghost
+Q117859294,Monica Pellizzari,Q5455347,Fistful of Flies
+Q2408644,Brian Hannant,Q5457663,Flashpoint
+Q435577,Clara Law,Q5459878,Floating Life
+Q7175721,Peter Maxwell,Q5462968,Fluteman
+Q3082659,Frank Howson,Q5463640,Flynn
+Q5041536,Carlo Ledesma,Q5465344,Food Matters
+Q6401926,Khoa Do,Q5466613,Footy Legends
+Q6904815,Monte Luke,Q5466672,For Australia
+Q7610796,Stephen Wallace,Q5466776,For Love Alone
+Q4723361,Alfred Rolfe,Q5467060,For the Honour of Australia
+Q6904815,Monte Luke,Q5467060,For the Honour of Australia
+Q5080538,Charles MacMahon,Q5467143,For the Term of His Natural Life
+Q3343763,Norman Dawn,Q5467144,For the Term of His Natural Life
+Q46933504,Anna Broinowski,Q5467352,Forbidden Lies
+Q4785317,Arch Nicholson,Q5472705,Fortress
+Q453792,Charles Chauvel,Q5472997,Forty Thousand Horsemen
+Q16230635,Matthew George,Q5475255,Four Jacks
+Q453792,Charles Chauvel,Q7381939,Russia Aflame
+Q7604855,Stavros Kazantzidis,Q7382032,Russian Doll
+Q3293340,Mario Andreacchio,Q7405219,Sally Marshall Is Not an Alien
+Q6789131,Matt Norman,Q7406323,Salute
+Q237268,Paul Cox,Q7406587,Salvation
+Q13411072,Jeremy Summers,Q7409694,Sammy's Super T-Shirt
+Q54855,Yoram Gross,Q7422032,Sarah
+Q4877593,Beaumont Smith,Q7425905,Satan in Sydney
+Q115244778,Boyd Hicklin,Q7428070,Save Your Legs!
+Q6524917,Leon Thau,Q7428108,Save the Lady
+Q3430994,Richard Lowenstein,Q7429060,Say a Little Prayer
+Q117885669,Terry Ohlsson,Q7434226,Scobie Malone
+Q453792,Charles Chauvel,Q7439021,Screen Test
+Q117860269,Luke Tierney,Q7439484,Scumbus
+Q6777645,Martyn Keith,Q7439874,Sea Dogs of Australia
+Q951522,Scott Hicks,Q7442560,Sebastian and the Sparrow
+Q57725813,Zelda Barron,Q7444075,Secret Places
+Q6833415,Michael Pattinson,Q7444459,Secrets
+Q5294199,Donald Crombie,Q7448534,Selkie
+Q6769600,Mark Savage,Q7451053,Sensitive New-Age Killer
+Q5321938,E. J. Cole,Q7451202,Sentenced for Life
+Q6904815,Monte Luke,Q7457302,Seven Keys to Baldpate
+Q4798890,Arthur Greville Collins,Q7457324,Seven Little Australians
+Q6939225,Murray Fahey,Q7458395,Sex Is a Four Letter Word
+Q113740338,Dick Ross,Q7460671,Shadow of the Boomerang
+Q115172881,David C. Rea,Q7491771,She'll Follow You Anywhere
+Q7931548,Vince Martin,Q7494630,Sher Mountain Killings Mystery
+Q1689216,Jim Sharman,Q7498866,Shirley Thompson vs. the Aliens
+Q117848446,Paul Harmon,Q7502504,Shotgun Wedding
+Q7117020,P.J. Ramster,Q7502658,Should Girls Kiss Soldiers?
+Q1449546,Alexander Butler,Q7502679,Should a Doctor Tell?
+Q7117020,P.J. Ramster,Q7502679,Should a Doctor Tell?
+Q7693669,Ted Robinson,Q7502765,Shout! The Story of Johnny O'Keefe
+Q4647281,A.R. Harwood,Q7502936,Show Business
+Q3343763,Norman Dawn,Q7503239,Showgirl's Luck
+Q524386,Earl Bellamy,Q7508363,Sidecar Racers
+Q106375916,Rob Stewart,Q7512687,Signal One
+Q4727711,Alkinos Tsilimidos,Q7514631,Silent Partner
+Q7173104,Peter Butt,Q7514688,Silent Storm
+Q6242416,John K. Wells,Q7515270,Silks and Saddles
+Q9339626,Sophia Turkiewicz,Q7515902,Silver City
+Q6372399,Karl Zwicky,Q7521869,Sinbad and The Minotaur
+Q3035855,Don McLennan,Q7538810,"Slate, Wyn & Me"
+Q113471495,Kate Glover,Q7539060,Slaughtered
+Q111908458,Dru Brown,Q7539788,Outback Revenge
+Q4772881,Anthony Kimmins,Q7544693,Smiley
+Q4772881,Anthony Kimmins,Q7544703,Smiley Gets a Gun
+Q1368884,Simon Wincer,Q7547366,Snapshot
+Q117845354,Robert Gibson,Q7548148,Snow: The Movie
+Q113456855,Christina Andreef,Q7553895,Soft Fruit
+Q453792,Charles Chauvel,Q7557400,Soldiers Without Uniform
+Q107346210,Tony Williams,Q7558417,Solo
+Q3323993,Morgan O'Neill,Q7558421,Solo
+Q18558778,Julius Avery,Q7560679,Son of a Gun
+Q56280810,Benjamin Gilmour,Q7560680,Son of a Lion
+Q453792,Charles Chauvel,Q7562326,Sons of Matthew
+Q113502641,Gary L. Keady,Q7562351,Sons of Steel
+Q7498695,Shirley Barrett,Q7568509,South Solitary
+Q5394414,Ernie Clark,Q7573492,Spank!
+Q4908103,Bill Bennett,Q7577049,Spider and Rose
+Q259687,Alex Proyas,Q7578083,"Spirits of the Air, Gremlins of the Clouds"
+Q3421009,Raymond Longford,Q7578451,Splendid Fellows
+Q4877593,Beaumont Smith,Q7578451,Splendid Fellows
+Q6389885,Kenneth Brampton,Q7578451,Splendid Fellows
+Q4647281,A.R. Harwood,Q7581550,Spur of the Moment
+Q6552806,Lindsay Shonteff,Q7581697,Spy Story
+Q708343,Marc Daniels,Q7582212,Squeeze a Flower
+Q13435404,Kevin James Dobson,Q7582364,Squizzy Taylor
+Q117858976,Brian McKenzie,Q7597991,Stan and George's New Life
+Q447694,Deborra-Lee Furness,Q7598520,Standing Room Only
+Q743866,Esben Storm,Q7599409,Stanley
+Q438911,Gillian Armstrong,Q7602448,Starstruck
+Q7610796,Stephen Wallace,Q7617526,Stir
+Q117859667,Ross McGregor,Q7617927,Stockade
+Q117864060,Hans Pomeranz,Q7617927,Stockade
+Q5213463,Dan Fallshaw,Q7618601,Stolen
+Q7933318,Violeta Ayala,Q7618601,Stolen
+Q7417274,Sandy Harbutt,Q7618838,Stone
+Q1414779,Richard Frankland,Q7618883,Stone Bros.
+Q114101415,Michael Craft,Q7619903,Storage
+Q7803256,Tim Burstall,Q7620062,Stork
+Q5181140,Craig Lahiff,Q7621579,Strangers
+Q6833415,Michael Pattinson,Q7622858,Street Hero
+Q5546611,George Young,Q7623764,Strike
+Q1738601,Ken G. Hall,Q7623787,Strike Me Lucky
+Q3430994,Richard Lowenstein,Q7623815,Strikebound
+Q4798890,Arthur Greville Collins,Q7624500,Strong Is the Seed
+Q5492176,Franklyn Barrett,Q7624973,Struck Oil
+Q913154,Brian Trenchard-Smith,Q7628788,Stunt Rock
+Q743866,Esben Storm,Q7632196,Subterano
+Q1689216,Jim Sharman,Q7637519,Summer of Secrets
+Q6504975,Lawson Harris,Q7641562,Sunshine Sally
+Q6134610,James Gilbert,Q7641656,Sunstruck
+Q117859236,Peter Cox,Q7646705,Surrender in Paradise
+Q113364994,David Wickes,Q7655074,Sweeney!
+Q7815438,Tom Cowan,Q7655278,Sweet Dreamers
+Q3421009,Raymond Longford,Q7655431,Sweet Nell of Old Drury
+Q16107356,Michael Jenkins,Q7655538,Sweet Talker
+Q5181140,Craig Lahiff,Q7655916,Swerve
+Q164131,John Polson,Q2943754,Siam Sunset
+Q106374626,Steve Murray,Q2962846,The Voyage that Shook the World
+Q715387,Bernard Toublanc-Michel,Q2972876,Five Ashore in Singapore
+Q6181881,Jeremy Sims,Q2986009,Beneath Hill 60
+Q259687,Alex Proyas,Q3007933,Garage Days
+Q298352,Lindsay Anderson,Q3010062,In Celebration
+Q199327,Leslie Norman,Q3012988,Summer of the Seventeenth Doll
+Q5041536,Carlo Ledesma,Q3015204,The Tunnel
+Q3293340,Mario Andreacchio,Q3018979,Napoleon
+Q19478093,David Drury,Q3021194,Defence of the Realm
+Q1374169,Rolf de Heer,Q3028325,Dingo
+Q539685,Michael Anderson,Q3034930,Dominique
+Q726445,Richard Franklin,Q3045502,Roadgames
+Q6372399,Karl Zwicky,Q3050175,Paws
+Q212466,Roy Boulting,Q3053676,"Soft Beds, Hard Battles"
+Q470601,Michael Radford,Q3056750,White Mischief
+Q55249,Ken Russell,Q3062514,Savage Messiah
+Q6791196,Matthew Saville,Q3068196,Felony
+Q95143,Carol Reed,Q3077330,Follow Me!
+Q951522,Scott Hicks,Q3087315,Freedom
+Q3293340,Mario Andreacchio,Q3099419,Paradise Found
+Q552814,John Hillcoat,Q3104975,Ghosts… of the Civil Dead
+Q52411,Tony Richardson,Q3112204,Ned Kelly
+Q1368884,Simon Wincer,Q3127478,Harlequin
+Q453792,Charles Chauvel,Q3149754,In the Wake of the Bounty
+Q16230635,Matthew George,Q3154511,Under the Gun
+Q453792,Charles Chauvel,Q3176350,Jedda
+Q945227,Yves Allégret,Q3201772,The Restless and the Damned
+Q29055369,William Sterling,Q3203885,The Fighting Cock
+Q5715671,Henri Safran,Q3204787,The Edge of Power
+Q1637771,Harry Watt,Q3205730,The Siege of Pinchgut
+Q3293340,Mario Andreacchio,Q3206345,Elephant Tales
+Q4777184,Antony Balch,Q3209606,Horror Hospital
+Q285928,Lewis Milestone,Q3210106,Kangaroo
+Q920584,Alan Bridges,Q3211385,The Shooting Party
+Q711178,Roy Ward Baker,Q3221513,The Monster Club
+Q2129634,Ralph Habib,Q3225286,The Stowaway
+Q3228926,Lee Robinson,Q3225286,The Stowaway
+Q1241761,Peter Cattaneo,Q3227001,Opal Dream
+Q1339491,Peter Watkins,Q3228241,Resan
+Q4785317,Arch Nicholson,Q3231930,Dark Age
+Q291205,Anne Fontaine,Q3233052,Two Mothers
+Q913154,Brian Trenchard-Smith,Q3235799,Turkey Shoot
+Q51559,Sidney Lumet,Q3241699,Murder on the Orient Express
+Q7704133,Terry Bourke,Q3256662,Little Boy Lost
+Q2982591,Colin Eggleston,Q3259052,Long Weekend
+Q107640222,Belinda Chayko,Q3260102,Lou
+Q2086305,Philip Leacock,Q3281502,Adam's Woman
+Q6129930,James Bogle,Q3283639,Closed for Winter
+Q449220,Bruce Beresford,Q3283835,Puberty Blues
+Q117860898,Geoff Bennett,Q3285042,Hating Alison Ashley
+Q3054378,Pete Walker,Q3324563,House of Mortal Sin
+Q55424,Peter Weir,Q3331431,The Plumber
+Q328660,George T. Miller,Q3358884,Over the Hill
+Q113155410,Anna Reeves,Q3359190,Oyster Farmer
+Q726445,Richard Franklin,Q3369170,Patrick
+Q3808611,Jocelyn Moorhouse,Q3407500,Proof
+Q117858959,Kit Laughlin,Q3410806,The Comeback
+Q5181140,Craig Lahiff,Q3414343,Black and White
+Q6768251,Mark Joffe,Q3415133,Grievous Bodily Harm
+Q3323993,Morgan O'Neill,Q3415674,Drift
+Q3430994,Richard Lowenstein,Q3415693,He Died with a Felafel in His Hand
+Q1374169,Rolf de Heer,Q3415982,Epsilon
+Q7610796,Stephen Wallace,Q3416461,Blood Oath
+Q3504464,Dennis O'Rourke,Q3416832,Half Life: A Parable for the Nuclear Age
+Q55424,Peter Weir,Q3417503,Homesdale
+Q3237296,Lewis John Carlino,Q3418158,The Sailor Who Fell from Grace with the Sea
+Q1174676,David Hare,Q3420924,Wetherby
+Q436829,Russell Mulcahy,Q3421387,Razorback
+Q267138,Yahoo Serious,Q3421998,Reckless Kelly
+Q117844887,Barry Peak,Q3422550,As Time Goes By
+Q3369526,Patrick Hughes,Q3422730,Red Hill
+Q320259,Kevin Connor,Q3423405,From Beyond the Grave
+Q441964,Massimo Dallamano,Q3423896,Blue Belle
+Q1374169,Rolf de Heer,Q3425650,The Quiet Room
+Q4440,Eric Bana,Q3427546,Love the Beast
+Q460090,Ronald Neame,Q3428498,Foreign Body
+Q3815730,Kivu Ruhorahoza,Q3428568,Grey Matter
+Q532307,Nadia Tass,Q3428577,Matching Jack
+Q303891,Lewis Gilbert,Q3429121,Not Quite Paradise
+Q113365835,Megan Simpson Huberman,Q3429332,Dating the Enemy
+Q6488485,Pip Karmel,Q3429348,Me Myself I
+Q112093308,Jeff Balsmeyer,Q3430722,Danny Deckchair
+Q1361200,John Lee Hancock,Q3474574,Saving Mr. Banks
+Q113997167,Peter Carstairs,Q3478948,September
+Q7612946,Steve Jodrell,Q3481306,Shame
+Q117859466,Elise McCredie,Q3488146,Strange Fits of Passion
+Q310217,David Hemmings,Q3488530,The Survivor
+Q230448,Jane Campion,Q3488565,Sweetie
+Q122666,Carl Schenkel,Q3488756,Tarzan and the Lost City
+Q4908103,Bill Bennett,Q3489980,The Nugget
+Q7498695,Shirley Barrett,Q3491414,Love Serenade
+Q6185374,Jerzy Domaradzki,Q3500604,Struck by Lightning
+Q7803305,Tim Chey,Q3503180,Suing the Devil
+Q3195038,Q3195038,Q3503675,Summerfield
+Q3195038,Q3195038,Q3503837,Sunday Too Far Away
+Q3504464,Dennis O'Rourke,Q3506122,Cannibal Tours
+Q1097219,Claude Whatham,Q3519615,That'll Be the Day
+Q940924,Lionel Jeffries,Q3519757,The Amazing Mr Blunden
+Q543700,Jack Gold,Q3520236,The Chain
+Q722890,Michael Winner,Q465939,The Wicked Lady
+Q51564,John Landis,Q467290,An American Werewolf in London
+Q346508,Richard Lester,Q470584,The Four Musketeers
+Q23822013,Drew Heriot,Q472197,The Secret
+Q728362,Dominic Sena,Q486954,Swordfish
+Q1107744,Alejandro Agresti,Q487138,The Lake House
+Q3376846,Peter Richardson,Q489117,Eat the Rich
+Q343888,Radley Metzger,Q502690,The Cat and the Canary
+Q113139208,Darren Ashton,Q505053,Thunderstruck
+Q55424,Peter Weir,Q505135,Green Card
+Q55424,Peter Weir,Q505148,The Year of Living Dangerously
+Q287607,Rob Reiner,Q506418,The Princess Bride
+Q521262,Donald Petrie,Q532372,Miss Congeniality
+Q928353,Michael Pate,Q546256,Tim
+Q1372455,Richard Loncraine,Q549574,Firewall
+Q55411,Wim Wenders,Q571053,Until the End of the World
+Q543700,Jack Gold,Q571167,Little Lord Fauntleroy
+Q1494859,Gary Fleder,Q572437,Don't Say a Word
+Q55282,Peter Greenaway,Q573762,The Belly of an Architect
+Q55428,Neil Jordan,Q574057,Mona Lisa
+Q56093,Blake Edwards,Q579480,The Return of the Pink Panther
+Q2837213,Alister Grierson,Q580351,Sanctum
+Q2094420,Stephan Elliott,Q594030,Frauds
+Q951522,Scott Hicks,Q599420,The Lucky One
+Q106375401,Scott Roberts,Q600253,The Hard Word
+Q19872804,Dean Murphy,Q601100,Strange Bedfellows
+Q55428,Neil Jordan,Q609936,The Company of Wolves
+Q1346651,Stuart Gordon,Q612373,Fortress
+Q7173921,Peter Faiman,Q615254,Crocodile Dundee
+Q314301,Peter Yates,Q620731,The Dresser
+Q139890,Zack Snyder,Q622763,Legend of the Guardians: The Owls of Ga'Hoole
+Q449220,Bruce Beresford,Q622877,Mao's Last Dancer
+Q4062581,Q4062581,Q623072,Aquamarine
+Q309214,Norman Jewison,Q627209,Rollerball
+Q282127,Laurence Dunmore,Q633307,The Libertine
+Q166159,Terry Jones,Q644299,Personal Services
+Q60634,Oliver Hirschbiegel,Q652592,The Invasion
+Q456008,James McTeigue,Q652592,The Invasion
+Q1303837,Ron Underwood,Q655051,The Adventures of Pluto Nash
+Q51547,Billy Wilder,Q656910,Fedora
+Q48765,Stanley Donen,Q657075,Saturn 3
+Q4407926,Damon Santostefano,Q665126,Three to Tango
+Q438911,Gillian Armstrong,Q666422,Death Defying Acts
+Q2424831,James Cellan Jones,Q669359,Bequest to the Nation
+Q1363428,Joseph Kahn,Q670055,Torque
+Q357183,Jaume Collet-Serra,Q679679,House of Wax
+Q721107,Robert Luketic,Q682904,Monster-in-Law
+Q2744017,Ray Lawrence,Q690463,Lantana
+Q446960,George Miller,Q690892,Babe: Pig in the City
+Q51461,Sam Peckinpah,Q699679,Cross of Iron
+Q438911,Gillian Armstrong,Q705230,Charlotte Gray
+Q504722,George P. Cosmatos,Q706586,The Cassandra Crossing
+Q1892718,Marc Lawrence,Q719823,Two Weeks Notice
+Q185846,Chris Noonan,Q720724,Babe
+Q117859308,Eric Dionysius,Q722574,AC/DC: Let There Be Rock
+Q117860508,Eric Mistler,Q722574,AC/DC: Let There Be Rock
+Q470818,Ken Annakin,Q731335,The Pirate Movie
+Q55258,Stephen Frears,Q735314,My Beautiful Laundrette
+Q1640718,Ian Sharp,Q742480,Who Dares Wins
+Q3343793,Norman J. Warren,Q743463,Inseminoid
+Q17887,Jack Clayton,Q745921,The Lonely Passion of Judith Hearne
+Q56436167,Stuart McDonald,Q747818,Stranded
+Q5667433,Harry Booth,Q759896,On the Buses
+Q951522,Scott Hicks,Q761548,No Reservations
+Q6742516,Malcolm Mowbray,Q769337,A Private Function
+Q5047214,Carter Smith,Q772260,The Ruins
+Q951522,Scott Hicks,Q780434,Hearts in Atlantis
+Q913154,Brian Trenchard-Smith,Q796792,BMX Bandits
+Q1374169,Rolf de Heer,Q798641,Bad Boy Bubby
+Q446960,George Miller,Q816857,Happy Feet Two
+Q951522,Scott Hicks,Q826494,Shine
+Q6375868,Kate Woods,Q834367,Looking for Alibrandi
+Q6768251,Mark Joffe,Q839908,The Man Who Sued God
+Q487069,Mikael Salomon,Q1585018,Hard Rain
+Q1337082,Freddie Francis,Q1615432,Tales from the Crypt
+Q976248,Peter Collinson,Q1617093,The Earthling
+Q55277,John Boorman,Q1624413,Hope and Glory
+Q5981361,Ian Darling,Q4734386,Alone Across Australia
+Q27043697,Jon Muir,Q4734386,Alone Across Australia
+Q7803256,Tim Burstall,Q4738201,Alvin Purple
+Q5231407,David Bilcock,Q4738206,Alvin Rides Again
+Q7352335,Robin Copping,Q4738206,Alvin Rides Again
+Q7668046,T.O. McCreadie,Q4738397,Always Another Dawn
+Q532307,Nadia Tass,Q4749060,Amy
+Q6537578,Lex Marinos,Q4750061,An Indecent Obsession
+Q6234993,John Gavin,Q4750086,An Interrupted Divorce
+Q2397306,Michael Rymer,Q4762078,Angel Baby
+Q5542148,George Marlow,Q4762335,Angel of his Dreams
+Q47799114,Daniel Nettheim,Q4763958,Angst
+Q5560473,Gil Brealey,Q4769203,Annie's Coming Out
+Q2342969,Rob Sitch,Q4778174,Any Questions for Ben?
+Q328660,George T. Miller,Q4778424,Anzacs
+Q38030232,Sarah Spillane,Q4795619,Around the Block
+Q86468409,Phil K. Walsh,Q4795621,Around the Boree Log
+Q27902911,Geoff Collins,Q4795645,Around the World in 80 Days
+Q110620104,Stephen MacLean,Q4795652,Around the World in 80 Ways
+Q6234993,John Gavin,Q4808851,Assigned to his Wife
+Q131349926,Simon Heath,Q4812357,At Last... Bullamakanka: The Motion Picture
+Q1351727,Val Guest,Q4818956,Au Pair Girls
+Q5492176,Franklyn Barrett,Q4823511,Australia's Peril
+Q6228224,John D. Lamond,Q4823558,Australia After Dark
+Q3421009,Raymond Longford,Q4823565,Australia Calls
+Q3421009,Raymond Longford,Q4823566,Australia Calls
+Q6116523,Jackie McKimmie,Q4824097,Australian Dream
+Q3430994,Richard Lowenstein,Q4824403,Australian Made: The Movie
+Q5523655,Garnet Mae,Q4824563,Australian Pie
+Q2059818,Paul Goldman,Q4824629,Australian Rules
+Q117860580,Chris McCullough,Q4828080,Avengers of the Reef
+Q117885652,Solrun Hoaas,Q4830757,Aya
+Q118121478,Rivka Hartman,Q4838755,Bachelor Girl
+Q6833913,Michael Robertson,Q4839322,Back of Beyond
+Q4908103,Bill Bennett,Q4839678,Backlash
+Q543563,Phillip Noyce,Q4839718,Backroads
+Q7519865,Simon Target,Q4839735,Backsliding
+Q3087612,Jonathan Hardy,Q4839748,Backstage
+Q113443066,Samuel Genocchio,Q4840227,Bad Bush
+Q7678712,Tal Ordell,Q7744230,The Kid Stakes
+Q114247002,Duke Hendrix,Q7744309,The Killbillies
+Q5294199,Donald Crombie,Q7744384,The Killing of Angel Street
+Q1374169,Rolf de Heer,Q7744536,The King is Dead
+Q55450160,Alexander MacDonald,Q7744639,The Kingdom of Twilight
+Q4723361,Alfred Rolfe,Q7745142,The Lady Outlaw
+Q5715671,Henri Safran,Q7745325,The Lancaster Miller Affair
+Q6831596,Michael James Rowland,Q7745633,The Last Confession of Alexander Pearce
+Q711178,Roy Ward Baker,Q2846031,And Now the Screaming Starts!
+Q106571796,Mat King,Q2849360,Angela's Decision
+Q1700561,John Irvin,Q2868433,Turtle Diary
+Q114774897,Dean O'Flaherty,Q2893302,Beautiful
+Q2094420,Stephan Elliott,Q2902017,Welcome to Woop Woop
+Q7615350,Steven Vidler,Q2905586,Blackrock
+Q16193147,Jon Hewitt,Q2914816,X: Night of Vengeance
+Q4647281,A.R. Harwood,Q7033248,Night Club
+Q7704133,Terry Bourke,Q7033649,Night of Fear
+Q6228224,John D. Lamond,Q7033968,Nightmares
+Q113364998,Aleksi Vellis,Q7040133,Nirvana Street Murder
+Q5233328,David Elfick,Q7045189,No Worries
+Q5715671,Henri Safran,Q7052513,Norman Loves Rose
+Q703727,Fred Schepisi,Q3520601,The Devil's Playground
+Q6260281,John Tatoulis,Q7764269,The Silver Brumby
+Q4723361,Alfred Rolfe,Q7764377,The Sin of a Woman
+Q438911,Gillian Armstrong,Q7764395,The Singer and the Dancer
+Q106375916,Rob Stewart,Q7764834,The Slim Dusty Movie
+Q1351191,Richard Flanagan,Q7765441,The Sound of One Hand Clapping
+Q976248,Peter Collinson,Q7765886,The Spiral Staircase
+Q1738601,Ken G. Hall,Q7766105,The Squatter's Daughter
+Q827300,Bert Bailey,Q7766106,The Squatter's Daughter
+Q5321938,E. J. Cole,Q7766108,The Squatter's Son
+Q350717,Michael Apted,Q7766115,The Squeeze
+Q117859223,Barbara Boyd-Anderson,Q7766527,The Still Point
+Q131438804,Andy Clemmensen,Q7766796,The Story of Short Stack
+Q5424085,Francis William Thring,Q7767008,The Streets of London
+Q115244779,Robert Carter,Q7767193,The Sugar Factory
+Q5321938,E. J. Cole,Q7767404,The Sundowner
+Q4723361,Alfred Rolfe,Q7767432,The Sunny South or The Whirlwind of Fate
+Q5489550,Frank Shields,Q7767517,The Surfer
+Q3421009,Raymond Longford,Q7767581,The Swagman's Story
+Q7358887,Roger Scholes,Q7767971,The Tale of Ruby Rose
+Q7117020,P.J. Ramster,Q7767988,The Tale of a Shirt
+Q45235592,Thomas William Haydon,Q7768026,The Talgai Skull
+Q105044112,Jonathan Ogilvie,Q7768424,The Tender Hook
+Q3421009,Raymond Longford,Q7769215,The Tide of Death
+Q358804,John Duigan,Q7770125,The Trespassers
+Q7117020,P.J. Ramster,Q7770288,The Triumph of Love
+Q80966,Cate Blanchett,Q7770748,The Turning
+Q228865,Mia Wasikowska,Q7770748,The Turning
+Q296328,David Wenham,Q7770748,The Turning
+Q2442472,Tony Ayres,Q7770748,The Turning
+Q2852895,Anthony Lucas,Q7770748,The Turning
+Q4461183,Warwick Thornton,Q7770748,The Turning
+Q5125261,Claire McCarthy,Q7770748,The Turning
+Q5907732,Ian Meadows,Q7770748,The Turning
+Q6317793,Justin Kurzel,Q7770748,The Turning
+Q7343062,Robert Connolly,Q7770748,The Turning
+Q7490858,Shaun Gladwell,Q7770748,The Turning
+Q7519836,Simon Stone,Q7770748,The Turning
+Q7610184,Stephen Page,Q7770748,The Turning
+Q8049440,Yaron Lifschitz,Q7770748,The Turning
+Q29442224,Jonathan auf der Heide,Q7770748,The Turning
+Q29442226,Jub Clerc,Q7770748,The Turning
+Q29442229,Rhys Graham,Q7770748,The Turning
+Q29442230,Ashlee Page,Q7770748,The Turning
+Q29442232,Marieka Walsh,Q7770748,The Turning
+Q6387409,Ken Cameron,Q7771254,The Umbrella Woman
+Q117848445,Dan Castle,Q7772901,The Visitor
+Q5125261,Claire McCarthy,Q7773224,The Waiting City
+Q7027179,Nick Giannopoulos,Q7773437,The Wannabes
+Q460080,Simon Langton,Q7774445,The Whistle Blower
+Q108487381,Dean Covell,Q7774811,The Wiggles Movie
+Q109648674,Chisholm McTavish,Q7774817,The Wiggly Big Show
+Q5715671,Henri Safran,Q7774853,The Wild Duck
+Q979175,Frank Launder,Q7774931,The Wildcats of St Trinian's
+Q118054415,Mark Egerton,Q7775106,The Winds of Jarrah
+Q113364998,Aleksi Vellis,Q7775405,The Wog Boy
+Q5546394,George Willoughby,Q7775547,The Woman in the Case
+Q55234,Michael Powell,Q7783640,They're a Weird Mob
+Q130527395,Andrew Steane,Q7783711,They Found a Cave
+Q6142088,James Ricketson,Q7784919,Third Person Plural
+Q115244779,Robert Carter,Q7785141,Thirst
+Q1738601,Ken G. Hall,Q7796630,Thoroughbred
+Q7693669,Ted Robinson,Q7796818,Those Dear Departed
+Q7117020,P.J. Ramster,Q7796876,Those Who Love
+Q7154855,Paulette McDonagh,Q7796876,Those Who Love
+Q6006487,Matthew Newton,Q7797343,Three Blind Mice
+Q7343062,Robert Connolly,Q7797456,Three Dollars
+Q5546611,George Young,Q7797855,Three Strings to Her Bow
+Q5056131,Cecil Holmes,Q7797967,Three in One
+Q55424,Peter Weir,Q7798017,Three to Go
+Q2408644,Brian Hannant,Q7798017,Three to Go
+Q6234993,John Gavin,Q7799108,Thunderbolt
+Q5549357,Gerald M. Hayle,Q7801422,Tiger Island
+Q549821,Michael Petroni,Q7802187,Till Human Voices Wake Us
+Q918558,John Seale,Q7802205,Till There Was You
+Q6372399,Karl Zwicky,Q7811037,To Make a Killing
+Q117848487,Virginia Rouse,Q7811041,To Market To Market
+Q4727711,Alkinos Tsilimidos,Q7818034,Tom White
+Q17007964,Nathan Hill,Q7818700,Tomboys
+Q6097453,Ivan Sen,Q7824128,Toomelah
+Q109648674,Chisholm McTavish,Q7824237,Toot Toot
+Q7175721,Peter Maxwell,Q7828633,Touch and Go
+Q4877593,Beaumont Smith,Q7830132,Townies and Hayseeds
+Q1773566,John Curran,Q7831579,Tracks
+Q3564549,W. J. Lincoln,Q7835300,Transported
+Q545146,Pauline Chan,Q7835668,Traps
+Q57415831,Kathryn Millard,Q7836076,Travelling Light
+Q1040537,Carl Schultz,Q7836079,Travelling North
+Q114028143,Salik Silverstein,Q7845119,Trojan Warrior
+Q3421009,Raymond Longford,Q7845562,Trooper Campbell
+Q6234993,John Gavin,Q7845565,Trooper O'Brien
+Q7604855,Stavros Kazantzidis,Q7847467,True Love and Chaos
+Q113572908,Clive Fleury,Q7853299,Tunnel Vision
+Q7610796,Stephen Wallace,Q7856378,Turtle Beach
+Q6988244,Neil Armfield,Q7857556,Twelfth Night
+Q22278226,Matthew Holmes,Q7858279,Twin Rivers
+Q7693669,Ted Robinson,Q7858867,Two Brothers Running
+Q63256461,Shawn Seet,Q7858956,"Two Fists, One Heart"
+Q7154855,Paulette McDonagh,Q7859110,Two Minutes Silence
+Q7047118,Noel Monkman,Q7861333,Typhoon Treasure
+Q453792,Charles Chauvel,Q7882671,Uncivilised
+Q114012299,Graeme Rattigan,Q7883338,Under the Lighthouse Dancing
+Q113585891,Evan Clarry,Q7883370,Under the Radar
+Q5240080,David Stevens,Q7883485,Undercover
+Q2907645,Bob Ellis,Q7884332,Unfinished Business
+Q16195520,Peter Duncan,Q7884348,Unfinished Sky
+Q438911,Gillian Armstrong,Q7884372,Unfolding Florence: The Many Lives of Florence Broadhurst
+Q4908103,Bill Bennett,Q7885255,Uninhabited
+Q117860847,Margot Nash,Q7907878,Vacant Possession
+Q726445,Richard Franklin,Q7936343,Visitors
+Q6116523,Jackie McKimmie,Q7960530,Waiting
+Q106376673,Glenda Hambly,Q7960552,Waiting at the Royal
+Q108487381,Dean Covell,Q7960978,Wake Up Jeff!
+Q725520,Ted Kotcheff,Q7961003,Wake in Fright
+Q543779,Marcello Pagliero,Q7962022,Walk Into Paradise
+Q3228926,Lee Robinson,Q7962022,Walk Into Paradise
+Q18610052,Patricia Zagarella,Q7962074,Walk like a Man
+Q7498695,Shirley Barrett,Q7962123,Walk the Talk
+Q3421009,Raymond Longford,Q7966850,Waltzing Matilda
+Q7143507,Pat Hanna,Q7966850,Waltzing Matilda
+Q2907645,Bob Ellis,Q7969557,Warm Nights on a Slow Moving Train
+Q114778324,Ben C. Lucas,Q7972859,Wasted on the Young
+Q4723361,Alfred Rolfe,Q7975793,Way Outback
+Q3421009,Raymond Longford,Q7977067,We'll Take Her Children in Amongst Our Own
+Q5993122,Igor Auzins,Q7977894,We of the Never Never
+Q7816324,Tom Jeffrey,Q7979464,Weekend of Shadows
+Q4785317,Arch Nicholson,Q7979467,Weekend with Kate
+Q108486869,Alan Lowery,Q7980664,Welcome to Australia
+Q106374616,James Short,Q7980771,Welcome to Wonderland
+Q5217833,Daniel Krige,Q7984203,West
+Q117861467,John Hughes,Q7991170,What I Have Written
+Q4723361,Alfred Rolfe,Q7991439,What Women Suffer
+Q7196373,Pino Amenta,Q7991628,What the Moon Saw
+Q5672514,Harry Southwell,Q7992989,When the Kellys Rode
+Q5672514,Harry Southwell,Q7992991,When the Kellys Were Out
+Q17635072,Michael Gordon,Q7993502,Wherever She Goes
+Q453792,Charles Chauvel,Q7993621,While There is Still Time
+Q4877593,Beaumont Smith,Q7993637,While the Billy Boils
+Q7380315,Rupert Kathner,Q7994637,White Death
+Q4723361,Alfred Rolfe,Q7997675,Whose Was the Hand?
+Q131349770,Phillip Cullen,Q7999610,Wiggle Time
+Q109648674,Chisholm McTavish,Q7999612,Wiggle Time
+Q108487381,Dean Covell,Q7999616,Wiggledance!
+Q4772506,Anthony Field,Q7999623,"Wiggly, Wiggly Christmas"
+Q5606096,Greg Page,Q7999623,"Wiggly, Wiggly Christmas"
+Q6173805,Jeff Fatt,Q7999623,"Wiggly, Wiggly Christmas"
+Q6939173,Murray Cook,Q7999623,"Wiggly, Wiggly Christmas"
+Q131414412,Dean Covell,Q7999623,"Wiggly, Wiggly Christmas"
+Q131414426,Borce Damcevski,Q7999623,"Wiggly, Wiggly Christmas"
+Q7302045,Rebel Penfold-Russell,Q8002650,WillFull
+Q4723361,Alfred Rolfe,Q8003246,Will they Never Come?
+Q101526170,Bob Weis,Q8022462,Wills & Burke
+Q7380315,Rupert Kathner,Q8025290,Wings of Destiny
+Q358804,John Duigan,Q8026400,Winter of Our Dreams
+Q743866,Esben Storm,Q8028034,With Prejudice
+Q6904815,Monte Luke,Q8028194,Within the Law
+Q7172533,Peter Andrikidis,Q8029053,Wog Boy 2: Kings of Mykonos
+Q4723361,Alfred Rolfe,Q8031696,Won on the Post
+Q4712877,Alby Mangels,Q8036128,World Safari
+Q114804146,Jon Cohen,Q8038605,Wrong Answer
+Q29617984,Ned Lander,Q8038627,Wrong Side of the Road
+Q5982634,Ian Pringle,Q8038631,Wrong World
+Q117859091,Dave Jones,Q8046466,Yackety Yack
+Q117859654,Michael Cordell,Q8050907,Year of the Dogs
+Q106375394,Stephen Johnson,Q8054799,Yolngu Boy
+Q24191411,David Cahill,Q8057049,You Can't See 'round Corners
+Q6755588,Marc Gracie,Q8057696,You and Your Stupid Mate
+Q6260281,John Tatoulis,Q8073901,Zone 39
+Q5128834,Claude Flemming,Q8084057,£500 Reward
+Q106376673,Glenda Hambly,Q8565317,Fran
+Q3308492,Michael Rubbo,Q9372726,Much Ado About Something
+Q113853249,Susan Beak,Q9372912,Easter in Bunnyland
+Q113853251,Geoff Beak,Q9372912,Easter in Bunnyland
+Q124708547,Erin Good,Q10295371,Hi-5: Some Kind of Wonderful
+Q2065707,Hugh Keays-Byrne,Q10359846,Resistance
+Q3421009,Raymond Longford,Q10381639,The Mutiny of the Bounty
+Q2837213,Alister Grierson,Q10968934,Kokoda
+Q7175721,Peter Maxwell,Q11160748,The Highest Honor
+Q5980854,Ian Barry,Q11310825,Joey
+Q113586169,Martin Murphy,Q11786367,Lost Things
+Q5230608,David Adams,Q12046473,Q12046473
+Q380608,Paul W. S. Anderson,Q12049257,Resident Evil: The Final Chapter
+Q259687,Alex Proyas,Q12081644,Q12081644
+Q11866390,Jerry Jameson,Q12084474,Raise the Titanic
+Q7804290,Tim Slade,Q12100164,4
+Q259687,Alex Proyas,Q12101009,Q12101009
+Q7380315,Rupert Kathner,Q12102124,Below the Surface
+Q5113401,Christopher Weekes,Q12102493,Bitter & Twisted
+Q1738601,Ken G. Hall,Q12104370,The Broken Melody
+Q16104830,Nigel Buesst,Q12105634,Carlton + Godard = Cinema
+Q3054378,Pete Walker,Q12108769,The Comeback
+Q108829796,Paul Moloney,Q12110058,Crackerjack
+Q470295,Helena Norberg-Hodge,Q12117142,The Economics of Happiness
+Q21494827,John Page,Q12117142,The Economics of Happiness
+Q95217210,Steven Gorelick,Q12117142,The Economics of Happiness
+Q6255888,John Ruane,Q12120119,Feathers
+Q4756792,Andrew Denton,Q12124567,God on My Side
+Q50348439,Alex Stitt,Q12124668,Grendel Grendel Grendel
+Q5294199,Donald Crombie,Q12124764,The Heroes
+Q726445,Richard Franklin,Q12124874,Hotel Sorrento
+Q117863156,Alec Morgan,Q12124935,Hunt Angels
+Q113427504,Colin Budds,Q12124942,Hurricane Smith
+Q42314136,Aash Aaron,Q12124989,I.C.U.
+Q6438600,Kriv Stenders,Q12125013,The Illustrated Family Doctor
+Q4908103,Bill Bennett,Q12125031,In a Savage Land
+Q5178817,Cousin Creep,Q12125058,In the Raw
+Q237268,Paul Cox,Q12125099,Inside Looking Out
+Q3018459,David Michôd,Q12125102,Inside the Square
+Q3130016,Phillip Adams,Q12125196,Jack and Jill: A Postscript
+Q9544977,Lilly Wachowski,Q12125299,Jupiter Ascending
+Q9545711,Lana Wachowski,Q12125299,Jupiter Ascending
+Q5294199,Donald Crombie,Q12125409,Kitty and the Bagman
+Q4476256,Sarah Watt,Q12125818,Look Both Ways
+Q657354,Richard Eyre,Q12125826,Loose Connections
+Q2011694,P. J. Hogan,Q12126147,Mental
+Q4717014,Alex Frayne,Q12126226,Modern Love
+Q4908103,Bill Bennett,Q12126273,Mortgage
+Q267138,Yahoo Serious,Q12126301,Mr. Accident
+Q237268,Paul Cox,Q12126390,My First Wife
+Q6791196,Matthew Saville,Q12126635,Noise
+Q22323661,Peter Templeman,Q12126653,Not Suitable for Children
+Q5558012,Gian Carlo Petraccaro,Q12126705,Offside
+Q6816554,Mende Brown,Q12126741,On the Run
+Q16875236,Sinem Saban,Q12126820,Our Generation
+Q110989897,Craig Monahan,Q12126894,Peaches
+Q6229465,John Dingwall,Q12126904,Phobia
+Q1773566,John Curran,Q12126942,Praise
+Q113443051,Antony J. Bowman,Q12127097,Relatives
+Q1738601,Ken G. Hall,Q12127551,Smithy
+Q3018459,David Michôd,Q12127579,Solo
+Q117859684,Eugene Schlusser,Q12128161,A Sting in the Tale
+Q7634026,Sue Brooks,Q12128471,Subdivision
+Q4777214,Antony I. Ginnane,Q12128666,Sympathy in Summer
+Q1738601,Ken G. Hall,Q12129000,That's Cricket
+Q5107089,Chris Kennedy,Q12129249,This Won't Hurt a Bit
+Q726445,Richard Franklin,Q12129827,The True Story of Eskimo Nell
+Q112167786,Marc Furmie,Q12131238,Venger
+Q7931560,Vince Monton,Q12376074,Point of No Return
+Q21067198,Kiah Roache-Turner,Q12816822,Wyrmwood
+Q61770178,Kim Mordaunt,Q13016302,The Rocket
+Q5487140,Frank Harvey,Q13422558,Within Our Gates
+Q1738601,Ken G. Hall,Q13423101,"100,000 Cobbers"
+Q1027551,Nash Edgerton,Q13582546,The Square
+Q113163074,Keith Wilkes,Q13846464,The Local Rag
+Q3421009,Raymond Longford,Q14156944,Sunrise
+Q6261681,John V. Soto,Q14921984,The Reckoning
+Q16258146,Martyn Park,Q15039025,Isolate
+Q117848460,Richard Ryan,Q15039027,Offspring
+Q110265386,Chris Thomson,Q15039371,A Place in the World
+Q108415797,Q108415797,Q15039372,Act of Necessity
+Q7693669,Ted Robinson,Q15039373,After Marcuse
+Q106375199,David Baker,Q15039374,Airhawk
+Q5993122,Igor Auzins,Q15039376,All at Sea
+Q114681286,Paul Eddey,Q15039378,The Alternative
+Q5240080,David Stevens,Q15039379,Always Afternoon
+Q5259200,Denny Lawrence,Q15039381,Archer
+Q117845369,Di Drew,Q15039384,Banduk
+Q544016,Norman Panama,Q15039385,Barnaby and Me
+Q7196373,Pino Amenta,Q15039386,Barracuda
+Q1559143,Ralph Nelson,Q15039388,Because He's My Friend
+Q3372327,Paul Turner,Q15039389,Becca
+Q117860199,Mike Smith,Q15039390,Big Ideas
+Q110265386,Chris Thomson,Q15039391,Big Toys
+Q3182311,John Power,Q15039392,Billy and Percy
+Q30101204,Eric Tayler,Q15039393,Bit Part
+Q5980854,Ian Barry,Q15039396,Bodysurfer
+Q118106700,John Smythe,Q15039398,Brumby Innes
+Q16893633,Oscar Whitbread,Q15039399,Burn the Butterflies
+Q106375911,Peter Smith,Q15039405,Children of the Dragon
+Q230448,Jane Campion,Q15039406,Dancing Daze
+Q2176884,Russ Mayberry,Q15039407,Danger Down Under
+Q16535068,Catherine Millar,Q15039408,Darlings of the Gods
+Q7150361,Paul Drane,Q15039409,Darwin 1942
+Q7176884,Peter Sharp,Q15039410,Dead Man's Float
+Q5993122,Igor Auzins,Q15039412,Death Train
+Q1269321,Kevin Dobson,Q15039413,Demolition
+Q113163074,Keith Wilkes,Q15039414,Departmental
+Q112471612,Geoffrey Nottage,Q15039416,Displaced Persons
+Q15491962,Ian Gilmour,Q15039420,Double Sculls
+Q3182311,John Power,Q15039422,Escape from Singapore
+Q113141374,Julian Pringle,Q15039423,Essington
+Q16535068,Catherine Millar,Q15039425,Every Move She Makes
+Q5715671,Henri Safran,Q15039427,Flair
+Q3110896,Gordon Flemyng,Q15039428,Flight into Hell
+Q56419016,Brendan Maher,Q15039430,Glass Babies
+Q2388845,Michael Carson,Q15039467,Intimate Strangers
+Q2388845,Michael Carson,Q15039468,Jackaroo
+Q6387409,Ken Cameron,Q15039470,Joh's Jury
+Q1040537,Carl Schultz,Q15039473,Levkas Man
+Q111926376,Frank Arnold,Q15039475,Linehaul
+Q7610796,Stephen Wallace,Q15039479,Mail Order Bride
+Q7175721,Peter Maxwell,Q15039480,Mama's Gone A-Hunting
+Q110265386,Chris Thomson,Q15039481,Man of Letters
+Q665744,Gary Conway,Q15039484,Matthew and Son
+Q6795333,Max Varnel,Q15039485,McManus MPB
+Q106375916,Rob Stewart,Q15039489,Naked Under Capricorn
+Q7196373,Pino Amenta,Q15039490,Nancy Wake
+Q2388845,Michael Carson,Q15039491,Natural Causes
+Q18215119,Robert Michael Lewis,Q15039492,No Room to Run
+Q6228224,John D. Lamond,Q15039494,North of Chiang Mai
+Q117859142,Mark Callen,Q15039496,One Summer Again
+Q16893633,Oscar Whitbread,Q15039498,Outbreak of Love
+Q5259200,Denny Lawrence,Q15039500,Palace of Dreams
+Q117860803,Brian Bell,Q15039505,Players in the Gallery
+Q922905,Gordon Hessler,Q15039510,Puzzle
+Q111926376,Frank Arnold,Q15039511,Ripkin
+Q5715671,Henri Safran,Q15039513,Rogue Stallion
+Q117848469,Oliver Howes,Q15039517,Say You Want Me
+Q7608585,Stephen Amis,Q15039522,See Jack Run
+Q117848487,Virginia Rouse,Q15039523,Seeing Red
+Q3100458,Gene Levitt,Q15039526,She'll Be Sweet
+Q3182311,John Power,Q15039530,A Single Life
+Q131387357,Mark Defriest,Q15039531,Sisterly Love
+Q364348,Tulio Demicheli,Q15039534,The Son of Captain Blood
+Q117859400,David A. Hall,Q15039537,Spook
+Q3101803,George Ogilvie,Q15039548,The Battlers
+Q2388845,Michael Carson,Q15039549,The Bite
+Q106627168,Robert L. Collins,Q15039556,The Hijacking of the Achille Lauro
+Q22087293,Renny Rye,Q15039561,The Other Side of Paradise
+Q545146,Pauline Chan,Q15039581,Little White Lies
+Q2470168,Eddie Romero,Q15039585,Whiteforce
+Q3564549,W. J. Lincoln,Q15039589,Breaking the News
+Q7117020,P.J. Ramster,Q15039591,High Heels
+Q4723361,Alfred Rolfe,Q15039592,In the Nick of Time
+Q6234993,John Gavin,Q15039593,Keane of Kalgoorlie
+Q5672514,Harry Southwell,Q15039594,The Kelly Gang
+Q4723361,Alfred Rolfe,Q15039595,The Life of Rufus Dawes
+Q106375930,Robert Scott,Q15039596,"The Life Story of John Lee, or The Man They Could Not Hang"
+Q3564549,W. J. Lincoln,Q15039597,The Luck of Roaring Camp
+Q3421009,Raymond Longford,Q15039598,Ma Hogan's New Boarder
+Q6234993,John Gavin,Q15039601,Moonlite
+Q6105488,J. E. Mathews,Q15039602,Murphy of Anzac
+Q3564549,W. J. Lincoln,Q15039603,The Mystery of a Hansom Cab
+Q3421009,Raymond Longford,Q15039604,The Pioneers
+Q3564549,W. J. Lincoln,Q15039606,La Revanche
+Q7117020,P.J. Ramster,Q15039607,Should a Girl Propose?
+Q4800571,Arthur W. Sterry,Q15039608,The Waybacks
+Q3421009,Raymond Longford,Q15039609,The Woman Suffers
+Q113559061,Warwick Gilbert,Q15039613,The Old Curiosity Shop
+Q117860228,Owen Elliott,Q15039628,Bathing Franky
+Q110989897,Craig Monahan,Q15039629,Healing
+Q6833913,Michael Robertson,Q15039646,Going Sane
+Q9339626,Sophia Turkiewicz,Q15039647,I've Come About the Suicide
+Q2463688,Brian Bell,Q15039648,Last Rites
+Q16731753,Dan Macarthur,Q15039649,Nice Package
+Q130526859,Russell Scott,Q15039653,Hidden Universe 3D
+Q5981361,Ian Darling,Q15039654,In The Company of Actors
+Q5981361,Ian Darling,Q15039655,The Oasis
+Q115172889,David Roach,Q15039657,Red Obsession
+Q115172890,Warwick Ross,Q15039657,Red Obsession
+Q117860302,Daniel Hayward,Q15039658,This Is Roller Derby
+Q2982591,Colin Eggleston,Q15039669,Innocent Prey
+Q5596188,Grant Dodwell,Q15039738,Codgers
+Q117859166,Wayne Harrison,Q15039738,Codgers
+Q114833932,Johan Earl,Q15039739,Forbidden Ground
+Q114833933,Adrian Powers,Q15039739,Forbidden Ground
+Q913154,Brian Trenchard-Smith,Q15039740,Drive Hard
+Q5518269,Gale Edwards,Q15039741,A Heartbeat Away
+Q958587,Frank Hurley,Q15039742,The Jungle Woman
+Q6097453,Ivan Sen,Q15039743,Mystery Road
+Q7803256,Tim Burstall,Q15039744,The Naked Country
+Q4647281,A.R. Harwood,Q15039747,Secret of the Skies
+Q6044866,Ayten Kuyululu Ürkmez,Q15039748,The Golden Cage
+Q16948248,Howard Rubie,Q15039749,Human Target
+Q111926376,Frank Arnold,Q15039750,Lindsay's Boy
+Q29617984,Ned Lander,Q18809206,Blood Brothers
+Q27929473,Pat Fiske,Q18914856,Australia Daze
+Q21663064,Jonathan N. Dixon,Q18945374,Wrath
+Q39289131,Chris Sun,Q19007190,Charlie's Farm
+Q21062537,Ariel Kleiman,Q19263883,Partisan
+Q113540556,Marek Polgar,Q19363593,Exit
+Q117861884,Gerald Bostock,Q19363736,Lousy Little Sixpence
+Q117863156,Alec Morgan,Q19363736,Lousy Little Sixpence
+Q1738601,Ken G. Hall,Q19571935,Ghosts of Port Arthur
+Q117862107,Clive Ross,Q19598974,Fighting Blood
+Q6274502,Jonathan Stack,Q19627428,Frackman
+Q29264771,Richard Slapczynski,Q19703232,Camelot
+Q381768,Joel Edgerton,Q19750433,The Gift
+Q1738601,Ken G. Hall,Q19839859,Another Threshold
+Q1738601,Ken G. Hall,Q19839865,Anzacs in Overalls
+Q1738601,Ken G. Hall,Q19839877,Assault on Salamaua
+Q1738601,Ken G. Hall,Q19840080,Eleventh Hour
+Q1738601,Ken G. Hall,Q19840107,First Victory Loan: Return Journey
+Q1738601,Ken G. Hall,Q19840118,Fourth Liberty Loans: I Had A Son
+Q1738601,Ken G. Hall,Q19840135,Give Us This Day
+Q1738601,Ken G. Hall,Q19840447,Moresby Under the Blitz
+Q1738601,Ken G. Hall,Q19840616,R.A.A.F. Eagles Over New Guinea
+Q1738601,Ken G. Hall,Q19840909,The Bismarck Convoy Smashed
+Q7437018,Scott Patterson,Q19870493,"A Wreck, A Tangle"
+Q6438600,Kriv Stenders,Q19871394,Blacktown
+Q5489550,Frank Shields,Q19871497,The Breaker
+Q29025753,Patrick Barton,Q19872365,Cobwebs in Concrete
+Q968980,David Williamson,Q19872889,Dimboola
+Q4908006,Bill Bain,Q19873581,Funnel Web
+Q6129930,James Bogle,Q19874556,In the Winter Dark
+Q23542535,Shane Abbess,Q19874606,Infini
+Q113976640,Hugh Sullivan,Q19874608,The Infinite Man
+Q117863145,Linda Blagg,Q19874830,Just Out of Reach
+Q117862816,Dennis K. Smith,Q19874848,Kapyong
+Q48769673,Kevin Anderson,Q19874933,The King of the Two Day Wonder
+Q11685650,Josh Lawson,Q19875286,The Little Death
+Q4723361,Alfred Rolfe,Q19875364,A Man - That's All
+Q115197092,Anthony Mir,Q19875370,Manny Lewis
+Q1738601,Ken G. Hall,Q19875954,Music in Our Schools
+Q15462260,Essie Coffey,Q19875981,My Survival as an Aboriginal
+Q958587,Frank Hurley,Q19876044,A Nation Is Built
+Q7823566,Tony Tilse,Q19879071,Small Claims: The Reunion
+Q5091950,Cherie Nowlan,Q19879073,Small Claims: White Wedding
+Q7299016,Raymond Menmuir,Q19879683,Swamp Creatures
+Q3195038,Q3195038,Q19879934,The Recruiting Officer
+Q24844292,Alan Burke,Q19879940,The Slaughter of St Teresa's Day
+Q4777828,Anupam Sharma,Q19880155,UNindian
+Q117862492,Shane Danielsen,Q19946608,Q19946608
+Q113547639,Kelly Dolen,Q19961325,John Doe: Vigilante
+Q465139,Antoine Fuqua,Q19983487,The Magnificent Seven
+Q549821,Michael Petroni,Q20001169,Backtrack
+Q7299016,Raymond Menmuir,Q20002581,The Right Thing
+Q1738601,Ken G. Hall,Q20022634,The Kurnell Story
+Q1738601,Ken G. Hall,Q20022647,Overland Adventure
+Q1738601,Ken G. Hall,Q20022657,Searchlight on Japan
+Q1738601,Ken G. Hall,Q20022660,South Pacific Playground
+Q24395423,Maya Newell,Q20058599,Gayby Baby
+Q113654399,Miro Bilbrough,Q20074443,Being Venice
+Q7612946,Steve Jodrell,Q20084898,Profile of a Serial Killer
+Q18688012,Jennifer Kent,Q20472640,Monster
+Q3822042,Kim Sønderholm,Q20495026,The Horror Vault
+Q38053850,J.P. Wenner,Q20495026,The Horror Vault
+Q38053852,Thomas Steen Sørensen,Q20495026,The Horror Vault
+Q38053854,Kenny Selko,Q20495026,The Horror Vault
+Q38053856,Mark Marchillo,Q20495026,The Horror Vault
+Q38053859,Josh Card,Q20495026,The Horror Vault
+Q38053862,David Boone,Q20495026,The Horror Vault
+Q38053960,Rusty Apper,Q20495026,The Horror Vault
+Q6988244,Neil Armfield,Q20647417,Holding the Man
+Q84974574,John Croyston,Q20649168,A Touch of Gold
+Q5582116,Herbert Booth,Q20649300,Social Salvation
+Q20739634,Joseph Perry,Q20649328,Soldiers of the Cross
+Q20739634,Joseph Perry,Q20649578,Heroes of the Cross
+Q28492140,Bentley Dean,Q15803822,Contact
+Q62600716,Sophie Hyde,Q15850093,Life in movement
+Q113990955,Bryan Mason,Q15850093,Life in movement
+Q259687,Alex Proyas,Q15972938,Gods of Egypt
+Q1114465,Brad Peyton,Q15973073,San Andreas
+Q3499264,Steven Quale,Q15989191,Into the Storm
+Q18688012,Jennifer Kent,Q16011764,The Babadook
+Q3116260,Greg McLean,Q16022015,Wolf Creek 2
+Q349842,Anton Corbijn,Q16025079,Life
+Q5071418,Chandran Rutnam,Q16058026,According to Mathew
+Q62600716,Sophie Hyde,Q16154889,52 Tuesdays
+Q3430994,Richard Lowenstein,Q16154995,Autoluminescent
+Q16161928,Lynn-Maree Milburn,Q16154995,Autoluminescent
+Q109648674,Chisholm McTavish,Q16155426,"Captain Feathersword, the Friendly Pirate"
+Q97372300,Kim Farrant,Q16199403,Strangerland
+Q435577,Clara Law,Q16210602,Letters to Ali
+Q107141774,Catriona McKenzie,Q16219215,Satellite Boy
+Q113443041,Zachary Weintraub,Q16245663,Amazons and Gladiators
+Q7172533,Peter Andrikidis,Q16580502,My Husband My Killer
+Q7149380,Paul Bishop,Q16581835,Never Tell Me Never
+Q16535068,Catherine Millar,Q16609624,13 Gantry Row
+Q4960851,Brendan Cowell,Q16639710,The Outlaw Michael Howe
+Q4746170,Amiel Courtin-Wilson,Q16641112,Hail
+Q131363903,Josh Reed,Q16671006,Primal
+Q118106749,Michael Adante,Q16679649,The Line
+Q84461701,Kitty Green,Q16681644,Ukraine Is Not a Brothel
+Q16174282,David Maurice Smith,Q16699263,Living in the shadows
+Q1374169,Rolf de Heer,Q16736456,Charlie's Country
+Q15463660,Michael Blakemore,Q16824211,A Personal History of the Australian Surf
+Q113365835,Megan Simpson Huberman,Q16827018,Alex
+Q113141374,Julian Pringle,Q16827625,Alterations
+Q7640629,Sunny Abberton,Q16828064,Bra Boys: Blood is Thicker than Water
+Q54855,Yoram Gross,Q16833856,Around the World with Dot
+Q3421009,Raymond Longford,Q16835556,An Australian by Marriage
+Q115183213,Joseph Sims-Dennett,Q16836796,Bad Behaviour
+Q16161928,Lynn-Maree Milburn,Q16846945,In Bob We Trust
+Q6387409,Ken Cameron,Q16934943,Crime of the Decade
+Q54855,Yoram Gross,Q16947425,Epic
+Q7678712,Tal Ordell,Q16952421,Cows and Cuddles
+Q108415797,Q108415797,Q16953329,Custody
+Q4877593,Beaumont Smith,Q16953737,The Betrayer
+Q16948248,Howard Rubie,Q16961151,Chase Through the Night
+Q5259200,Denny Lawrence,Q16962022,Army Wives
+Q5525722,Gary Patterson,Q16963692,How Willingly You Sing
+Q113628660,Douglas Sharp,Q16963725,Serpent in the Rainbow
+Q6387409,Ken Cameron,Q16965772,Temperament Unsuited
+Q2160854,Rod Hardy,Q16966879,Shadows of the Heart
+Q113976634,Shannon Young,Q16968303,Razor Eaters
+Q16893633,Oscar Whitbread,Q16969135,Ratbag Hero
+Q112317091,Aaron Wilson,Q16972185,Canopy
+Q6768251,Mark Joffe,Q16975973,Shadow of the Cobra
+Q5980854,Ian Barry,Q16991308,Ring of Scorpio
+Q428815,Rob Letterman,Q16994327,Goosebumps
+Q5335962,Eddie Davis,Q16997392,It Takes All Kinds
+Q2388845,Michael Carson,Q17002447,Coralie Lansdowne Says No
+Q237268,Paul Cox,Q17005455,Golden Braid
+Q1541117,Gracie Otto,Q17009513,The Last Impresario
+Q23836180,Michael Spierig,Q17014394,Predestination
+Q23836181,Peter Spierig,Q17014394,Predestination
+Q117862289,Sebastien Guy,Q17015508,Nerve
+Q7343062,Robert Connolly,Q17020430,Paper Planes
+Q6229518,John Dixon,Q17026097,Rose Against the Odds
+Q5386678,Eric Harrison,Q17029298,Riding to Win
+Q117845354,Robert Gibson,Q17030791,Video Fool for Love
+Q16107356,Michael Jenkins,Q17033196,Three Men of the City
+Q471546,John Pilger,Q17040426,Utopia
+Q5715671,Henri Safran,Q20649589,Concord of Sweet Sounds
+Q114833955,Mack Lindon,Q20649639,Rise
+14aecc0b7c7e963cbc3377bac7ab19f6,http://www.wikidata.org/.well-known/genid/14aecc0b7c7e963cbc3377bac7ab19f6,Q20649664,Robbery Under Arms
+Q5582116,Herbert Booth,Q20649709,The Early Day Christian Martyrs
+Q20739634,Joseph Perry,Q20649751,Inauguration of the Australian Commonwealth
+Q20739634,Joseph Perry,Q20649838,The Scottish Covenanters
+Q28837213,Rod Kinnear,Q20649848,The Mystery of the Hansom Cab
+Q7519836,Simon Stone,Q20745693,The Daughter
+Q6181881,Jeremy Sims,Q20751330,Last Cab To Darwin
+Q7634026,Sue Brooks,Q20751332,Looking for Grace
+Q114804176,Nick Kozakis,Q20800582,Plague
+Q114804177,Kosta Ouzas,Q20800582,Plague
+Q108205749,Mark Grentell,Q20814449,Backyard Ashes
+Q113427459,Alexander Tabrizi,Q20814453,Beach Fever
+Q19668644,Grant Scicluna,Q20814503,Downriver
+Q4706280,Alan Burke,Q20814833,The Prowler
+Q6105488,J. E. Mathews,Q20814879,The Unknown
+Q117862354,Ray Nowland,Q20875643,Go to Hell!!
+Q115272133,Davo Hardy,Q20949984,The Lives We Lead
+Q3425142,Morten Tyldum,Q20962283,Passengers
+Q28402163,Julian Karikalan,Q20967659,Love & Love Only
+Q111908458,Dru Brown,Q20993882,The Suicide Theory
+Q115110699,Rosemary Myers,Q21010855,Girl Asleep
+Q42229,Mel Gibson,Q21010856,Hacksaw Ridge
+Q43203,Clint Eastwood,Q21062112,Sully
+Q114697384,Greg Sneddon,Q21086706,Arrows of the Thunder Dragon
+Q56436167,Stuart McDonald,Q21095400,Oddball
+Q22278226,Matthew Holmes,Q21095441,The Legend of Ben Hall
+Q5212833,Damon Gameau,Q21095965,That Sugar Film
+Q116731718,Colm O'Murchu,Q21160956,Dealing with destiny
+Q114678308,Dean Francis,Q21186168,Drown
+Q7172533,Peter Andrikidis,Q21198114,Alex & Eve
+Q114495904,Lee Galea,Q21286447,Monster Pies
+Q24266069,Anna Brownfield,Q21405290,The Band
+Q28492128,Martin Butler,Q21428148,Tanna
+Q28492140,Bentley Dean,Q21428148,Tanna
+Q7610184,Stephen Page,Q21480362,Spear
+Q24950628,Louise Wadley,Q21511474,All About E
+Q2482423,Jack Couffer,Q21527592,The Darwin Adventure
+Q21605119,R. Maslyn Williams,Q21527792,"Kondom Agaundo, M.L.C."
+Q7299016,Raymond Menmuir,Q21527991,Richard II
+Q109817701,Malcolm Otton,Q21528147,The Unknown Ocean
+Q4999122,Burleigh Smith,Q21528234,Why I Hate the Left
+Q1712053,Julian Rosefeldt,Q21539923,Manifesto
+Q4960851,Brendan Cowell,Q21646947,Ruben Guthrie
+Q21572777,Daniel Armstrong,Q21646996,Sheborg Massacre
+Q1374169,Rolf de Heer,Q21648867,Twelve Canoes
+Q16948248,Howard Rubie,Q21869453,Island Trader
+Q6791196,Matthew Saville,Q21869637,A Month of Sundays
+Q7612946,Steve Jodrell,Q21869939,Tudawali
+Q26911896,Mary Healey Jamiel,Q22000469,Holy Water-Gate
+Q22277559,Abhijit Deonath,Q22074999,Salt Bridge
+Q592869,John Jarratt,Q22075207,StalkHer
+Q6343529,Kaarin Fairfax,Q22075207,StalkHer
+Q3228926,Lee Robinson,Q22569289,Darwin Gateway to Australia
+Q449104,Lee Tamahori,Q22813587,Mahana
+Q20676250,Chris McKay,Q23013169,The LEGO Batman Movie
+Q23651358,Garth Davis,Q23013699,Lion
+Q27663675,Matt Drummond,Q23023115,Dinosaur Island
+Q112167786,Marc Furmie,Q23023578,Terminus
+Q16893633,Oscar Whitbread,Q23038233,The Professional Touch
+Q7173104,Peter Butt,Q23636144,"I, Spry"
+Q5232078,David Caesar,Q23707691,Nowhere Boys: The Book of Shadows
+Q1738601,Ken G. Hall,Q23755536,Can John Braund Cure Cancer?
+Q16728088,James Clayden,Q23755549,With Time to Kill
+Q24191411,David Cahill,Q23767782,Pardon Miss Westcott
+Q2507259,Mike Mitchell,Q23796643,The LEGO Movie 2: The Second Part
+Q26883715,Ryan Suffern,Q23809215,Out & Around
+Q117862266,Lauren Fash,Q23809215,Out & Around
+Q3307967,Michael Rowe,Q23929932,Early Winter
+Q7803256,Tim Burstall,Q23999270,Sculpture Australia '69
+Q27056301,Declan Shrubb,Q24000009,Me and My Mates vs the Zombie Apocalypse
+Q18810998,Al Daff,Q24041272,Who's Who In The Wrestling World - And Why?
+Q7299016,Raymond Menmuir,Q24053282,The Strong Are Lonely
+Q3228926,Lee Robinson,Q24185494,Switch On Bigga
+Q21662977,Melanie Hogan,Q24189331,Yajilarra
+Q3430994,Richard Lowenstein,Q24190369,We're Livin' on Dog Food
+Q30101204,Eric Tayler,Q24191400,Wall to Wall
+Q24844292,Alan Burke,Q24191417,A Fourth for Bridge
+Q23879990,Maria Tran,Q24266653,Change of Our Lives
+Q723820,Jeffrey Walker,Q24278847,Ali's Wedding
+Q117862387,Ebony Butler,Q24514654,A Brilliant Genocide
+Q24628919,Taryn Brumfitt,Q24628873,Embrace
+Q24630799,Lorenzo DeCampos,Q24630736,You and Me
+Q24630842,Taylor Montemarano,Q24630736,You and Me
+Q24630883,Shaylee Gomes,Q24630736,You and Me
+Q24630920,Michael Lawrence,Q24630736,You and Me
+Q1379404,Eva Orner,Q24641165,Chasing Asylum
+Q24659689,Pete Gleeson,Q24659688,Hotel Coolgardie
+Q927371,Steven S. DeKnight,Q27826501,Pacific Rim: Uprising
+Q113540525,Mark Haber,Q27882769,Crouch End
+Q117860556,Susan Lambert,Q27929340,Tyke Elephant Outlaw
+Q117863178,Stefan Moore,Q27929340,Tyke Elephant Outlaw
+Q117862560,Ethan Tang,Q27942415,Death Beach
+Q23651358,Garth Davis,Q27957924,Mary Magdalene
+Q131360852,Nick Robertson,Q27958101,The Pack
+Q7279354,Rachel Perkins,Q27959325,Jasper Jones
+Q117862135,Nicholas Verso,Q27959327,Boys in the Trees
+Q131341209,Heath Davis,Q27959330,Broke
+Q65718580,Sotiris Dounoukos,Q27959460,Joe Cinque's Consolation
+Q4666385,Abe Forsythe,Q27959595,Down Under
+Q60574294,Ben Young,Q27962542,Hounds of Love
+Q2576503,Q2576503,Q27964337,Peter Rabbit
+Q27972888,Christopher Muir,Q27996689,Eye of the Night
+Q27972888,Christopher Muir,Q27996692,Waters of the Moon
+Q27972888,Christopher Muir,Q27996696,The First Joanna
+Q27972888,Christopher Muir,Q27996700,The Teeth of the Wind
+Q27972888,Christopher Muir,Q27996741,Six Characters in Search of an Author
+Q27972888,Christopher Muir,Q27996745,Peter Grimes
+Q27972888,Christopher Muir,Q28123325,Marriage Lines
+Q27972888,Christopher Muir,Q28123328,The Rivals
+Q117863131,Geoff Davis,Q28129017,William Kelly's War
+Q27972888,Christopher Muir,Q28132677,Nude with Violin
+Q3116260,Greg McLean,Q28173325,Jungle
+Q27972888,Christopher Muir,Q28173658,Martine
+Q117862358,Jesse O'Brien,Q28219637,Arrowhead
+Q29055369,William Sterling,Q28224684,Dark Under the Sun
+Q29055369,William Sterling,Q28224687,Macbeth
+Q5715671,Henri Safran,Q28428433,A Private Island
+Q27063334,Gregory Erdstein,Q28429752,That's Not Me
+Q723820,Jeffrey Walker,Q28501506,Jack Irish: Dead Point
+Q723820,Jeffrey Walker,Q28501510,Jack Irish: Bad Debts
+Q723820,Jeffrey Walker,Q28501511,Jack Irish: Black Tide
+Q582787,José Luis Borau,Q28517956,On the Line
+Q105549438,Chris Peckover,Q28768860,Better Watch Out
+Q23542535,Shane Abbess,Q28768886,Science Fiction Volume One: The Osiris Child
+Q2094420,Stephan Elliott,Q28797344,Swinging Safari
+Q24844292,Alan Burke,Q28840408,Dark Corridor
+Q29055369,William Sterling,Q28840421,Who Killed Kovali?
+Q29055369,William Sterling,Q28840431,The First 400 Years
+Q329438,Wolf Rilla,Q28840435,Secrets of a Door-to-Door Salesman
+Q29025753,Patrick Barton,Q28840452,The Angry General
+Q29025753,Patrick Barton,Q28840455,Wind from the Icy Country
+Q29025753,Patrick Barton,Q28840457,Should the Woman Pay?
+Q29025753,Patrick Barton,Q28840465,The Hot Potato Boys
+Q29055369,William Sterling,Q28840542,Murder in the Cathedral
+Q29055369,William Sterling,Q28840545,A Man for All Seasons
+Q3182376,John Robins,Q28840546,Man About the House
+Q24844292,Alan Burke,Q28859114,The Merchant of Venice
+Q24844292,Alan Burke,Q28860128,The Abduction from the Seraglio
+Q29026118,James Upshaw,Q28922259,The Big Client
+Q24844292,Alan Burke,Q28923724,The Taming of the Shrew
+Q29055369,William Sterling,Q28923731,Mine Own Executioner
+Q29055369,William Sterling,Q28923742,Hedda Gabler
+Q29025753,Patrick Barton,Q28923745,Waiting in the Wings
+Q29055369,William Sterling,Q28925817,The Pearl Fishers
+Q29055369,William Sterling,Q28925819,Village Wooing
+Q29025753,Patrick Barton,Q28925826,Daphne Laureola
+Q29025753,Patrick Barton,Q28925827,You Can't Win 'Em All
+Q29025753,Patrick Barton,Q28925838,Romanoff and Juliet
+Q29025753,Patrick Barton,Q28929945,Dangerous Corner
+Q29025753,Patrick Barton,Q28929953,The Gioconda Smile
+Q21572777,Daniel Armstrong,Q28943857,MurderDrome
+Q6410007,Kimble Rendall,Q28961087,Guardians of the Tomb
+Q24285770,Colin Dean,Q28967141,Prelude to Harvest
+Q16893633,Oscar Whitbread,Q28967154,How Do You Spell Matrimony?
+Q29055369,William Sterling,Q28970817,The Ides of March
+Q24844292,Alan Burke,Q28970852,Don Pasquale
+Q29055369,William Sterling,Q28970857,The Big Deal
+Q29055369,William Sterling,Q28970956,The Prisoner
+Q29025753,Patrick Barton,Q28970966,Othello
+Q29055369,William Sterling,Q29002443,The End Begins
+Q29055369,William Sterling,Q29002446,The Lark
+Q16893633,Oscar Whitbread,Q29021065,Course for Collision
+Q27972888,Christopher Muir,Q29021066,A Ride on the Big Dipper
+Q29055369,William Sterling,Q29021350,Barnstable
+Q29025753,Patrick Barton,Q29023217,Ashes to Ashes
+Q28858775,Brett Porter,Q29026040,Two Men of Fiji
+Q5715671,Henri Safran,Q29050316,A Sound of Trumpets
+Q958587,Frank Hurley,Q29051836,South
+Q18688012,Jennifer Kent,Q29262902,The Nightingale
+Q703727,Fred Schepisi,Q3520813,The Eye of the Storm
+Q1337082,Freddie Francis,Q3521028,The Ghoul
+Q964832,Peter Sykes,Q3521320,The House in Nightmare Park
+Q3014631,Daniel Ross,Q3521413,The Ister
+Q5091950,Cherie Nowlan,Q3522287,Thank God He Met Lizzie
+Q453792,Charles Chauvel,Q3522429,The Rats of Tobruk
+Q1374169,Rolf de Heer,Q3523062,The Tracker
+Q2408644,Brian Hannant,Q3528935,The Time Guardian
+Q4766717,Ann Turner,Q3545539,Hammers Over the Anvil
+Q237268,Paul Cox,Q3545607,Vincent
+Q521135,Michael Carreras,Q3548575,Shatter
+Q945188,Monte Hellman,Q3548575,Shatter
+Q113509730,Kim Kindersley,Q3567594,Whaledreamers
+Q5233328,David Elfick,Q3698921,Crystal Voyager
+Q1374169,Rolf de Heer,Q3714858,Dr. Plonk
+Q314882,Terence Young,Q3820025,The Klansman
+Q684569,Joe D'Amato,Q3823937,The Arena
+Q3498879,Steve Carver,Q3823937,The Arena
+Q507519,Geoffrey Wright,Q3841961,Macbeth
+Q1361382,Ken Hughes,Q3922746,The Internecine Project
+Q6838341,Mick Molloy,Q7673935,Tackle Happy
+Q1374169,Rolf de Heer,Q7676075,Tail of a Tiger
+Q6755588,Marc Gracie,Q7677566,Q7677566
+Q3421009,Raymond Longford,Q7678372,Taking his Chance
+Q117860556,Susan Lambert,Q7679625,Talk
+Q5315730,Dunstan Webb,Q7679979,Tall Timber
+Q1738601,Ken G. Hall,Q7679985,Tall Timbers
+Q16186450,Melanie Rodriga,Q7694561,Teesh and Trude
+Q4908103,Bill Bennett,Q7699043,Tempted
+Q4772688,Anthony Hayes,Q7699189,Ten Empty
+Q5441722,Felicia Pride,Q7699581,Tender
+Q117860687,Mary Callaghan,Q7699590,Tender Hooks
+Q114554703,Paul Middleditch,Q7703117,Terra Nova
+Q740649,Gerald Thomas,Q7710882,That's Carry On!
+Q2975559,Clarence G. Badger,Q7711150,That Certain Something
+Q5335962,Eddie Davis,Q7711221,That Lady from Peking
+Q113623197,Chris Roache,Q7711759,The 13th Floor
+Q114804146,Jon Cohen,Q7711989,The 7th Hunt
+Q6228224,John D. Lamond,Q7712052,The ABC of Love and Sex: Australia Style
+Q3343763,Norman Dawn,Q7712405,The Adorable Outcast
+Q4877593,Beaumont Smith,Q7712490,The Adventures of Algy
+Q449220,Bruce Beresford,Q7712494,The Adventures of Barry McKenzie
+Q7608585,Stephen Amis,Q7713123,The Alive Tribe
+Q2221933,Derren Nesbitt,Q7713609,The Amorous Milkman
+Q16186698,Mark Hembrow,Q7714226,The Argues: The Movie
+Q117864031,Mary McMurray,Q7714686,The Assam Garden
+Q6234993,John Gavin,Q7714712,The Assigned Servant
+Q4647281,A.R. Harwood,Q7715011,The Avenger
+Q15458128,John Heyer,Q7715248,The Back of Beyond
+Q3564549,W. J. Lincoln,Q7716442,The Bells
+Q6833913,Michael Robertson,Q7717036,The Best of Friends
+Q1278743,Mark Lee,Q7717381,The Bet
+Q117844887,Barry Peak,Q7717673,The Big Hurt
+Q532307,Nadia Tass,Q7717807,The Big Steal
+Q86468409,Phil K. Walsh,Q7718132,The Birth of White Australia
+Q11853913,Barry Cook,Q12047658,Walking with Dinosaurs
+Q13522504,Neil Nightingale,Q12047658,Walking with Dinosaurs
+Q16104830,Nigel Buesst,Q17042080,The Rise and Fall of Squizzy Taylor
+Q54855,Yoram Gross,Q17052523,The Little Convict
+Q16201909,Michael Budd,Q17052588,Love of My Life
+Q114797373,Catherine Scott,Q17054913,Scarlet Road
+Q47004401,Zak Hilditch,Q17056664,These Final Hours
+Q4877593,Beaumont Smith,Q17092921,A Journey Through Filmland
+Q117861980,Austin Robert Hines,Q17143613,Singularity Principle
+Q117862124,David Robert Deranian,Q17143613,Singularity Principle
+Q3476760,Sean McNamara,Q17379618,The King's Daughter
+Q114946184,Stephen Lance,Q17558064,My Mistress
+Q29264771,Richard Slapczynski,Q17615920,Pocahontas
+Q117844961,Dominic Deacon,Q17985708,Bad Habits
+Q115079379,Paul China,Q17986713,Crawl
+Q2442472,Tony Ayres,Q18164602,Cut Snake
+Q6767947,Mark Hartley,Q18165571,"Electric Boogaloo: The Wild, Untold Story of Cannon Films"
+Q6438600,Kriv Stenders,Q18165705,Kill Me Three Times
+Q117862852,Rebecca Barry,Q18165923,I Am a Girl
+Q5235565,David James Campbell,Q18166039,Lemon Tree Passage
+Q6767947,Mark Hartley,Q18166100,Machete Maidens Unleashed!
+Q27052065,Nick Calpakdjian,Q18166185,Metal Down Under
+Q117844961,Dominic Deacon,Q18166270,Only the Young Die Good
+Q117862953,Tony Rogers,Q18166399,Rats and Cats
+Q114249473,Genevieve Bailey,Q18170076,I Am Eleven
+Q5217833,Daniel Krige,Q18340945,Redd Inc.
+Q117862602,Tim R. Lea,Q18349254,54 Days
+Q3568991,William Tannen,Q18350575,Love Lies Bleeding
+Q18166309,Matthew Victor Pastor,Q18351353,Made in Australia
+Q919049,James Vanderbilt,Q18354827,Truth
+Q21572777,Daniel Armstrong,Q18356483,From Parts Unknown: Fight Like A Girl
+Q20894804,Peter Landesman,Q18356955,Concussion
+Q3808611,Jocelyn Moorhouse,Q18389586,The Dressmaker
+Q5715671,Henri Safran,Q18393837,The Swagman
+Q29264771,Richard Slapczynski,Q18425280,The Count of Monte Cristo
+Q354133,Dick Lowry,Q18425983,Louis L'Amour's The Diamond of Jeru
+Q5980854,Ian Barry,Q18425983,Louis L'Amour's The Diamond of Jeru
+Q114913797,Markus Innocenti,Q18511583,Murder Story
+Q114919553,Eddie Arno,Q18511583,Murder Story
+Q7150609,Paul Fenech,Q18611372,Fat Pizza vs. Housos
+Q4764239,Angus Sampson,Q18611453,The Mule
+Q35438529,Tony Mahony,Q18611453,The Mule
+Q16193147,Jon Hewitt,Q18611459,Turkey Shoot
+Q2756732,Derek Cianfrance,Q18636742,The Light Between Oceans
+Q95893710,Alexs Stadermann,Q18654947,Maya the Bee Movie
+Q6768591,Mark Lewis,Q18703093,Cane Toads: The Conquest
+Q108486869,Alan Lowery,Q18703920,The Secret Country: The First Australians Fight Back
+Q5321938,E. J. Cole,Q18709080,The Squatter and the Clown
+Q39005726,Tony Krawitz,Q18791527,The Tall Man
+Q1040537,Carl Schultz,Q15039751,The Misanthrope
+Q7175721,Peter Maxwell,Q15039752,Polly Me Love
+Q117861507,David Zweck,Q15039753,The Cherry Orchard
+Q5259200,Denny Lawrence,Q15039754,Afraid to Dance
+Q951522,Scott Hicks,Q15039756,Call Me Mr. Brown
+Q131349926,Simon Heath,Q15039757,Charley's Web
+Q29565780,Marcus Cole,Q15039759,Computer Ghosts
+Q106375916,Rob Stewart,Q15039759,Computer Ghosts
+Q113141374,Julian Pringle,Q15039760,Conferenceville
+Q2907645,Bob Ellis,Q15039761,Dreaming of Lords
+Q3027478,Elizabeth Alexander,Q15039763,Emmett Stone
+Q665744,Gary Conway,Q15039765,The Fire In The Stone
+Q106375916,Rob Stewart,Q15039767,Future Past
+Q6829175,Michael Caulfield,Q15039768,Gallagher's Travels
+Q119332430,Ray Alchin,Q15039769,Games for Parents and Other Children
+Q3035855,Don McLennan,Q15039771,Hard Knocks
+Q118054417,Bill Hughes,Q15039772,High Country
+Q117848448,Rodney Fisher,Q15039773,I Can't Get Started
+Q113443085,Peter Fisk,Q15039774,Kindred Spirits
+Q6769600,Mark Savage,Q15039776,Marauders
+Q117860751,Jane Oehr,Q15039779,On the Loose
+Q117859295,Greg Dee,Q15039788,Raw Silk
+Q106375916,Rob Stewart,Q15039790,Rock 'N' Roll Cowboys
+Q3101803,George Ogilvie,Q15039791,Short Changed
+Q56419016,Brendan Maher,Q15039794,The Bit Part
+Q2676755,Lee Philips,Q15039796,The Blue Lightning
+Q16535068,Catherine Millar,Q15039804,The Long Way Home
+Q56436167,Stuart McDonald,Q15039808,Baby Bath Massacre
+Q3035855,Don McLennan,Q15039809,Breakaway
+Q3082659,Frank Howson,Q15039810,Come Rain or Shine
+Q5980854,Ian Barry,Q15039812,Crimebroker
+Q113572908,Clive Fleury,Q15039816,Fatal Past
+Q117848460,Richard Ryan,Q15039816,Fatal Past
+Q4965434,Brian Syron,Q15039817,Jindalee Lady
+Q22277550,Bert Deling,Q15039819,Keiron: The First Voyager
+Q113364998,Aleksi Vellis,Q15039826,The Life of Harry Dare
+Q117859225,John Day,Q15039827,The Returning
+Q6833415,Michael Pattinson,Q15039829,Wendy Cracked a Walnut
+Q114158048,Colin Cairnes,Q15040679,100 Bloody Acres
+Q114158049,Cameron Cairnes,Q15040679,100 Bloody Acres
+Q87347433,Bety Reis,Q15043282,Beatriz's War
+Q116771857,Luigi Acquisto,Q15043282,Beatriz's War
+Q103646,Ron Howard,Q15079316,In the Heart of the Sea
+Q129817,Russell Crowe,Q15411503,The Water Diviner
+Q5959544,Kieran Darcy-Smith,Q15706385,Wish You Were Here
+Q118817,Joe Wright,Q15713892,Pan
+Q24659742,Nel Minchin,Q24659735,Matilda & Me
+Q24659752,Rhian Skirving,Q24659735,Matilda & Me
+Q24659944,Nickolas Bird,Q24659924,Remembering the Man
+Q24659945,Eleanor Sharpe,Q24659924,Remembering the Man
+Q24680864,Paige McGinley,Q24680772,Molly: The Real Thing
+Q5381529,Enzo Tedeschi,Q24705204,The Abundance Code
+Q24705205,Julie Ann Cairns,Q24705204,The Abundance Code
+Q24705866,Hollie Fifer,Q24705863,The Opposition
+Q24706029,Aaron Petersen,Q24706026,Zach's Ceremony
+Q24707942,Maggie Miles,Q24707938,Dare to Be Different
+Q7174612,Peter Hegedus,Q24731016,Strudel Sisters
+Q24731059,Jaina Kalifa,Q24731016,Strudel Sisters
+Q42779507,Nick Remy Matthews,Q24807149,One Eyed Girl
+Q438911,Gillian Armstrong,Q24807293,Women He's Undressed
+Q104831831,Neil Triffett,Q24807375,EMO the Musical
+Q24572518,Leo Baker,Q24882976,The Will To Fly
+Q24702841,Katie Bender,Q24882976,The Will To Fly
+Q27972888,Christopher Muir,Q24883048,She'll Be Right
+Q29055369,William Sterling,Q24905504,One Morning Near Troodos
+Q29055369,William Sterling,Q24905772,The Public Prosecutor
+Q29055369,William Sterling,Q24905808,Burst of Summer
+Q29026118,James Upshaw,Q24905842,Don't Listen Ladies
+Q24285770,Colin Dean,Q24905843,The Long Sunset
+Q29055369,William Sterling,Q24905845,Two Headed Eagle
+Q5056131,Cecil Holmes,Q24905867,"I, the Aboriginal"
+Q29055369,William Sterling,Q24963380,Shadow of Heroes
+Q7358662,Roger Mirams,Q25136233,The Coastwatchers
+Q22279616,Jennifer Peedom,Q25136340,Sherpa
+Q24844292,Alan Burke,Q25136417,Lola Montez
+Q23879990,Maria Tran,Q25136476,Hit Girls
+Q117862201,Adrian Castro,Q25136476,Hit Girls
+Q131340929,Ryan Peters,Q25136478,Downtown Rumble
+Q3479151,Antony Szeto,Q25136485,Fist of the Dragon
+Q13444656,Paul Ireland,Q25136492,Pawno
+Q24844292,Alan Burke,Q25136649,Wuthering Heights
+Q24284410,Royston Morley,Q25136656,Hamlet
+Q27972888,Christopher Muir,Q25136657,Outpost
+Q29055369,William Sterling,Q25136667,Ned Kelly
+Q6097453,Ivan Sen,Q25136735,Goldstone
+Q7299016,Raymond Menmuir,Q25136758,The Rose and Crown
+Q24844292,Alan Burke,Q25136795,My Three Angels
+Q39289131,Chris Sun,Q25136849,Boar
+Q5337375,Edgar Metcalfe,Q25183061,The Olive Tree
+Q5125261,Claire McCarthy,Q25183157,Little Hands
+Q16893633,Oscar Whitbread,Q25183304,Plain Jane
+Q16893633,Oscar Whitbread,Q25183305,Slow Poison
+Q16893633,Oscar Whitbread,Q25183311,Photo Finish
+Q24844292,Alan Burke,Q25184323,The Medium
+Q24844292,Alan Burke,Q25184325,The Marriage of Figaro
+Q24844292,Alan Burke,Q25208279,The Skin of Our Teeth
+Q27972888,Christopher Muir,Q25208319,Antony and Cleopatra
+Q27972888,Christopher Muir,Q25208730,The Tower
+Q24844292,Alan Burke,Q25208837,Prima Donna
+Q441510,Cate Shortland,Q25212771,Berlin Syndrome
+Q6780607,Mary Ridge,Q25218441,Summer of the Seventeenth Doll
+Q25757433,Stuart Willis,Q25340088,Restoration
+Q7299016,Raymond Menmuir,Q25352244,Turning Point
+Q29055369,William Sterling,Q25352291,The Sound of Thunder
+Q6438600,Kriv Stenders,Q25437113,Red Dog: True Blue
+Q2442472,Tony Ayres,Q25479287,Saved
+Q7608585,Stephen Amis,Q25484248,The 25th Reich
+Q55424,Peter Weir,Q25999976,Whatever Happened to Green Valley?
+Q115272139,Luke Sparke,Q26720636,Red Billabong
+Q512611,Tim Ferguson,Q26806022,Spin Out
+Q6755588,Marc Gracie,Q26806022,Spin Out
+Q26828185,Michele Coggiola,Q26828177,Momentum
+Q26828197,Artur Kade,Q26828177,Momentum
+Q26885419,Justin Brown,Q26885418,What's with Wheat?
+Q26898924,Michael Stillwater,Q26898919,In Search of the Great Song
+Q26899513,Philip Boatswain,Q26899502,Stealing Charlie Chaplin
+Q26908213,Ros Horin,Q26908212,The Baulkham Hills African Ladies Troupe
+Q27039089,Steven McGregor,Q27039088,Servant or Slave
+Q27043371,Janet Merewether,Q27043370,Reindeer in my Saami Heart
+Q27044516,Wayne Groom,Q27044514,Paris or the Bush
+Q26913030,Trevor Graham,Q27590416,Mabo: Life of an Island Man
+Q1393077,Gregor Jordan,Q27590492,Ian Thorpe: The Swimmer
+Q117862501,Shane McNeil,Q27590839,Girt by Sea
+Q27663675,Matt Drummond,Q27701622,My Pet Dinosaur
+Q114158048,Colin Cairnes,Q27703158,Scare Campaign
+Q114158049,Cameron Cairnes,Q27703158,Scare Campaign
+Q72870899,Dylan River,Q72882307,Nulla Nulla
+Q72882438,Kimberley West,Q72882437,The Riiji Carver
+Q72882563,Mark Moora,Q72882562,Tjawa Tjawa
+Q72882711,Victoria Hunt,Q72882707,TAKE
+Q4886044,Ben Lawrence,Q73543245,Hearts and Bones
+Q82243459,Allan Hardy,Q82240919,Viva the Underdogs
+Q28830348,Aaron McCann,Q83726541,Koko: A Red Dog Story
+Q98925638,Dominic Pearce,Q83726541,Koko: A Red Dog Story
+Q26821203,Richard Ladkani,Q84158729,Sea of Shadows
+Q250545,Baz Luhrmann,Q84362533,Elvis
+Q84762490,Liam Firmager,Q84762464,Suzi Q
+Q5715671,Henri Safran,Q85320888,A Local Boy
+Q230448,Jane Campion,Q85323337,The Power of the Dog
+Q71557106,Rodd Rathjen,Q85749544,Buoyancy
+Q20177473,John Sheedy,Q86501880,H Is for Happiness
+Q6097453,Ivan Sen,Q86666502,Expired
+Q19872804,Dean Murphy,Q86756922,The Very Excellent Mr. Dundee
+Q43129814,Ludwik Dutkiewicz,Q87203764,Time In Summer
+Q99210769,Natalie Erika James,Q87519760,Relic
+Q106375394,Stephen Johnson,Q87654420,High Ground
+Q17859781,Glenn Triggs,Q89489940,Apocalyptic
+Q115223327,Owen Trevor,Q90297034,Go Karts
+Q7818105,Thomas M. Wright,Q91663313,Acute Misfortune
+Q446960,George Miller,Q94525569,Three Thousand Years of Longing
+Q29055369,William Sterling,Q95082004,Return Journey
+Q20973943,Daina Reid,Q96403114,Run Rabbit Run
+Q117860898,Geoff Bennett,Q97332807,Turning April
+Q6181881,Jeremy Sims,Q97355155,Rams
+Q5220137,Danny Ben-Moshe,Q97356465,Outback Rabbis
+Q7359708,Rohan Spong,Q97403981,When Darkness Falls
+Q18002645,Andrew Traucki,Q97486327,Black Water: Abyss
+Q97738881,Josephine Mackerras,Q97737945,Alice
+Q117599006,Cameron Nugent,Q97738118,A Boy Called Sailboat
+Q2837213,Alister Grierson,Q98126098,Bloody Hell
+Q6438600,Kriv Stenders,Q98925646,Slim and I
+Q100265548,Eric James Gravolin,Q99373237,They Called Me Keith
+Q95893710,Alexs Stadermann,Q99521385,Maya the Bee: The Golden Orb
+Q109831129,Noel Cleary,Q99521385,Maya the Bee: The Golden Orb
+Q106466280,Seth Larney,Q99751860,2067
+Q46993808,Rosie Lourde,Q100145774,Romance On The Menu
+Q446960,George Miller,Q100361125,Furiosa: A Mad Max Saga
+Q6701948,Luke Eve,Q100361355,I Met a Girl
+Q16030438,Marius Sestier,Q101245323,New South Wales Horse Artillery in Action
+Q16030438,Marius Sestier,Q101245333,Passengers Alighting from Ferry Brighton at Manly
+Q101435220,Fergus Grady,Q101435186,Camino Skies
+Q101435221,Noel Smyth,Q101435186,Camino Skies
+Q17183678,Taylor Steele,Q102037076,Proximity
+Q108091331,David O'Donnell,Q102128141,Under My Skin
+Q117863810,Ian W. Thomson,Q102169128,Becoming Colleen
+Q7343062,Robert Connolly,Q104374134,The Dry
+Q104671499,Ricard Cussó,Q104671495,The Wishmas Tree
+Q11685650,Josh Lawson,Q104786128,Long Story Short
+Q104671499,Ricard Cussó,Q104815118,Combat Wombat
+Q3302223,Max Mannix,Q104830312,The Brighton Miracle
+Q109837803,Molly Reynolds,Q104844989,Another Country
+Q16026949,Henry Walter Barnett,Q104863397,The Melbourne Cup
+Q115272139,Luke Sparke,Q104879905,Occupation: Rainfall
+Q26703670,Goran Stolevski,Q104880088,You Won't Be Alone
+Q100332989,Mark Williams,Q104889029,Blacklight
+Q131887536,Q131887536,Q104896753,Czech Freedom 1
+Q131887536,Q131887536,Q104896754,Czech Freedom 2
+Q131887536,Q131887536,Q104896755,Lily's Fantastic Summer 1
+Q131887536,Q131887536,Q104896756,Lily's Fantastic Summer 2
+Q131887536,Q131887536,Q104896757,Lily's Fantastic Summer 3
+Q131887536,Q131887536,Q104896758,Lily's Fantastic Summer 4
+Q131887536,Q131887536,Q104896759,Summer Mornings
+Q131887536,Q131887536,Q104897056,Magical Nudes
+Q108167895,David Koníř,Q104898015,Hidden Threat
+Q7818105,Thomas M. Wright,Q104903195,The Stranger
+Q5560473,Gil Brealey,Q118856013,The Land That Waited
+Q5560473,Gil Brealey,Q118856684,The Legend of Damien Parer
+Q20090313,Jennie Boddington,Q118859384,Three in a Million
+Q28858775,Brett Porter,Q118859386,Stronger Since the War
+Q2059818,Paul Goldman,Q118903213,Ego: The Michael Gudinski Story
+Q114158048,Colin Cairnes,Q119718080,Late Night with the Devil
+Q114158049,Cameron Cairnes,Q119718080,Late Night with the Devil
+Q119198670,Dione Gilmour,Q119841394,Out of the Ashes: Nature's Rebirth Following the Black Saturday Bushfires
+Q7343062,Robert Connolly,Q119892802,Force of Nature: The Dry 2
+Q84461701,Kitty Green,Q120887436,The Royal Hotel
+Q26703670,Goran Stolevski,Q120900666,Housekeeping for Beginners
+Q1810579,Leah Purcell,Q121057510,Here Out West
+Q4750388,Ana Kokkinos,Q121057510,Here Out West
+Q4461183,Warwick Thornton,Q121532089,Green Bush
+Q121118618,Danny Philippou,Q121740948,Talk 2 Me
+Q121118648,Michael Philippou,Q121740948,Talk 2 Me
+Q958587,Frank Hurley,Q121750861,Dr. Mawson in the Antarctic
+Q24555197,Robin de Crespigny,Q121788941,Sanctuary
+Q6204321,Jo Kennedy,Q121788967,The Forest
+Q78843563,Linton Besser,Q122259722,The Billion Dollar Bust
+Q223745,Guy Pearce,Q122391107,Poor Boy
+Q114833933,Adrian Powers,Q122704340,Love Is in the Air
+Q19875078,Elise Lamb,Q122802904,The Wilted Rose
+Q33044553,Cloudy Rhodes,Q122890809,Beautiful They
+Q122929061,William Copland,Q122929140,The Race
+Q63922187,Sean Lahiff,Q122964418,Carnifex
+Q113677627,John Richardson,Q123287301,My Brother Wartovo
+Q117851606,Lawrence Johnston,Q123287325,Eternity
+Q117858976,Brian McKenzie,Q123287327,The Last Day's Work
+Q117858976,Brian McKenzie,Q123287328,Pat and Eddy's Greyhound Racing Family
+Q117858976,Brian McKenzie,Q123287329,I'll Be Home for Christmas
+Q117858976,Brian McKenzie,Q123287330,Kelvin and His Friends
+Q117859294,Monica Pellizzari,Q123287332,Just Desserts
+Q117859388,Stefan Sargent,Q123287334,Edge of the Outback
+Q117860478,Kay Pavlou,Q123287338,Convicted
+Q117860556,Susan Lambert,Q123287340,On Guard
+Q117860687,Mary Callaghan,Q123287342,Greetings from Wollongong
+Q117860751,Jane Oehr,Q123287343,Stirring
+Q117861467,John Hughes,Q123287345,After Mabo
+Q109817701,Malcolm Otton,Q123287351,Festival in Adelaide
+Q117862792,Daryl Dellora,Q123287353,The Highest Court
+Q117862792,Daryl Dellora,Q123287354,Mr Neal Is Entitled to Be an Agitator
+Q117862852,Rebecca Barry,Q123287356,Footy Chicks
+Q117863156,Alec Morgan,Q123287359,Movietone Memories
+Q117863156,Alec Morgan,Q123287360,Admission Impossible
+Q117885629,Stephen Ramsey,Q123287370,The Baby Boomers Picture Show
+Q117885652,Solrun Hoaas,Q123287371,Rushing to Sunshine: Seoul Diaries
+Q117885652,Solrun Hoaas,Q123287372,Green Tea and Cherry Ripe
+Q118121478,Rivka Hartman,Q123287380,A Most Attractive Man
+Q121035219,Maureen McCarthy,Q123287388,Skipping Class
+Q15452427,David Bradbury,Q123287457,Polska
+Q15452427,David Bradbury,Q123287458,Public Enemy Number One
+Q15491962,Ian Gilmour,Q123287461,Lola Montez
+Q16104830,Nigel Buesst,Q123287470,Jazz Scrapbook
+Q16107529,Tom Zubrycki,Q123287472,The Diplomat
+Q16107529,Tom Zubrycki,Q123287473,Strangers in Paradise
+Q16107529,Tom Zubrycki,Q123287474,Amongst Equals
+Q16107529,Tom Zubrycki,Q123287475,Friends & Enemies
+Q16728088,James Clayden,Q123287478,The Ghost Paintings 1
+Q18085866,Graham Shirley,Q123287492,Prisoners of Propaganda
+Q237268,Paul Cox,Q123287596,Underdog
+Q237268,Paul Cox,Q123287597,Death and Destiny: A Journey into Ancient Egypt
+Q2388845,Michael Carson,Q123287602,Errol Flynn
+Q2408644,Brian Hannant,Q123287609,Kakadu
+Q25183124,George Whaley,Q123287625,Jack Davey
+Q26913030,Trevor Graham,Q123287646,Tosca: A Tale of Love and Torture
+Q27044589,Claude Gonzalez,Q123287648,Sydney at War: The Untold Story
+Q29617984,Ned Lander,Q123287685,Broken English
+Q3101803,George Ogilvie,Q123287731,Soldier Settlers
+Q3182311,John Power,Q123287773,Clyde Fenton
+Q3293340,Mario Andreacchio,Q123287793,Vaudeville
+Q3308492,Michael Rubbo,Q123287806,The Man Who Can't Stop
+Q4712361,Albie Thoms,Q123287960,Surf Movies
+Q4746170,Amiel Courtin-Wilson,Q123287966,Chasing Buddha
+Q4750388,Ana Kokkinos,Q123287967,Antamosi
+Q5091950,Cherie Nowlan,Q123287990,God's Girls: Stories from an Australian Convent
+Q512041,Lizzy Gardiner,Q123287991,Killing Priscilla
+Q5232078,David Caesar,Q123288003,Body Work
+Q5292597,Don Featherstone,Q123288015,The Beach
+Q5424085,Francis William Thring,Q123288037,Efftee Entertainers
+Q543563,Phillip Noyce,Q123288043,"God Knows Why, But It Works"
+Q5539735,George Gittoes,Q123288054,Tracks of the Rainbow
+Q5539735,George Gittoes,Q123288055,The Bullets of the Poets
+Q55424,Peter Weir,Q123288056,Peter Weir: Short Film Collection
+Q5606993,Gregory J. Read,Q123288074,"Photographers of Australia: Dupain, Sievers, Moore"
+Q57415831,Kathryn Millard,Q123288096,Point of Departure
+Q57415831,Kathryn Millard,Q123288097,Light Years
+Q130392795,Paul Damien Williams,Q52151490,Gurrumul
+Q6688609,Louise Alston,Q52715722,Back of the Net
+Q5130263,Clayton Jacobson,Q54020539,Brothers' Nest
+Q3018459,David Michôd,Q54801155,The King
+Q61995088,Nia DaCosta,Q55287246,Little Woods
+Q2059818,Paul Goldman,Q55450629,Such is Life: The Troubled Times of Ben Cousins
+Q16924411,Sam Voutas,Q55453666,King of Peking
+Q6234993,John Gavin,Q55606732,Cast Up by the Sea
+Q26955517,Carmelo Musca,Q55611897,Foreshadow
+Q109317353,Clay Glen,Q55632360,Going for Gold
+Q63922103,Grant Sputore,Q55762009,I Am Mother
+Q117845369,Di Drew,Q56216461,The Right-Hand Man
+Q6317793,Justin Kurzel,Q56274013,True History of the Kelly Gang
+Q6768251,Mark Joffe,Q56278278,Working Class Boy
+Q190373,Joseph Barbera,Q56301997,"20,000 Leagues Under the Sea"
+Q263324,William Hanna,Q56301997,"20,000 Leagues Under the Sea"
+Q115197118,Robert Tate,Q56426644,The Magic Pill
+Q108205749,Mark Grentell,Q56452645,The Merger
+Q29264771,Richard Slapczynski,Q56475732,A Journey to the Center of the Earth
+Q6255888,John Ruane,Q56744258,"That Eye, the Sky"
+Q7140270,Partho Sen-Gupta,Q57975276,Slam
+Q25183124,George Whaley,Q58623299,The Harp in the South
+Q4999122,Burleigh Smith,Q58762392,Gentle Persuasion
+Q16201909,Michael Budd,Q58814662,Life of the Party
+Q449220,Bruce Beresford,Q58814676,Ladies in Black
+Q56280810,Benjamin Gilmour,Q58814991,Jirga
+Q5381529,Enzo Tedeschi,Q59453151,Event Zero
+Q115284251,Frazer Bailey,Q60562336,Root Cause
+Q6438600,Kriv Stenders,Q60590159,Danger Close: The Battle of Long Tan
+Q1393077,Gregor Jordan,Q60737528,Dirt Music
+Q7823566,Tony Tilse,Q60737579,Miss Fisher and the Crypt of Tears
+Q67155220,Charles William,Q60738048,All These Creatures
+Q62600716,Sophie Hyde,Q60738656,Animals
+Q28792781,Francis Lee,Q60836025,Ammonite
+Q349248,Adam Elliot,Q60844942,Ernie Biscuit
+Q9033587,Mirrah Foulkes,Q61450786,Judy and Punch
+Q115183237,Eddie Martin,Q61466281,Have You Seen the Listers?
+Q26877840,Matthew Bate,Q61726952,Sam Klemke's Time Machine
+Q1506091,Wayne Blair,Q61740832,Top End Wedding
+Q2576503,Q2576503,Q61951873,Peter Rabbit 2: The Runaway
+Q95870852,Francis Annan,Q62075994,Escape from Pretoria
+Q1378842,Mark Webber,Q62083678,The Place of No Words
+Q63507928,Felix Colgrave,Q63507914,Double King
+Q63635298,Gabrielle Brady,Q63634966,Island of the Hungry Ghosts
+Q67171585,Simon McQuoid,Q63862159,Mortal Kombat
+Q107673965,Chris Delforce,Q63927178,Dominion
+Q471215,Leigh Whannell,Q64004122,The Invisible Man
+Q4666385,Abe Forsythe,Q64174928,Little Monsters
+Q4886044,Ben Lawrence,Q64561079,Ghosthunter
+Q65065402,Greg Palmer,Q64768572,The Northbound Limited
+Q3430994,Richard Lowenstein,Q65032652,Mystify: Michael Hutchence
+Q97372300,Kim Farrant,Q65032687,Angel of Mine
+Q21572777,Daniel Armstrong,Q65042407,Nova Star
+Q4885770,Ben Hackworth,Q65051759,Celeste
+Q5981361,Ian Darling,Q65052481,The Final Quarter
+Q65065402,Greg Palmer,Q65065401,The Mail Robber
+Q104672078,Adam Randall,Q65081437,I See You
+Q66127633,Ilanthirayan Alan Arumugam,Q65924968,Aiyai: Wrathful Soul
+Q271948,Rachel Ward,Q66305462,Palm Beach
+Q96575417,Shannon Murphy,Q66712802,Babyteeth
+Q116731718,Colm O'Murchu,Q66839790,Tabernacle 101
+Q29442229,Rhys Graham,Q67098007,Galore
+Q79436197,Unjoo Moon,Q67171163,I Am Woman
+Q69619590,Karl von Möller,Q67207076,D'art
+Q5212833,Damon Gameau,Q69262739,2040
+Q181140,Rachel Griffiths,Q70842752,Ride Like a Girl
+Q7815686,Tom E. Lewis,Q72881739,"One River, All Rivers"
+Q72881742,Tom E. Lewis,Q72881841,Millay Millay 1 (Butterfly)
+Q72881853,Dena Curtis,Q72881851,Jacob
+Q72870894,Danny Teece-Johnson,Q72881990,Songline to Happiness
+Q72870958,Tiffany Parker,Q72881996,Scar
+Q72882087,Azman Nanguri,Q72882083,Motika Graveyard (Motor Car Graveyard)
+Q72882152,Curtis Taylor,Q72882149,Mamu (Ghost)
+Q27052018,Jenny Fraser,Q72882159,unsettled
+Q72882163,June Mills,Q72882162,Warruwi Basket Weavers
+Q6701833,Luke Briscoe,Q72882165,Jhindu
+Q72870953,Sylvia Nulpinditj,Q72882291,Bulunu Milkarri
+Q121034482,David Muir,Q123305320,Four Colonial Painters 1832-1896
+Q27450856,Arthur Cantrill,Q123305333,Kip And David
+Q121337722,Martyn Down,Q123305347,Central Australia: The Eighth Wonder
+Q121034548,Robert Walker,Q123305360,Australians Remember
+Q106375199,David Baker,Q123305363,Airhawk: Star Of The North
+Q120358912,Dick Marks,Q123305366,Miracle Of The Mountains
+Q121357699,Judy Rymer,Q123305369,Message From Moree (A)
+Q121079135,Ernest Heffelmyer,Q123305374,Jane Edmanson's Guide To Houseplants
+Q117848469,Oliver Howes,Q123305382,A Long Night With Lethal Guests
+Q6833415,Michael Pattinson,Q123305387,Winners : Just Friends
+Q5715671,Henri Safran,Q123305401,Private John Simpson
+Q120401930,Philip Robertson,Q123305402,Changing...Perceptions Of Development And Power In The Australian Inner City
+Q117885629,Stephen Ramsey,Q123305404,Baby Crazy
+Q117860751,Jane Oehr,Q123305412,The Journey
+Q121144090,Valerie Morton,Q123305414,Tripwire
+Q121298845,Tony Chenn,Q123305424,A Curious And Diverse Flora. Parts 1-5
+Q121126585,David Crocker,Q123305427,The Die Hard: The Legend Of Lasseter's Lost Gold Reef
+Q26913030,Trevor Graham,Q123305440,Paper Trail: The Life & Times Of A Woodchip
+Q120695372,Jeff Spencer,Q123305452,More New Handwriting
+Q121034343,Mike Hill,Q123305454,Tic Tac 2 Heelflip: Australia's Skateboarding History
+Q121144224,Jim Edmond,Q123305464,Shooting Better Home Videos
+Q121315198,Vincent Donovan,Q123305487,Grey Funnel Line
+Q120304934,David Roberts,Q123305488,The Voyage Of The Pacific Peacemaker
+Q121035262,Peter Hennessey,Q123305505,Making Chunky Move: C.O.R.R.U.P.T.E.D. 2
+Q3293340,Mario Andreacchio,Q123305512,Napoleon (1994)
+Q121357715,Catherine Birmingham,Q123305538,Pentridge: Some Ghosts And Memories From The Big House
+Q121159794,Christopher McCullough,Q123305544,Out Of The Fiery Furnace
+Q974566,John Gray,Q123305549,The Union Man
+Q121091150,Neville Hay,Q123305568,Sir Jack Brabham: The Complete History Of A Motor Racing Legend
+Q121223432,Reg Boulter,Q123305573,Dirty Harry
+Q117860751,Jane Oehr,Q123305604,Heads 'N' Tails
+Q121079353,Robert Raymond,Q123305630,Man On The Rim Series
+Q121126617,Jeni Kendell,Q123305635,Earth First
+Q121357618,John Tutty,Q123305636,Learn To Ski
+Q121271192,Danae Gunn,Q123305639,Daintree: The Vanishing Rainforest
+Q121035334,Ian Walker,Q123305648,Political Power
+Q121222609,John Tristram,Q123305663,First Citizen: Albert Namatjira
+Q121034687,Gary Doust,Q123305665,Making Venus
+Q121337190,John Dollar,Q123305669,Bound For Botany Bay
+Q121035007,George Cass,Q123305678,How Does Your Garden Grow?
+Q121337650,Dai Le,Q123305724,In Limbo
+Q121223348,Denis Phelan,Q123305742,"Heroes, Heartbreaks And Hilarities"
+Q120871198,Steve Thomas,Q123305758,Harold
+Q121035334,Ian Walker,Q123305783,The Hacktivists
+Q120358925,Don Anderson,Q123305798,Harry Butler's Tasmania
+Q117885669,Terry Ohlsson,Q123305809,Children Of Two Countries. Parts I And Ii
+Q121126363,Philippe de Montignie,Q123305832,Rembetika: The Blues Of Greece
+Q108415797,Q108415797,Q123305835,Buried Treasure
+Q120837806,Graham Chase,Q123305849,Cooee
+Q121223023,Julie Shiels,Q123305865,Memory Packs
+Q121091446,Gordon Glenn,Q123305868,Anna
+Q5107659,Chris Owen,Q123305871,Gogodala: A Cultural Revival
+Q121144117,John Mandleberg,Q123305878,The Australian Royal Tours Collection 1901-1988
+Q121078752,Peter Henshaw,Q123305882,Pure Steam: The Flying Scotsman In Australia
+Q121126164,Liz Thompson,Q123305890,Breaking Bows & Arrows
+Q6848840,Mike Slee,Q123305897,After The Warming
+Q108415797,Q108415797,Q123305909,Boffins. - Volume 1.
+Q121126122,Bill Leimbach,Q123305914,Tropical Beat
+Q121270689,Raffi Ghazarian,Q123305927,Auslan For Families [Five Stories]
+Q7173104,Peter Butt,Q123303129,The Long War
+Q29565780,Marcus Cole,Q123303137,Tracks Of Glory
+Q951522,Scott Hicks,Q123303165,Freedom: Grab It While You Can
+Q117860381,Frank Heimans,Q123303188,Paradise Camp
+Q121357817,Barbara A. Chobocky,Q123303193,Welcome To The Waks Family
+Q121035988,Debra Petrovitch,Q123303204,Uncle Bill
+Q121079104,David E. Barrow,Q123303231,Human Jigsaw
+Q5238371,David Parer,Q123303245,Douglas Mawson: The Survivor
+Q93532910,David MacDougall,Q123303248,Familiar Places
+Q121337572,Stephen Jones,Q123303249,The Sydney Gay And Lesbian Mardi Gras Parade
+Q112471612,Geoffrey Nottage,Q123303254,La Boheme By Giacomo Puccini
+Q5932305,Hugh Piper,Q123303255,Riding The Gale
+Q121057956,Lyn Ashby,Q123303258,Under The Weather
+Q121126724,Joe Zappulla,Q123303262,The Home Buyers' Bible
+Q7173104,Peter Butt,Q123303267,The Liners
+Q121126541,Martin Coombes,Q123303271,The Money Or The Gun
+Q120401930,Philip Robertson,Q123303301,Home Sweet Home
+Q121315347,Roy Mason,Q123303302,Paddleboats Of The Murray River
+Q121126680,Michaela French,Q123303305,Flux
+Q121299139,Ian Hart,Q123303312,The Ships That Flew
+Q121223334,Bruce Leonard,Q123303322,Great Australian Disasters Of The 20Th Century
+Q5560473,Gil Brealey,Q123303333,John Norton
+Q121126122,Bill Leimbach,Q123303336,The Great Camel Race
+Q121035360,Greg Reading,Q123303349,"Beliefs, Values And Customs"
+Q117885629,Stephen Ramsey,Q123303369,Don'T Be The Last To Know
+Q4758631,Andrew Steane,Q123303393,They Found A Cave; Waxworks
+Q121159794,Christopher McCullough,Q123303409,Out Of The Fiery Furnace. Parts 6 And 7
+Q446960,George Miller,Q123303414,Mad Max
+Q117864014,Keith Salvat,Q123303417,Robert Klippel
+Q121337452,Ted Davis,Q123303446,Cyclic Track Maintenance
+Q121337486,Sarah Stephens,Q123303454,Untold Desires
+Q120518095,Roger Hudson,Q123303461,Understanding Cancer Pt.2
+Q121223477,Phil de Montingnie,Q123303466,Do Not Pass Go
+Q4785317,Arch Nicholson,Q123303476,"Hong Kong, Singapore: Fragrant Harbour, Lion City"
+Q26913030,Trevor Graham,Q123303489,Mabo: The Native Title Revolution
+Q7173104,Peter Butt,Q123303490,"Saviours, Heroes, Lovers"
+Q121337612,Sally Pryor,Q123303499,Postcard From Tunis
+Q121057954,Robert Lindsay,Q123303503,Survey (National Gallery Of Victoria)
+Q121078893,Bill Steller,Q123303514,With The Best Of Intentions
+Q117860381,Frank Heimans,Q123303522,What Have You Done With My Country
+Q121337312,Lyn Kerrison,Q123303525,Diegesis Festival 2002
+Q117860381,Frank Heimans,Q123303579,Margaret Mead And Samoa
+Q121034551,Hart Cohen,Q123303586,Mr Strehlow's Films
+Q120518095,Roger Hudson,Q123303590,Understanding Cancer Pt.1
+Q121337039,David Pritchard,Q123303599,Floyd On Oz. - Volume 3.
+Q106376673,Glenda Hambly,Q123303606,The Distant Lens
+Q121222750,Leigh Kidd,Q123303613,Oil Painting For Beginners With Artist Val Osborn. Number 3
+Q121271242,Christina Wilcox,Q123303620,The People's Diva: Joan Carden
+Q117863156,Alec Morgan,Q123303622,Australia's Journey: Our First Century As A Nation
+Q121035584,Valerie Bichard,Q123303624,Fire Of The Land
+Q121315641,Don Percy,Q123303634,Funny By George
+Q7129289,Pamela Williams,Q123303648,Mum How Do You Spell Gorbatrof?
+Q28858775,Brett Porter,Q123303650,Three Faces Of New Guinea
+Q121337034,Richard Hodder,Q123303667,Crossroads Rock Concert
+Q121298817,Harvey Spencer,Q123303672,Aussie Assault
+Q121270689,Raffi Ghazarian,Q123303678,Auslan For Families: Vocabulary. Episodes 1-5
+Q108415797,Q108415797,Q123303681,Last Chance For The Lucky Country
+Q121337039,David Pritchard,Q123303692,Floyd On Oz. - Volume 2.
+Q726345,David Greig,Q123303694,The Australian Alps: Mirka's Palace Of Dreams
+Q120837830,Peter Green,Q123303706,"Buyer Beware (Croatian,Spanish,Vietnamese,Turkish)"
+Q121034482,David Muir,Q123303710,The Australian Eye I
+Q105946913,Sari Braithwaite,Q123303737,My Hometown – Munro Melano
+Q121126499,Les McLaren,Q123303764,Kama Wosi: Music In The Trobriand Islands
+Q185846,Chris Noonan,Q123303784,The School Is Not An Island
+Q121035360,Greg Reading,Q123303796,A Voice To Be Heard
+Q121035038,Dean McInerney,Q123303835,Wild Stallion Mountain – The Bombay Royale
+Q121357618,John Tutty,Q123303837,Secrets Of Successful Fishing
+Q117885629,Stephen Ramsey,Q123303856,Please Don'T Leave Me
+Q29617984,Ned Lander,Q123303874,Jardiwarnpa: A Warlpiri Fire Ceremony
+Q121035608,Nicky Tyndale-Biscoe,Q123303885,Mohamed Ali's Happy Day Feast
+Q121357546,Mick Bell,Q123303888,Leaps And Bounds – Paul Kelly And The Coloured Girls
+Q121079353,Robert Raymond,Q123303911,The Last Horizon
+Q120695372,Jeff Spencer,Q123303921,Preparing Your Child For School. Parts 1 & 2
+Q6838341,Mick Molloy,Q123303927,Shonky Golf With Mick Molloy
+Q121034744,Gian Manara,Q123303935,The Drover's Wife: A Short Story By Henry Lawson
+Q4785317,Arch Nicholson,Q123303968,People Of Influence
+Q121091145,Chris Farrell,Q123303971,On A Budget
+Q120308523,Ian Dunlop,Q123303977,A Family Moves Camp And Gathers Food
+Q121357618,John Tutty,Q123304008,Bonsai For The Beginner
+Q121035571,Christopher Tuckfield,Q123304021,The Journey
+Q121035085,John Erichsen,Q123304025,Elizabeth Riddell
+Q4785317,Arch Nicholson,Q123304026,Thailand
+Q121035870,Maree Delofski,Q123304028,A Calcutta Christmas
+Q120700904,Diane O'Connor,Q123304035,Student Participation
+Q4785317,Arch Nicholson,Q123304039,The Russians
+Q121271257,Terence McMahon,Q123304045,The Rush That Never Ended
+Q121144022,Geoffrey Bennett,Q123304052,Edge Of The World
+Q6205234,Joan Long,Q123304063,The Passionate Industry: 1920-1930
+Q53414693,Ray Argall,Q123304091,Pop Movie. Part 1
+Q120308523,Ian Dunlop,Q123304108,Madarrpa Funeral At Gurka'Wuy
+Q121126040,Chris Warner,Q123304113,Working Up: Women At Work In Australia
+Q120401919,John Shaw,Q123304138,Kiribati? Here We Are
+Q120303630,Shan Benson,Q123304145,Stephen Banner: Supervisor
+Q121126303,Natasha Pincus,Q123304151,Somebody I Used To Know – Gotye Ft. Kimbra
+Q121035454,Paul Williams,Q123304157,The Phantom Treehouse
+Q121357699,Judy Rymer,Q123304173,Poles Apart
+Q7634026,Sue Brooks,Q123304186,Land Of The Long Weekend
+Q121337064,Kevin Ballantine,Q123304234,Fiona Hall. After 200 Years
+Q121337748,Michael Campbell,Q123304246,Aircraft Carrier
+Q121143721,Don Shepherd,Q123304256,"Philharmonic Safari: The London Philharmonic Orchestra ""Down Under"""
+Q53414693,Ray Argall,Q123305958,Pop Movie. Part 2
+Q121223358,Lisa Jane Wallace,Q123305962,The Astonishing Ashtons
+Q121315018,Terry Carlyon,Q123305970,A Kid Called Troy
+Q117860751,Jane Oehr,Q123305982,More Winners : The Journey
+Q121126617,Jeni Kendell,Q123305984,System 6: A Fragile Nest
+Q121079353,Robert Raymond,Q123305987,Into The Deep Freeze
+Q121143935,Nicola Woolmington,Q123305989,Paying For The Past
+Q108415797,Q108415797,Q123305991,The Unfair Go
+Q120308523,Ian Dunlop,Q123306022,Towards Baruya Manhood. Part 2. Village Life Ii
+Q7358887,Roger Scholes,Q123306104,The Coolbaroo Club
+Q121299292,Darrell Rigby,Q123306107,Pilates For Beginners
+Q121034524,Ron Bollman,Q123306127,The Indian Pacific
+Q121126777,Judy Menczel,Q123306132,Angst
+Q121299292,Darrell Rigby,Q123306150,Pilates: Intermediate Program
+Q7173104,Peter Butt,Q123306186,When The War Came To Australia
+Q121144166,Malcolm Orr,Q123306194,"Staying Alive Show (Episodes 1, 2 & 3)"
+Q121035007,George Cass,Q123306203,"The Adventures Of Snugglepot, Cuddlepie And Ragged Blossom"
+Q121091077,Iain E. Gillespie,Q123306236,"Empty Arms, Broken Hearts"
+Q121091446,Gordon Glenn,Q123306290,Songs Of Innocence: A Child's View Of Family Life
+Q16104830,Nigel Buesst,Q123306318,Jacka V.C.: A Film By Nigel Buesst And Ross Cooper
+Q121079051,Peter Whitchurch,Q123306321,The 1954 Redex Trial
+Q121035880,Aaron Davies,Q123306339,Five Ninths
+Q7173104,Peter Butt,Q123306351,Our Darkest Hour
+Q120871198,Steve Thomas,Q123306384,Black Man's Houses
+Q117885629,Stephen Ramsey,Q123306404,The Snowy : A Dream Of Growing Up
+Q1368884,Simon Wincer,Q123306412,Quigley
+Q101526170,Bob Weis,Q123306415,Proud To Live
+Q29379613,Derek Bailey,Q123306421,La Stupenda: A Portrait Of Dame Joan Sutherland
+Q121299249,Catherine Millar,Q123306430,South West Tasmania: The Gliders
+Q121126485,Charlotte George,Q123306459,Don'T Stand So Close To Me
+Q121035228,Lucia Salinas Briones,Q123306466,Canto A La Vida
+Q121222709,Johanna Demetrakas,Q123306470,Massage For Health
+Q16948248,Howard Rubie,Q123306488,So You'Re Going To Have A Baby
+Q121271133,Brendan Young,Q123306495,Love And Anarchy: The Wild Wild World Of Jaimie Leonarder
+Q121159794,Christopher McCullough,Q123306499,Out Of The Fiery Furnace. Parts 1-3
+Q5539735,George Gittoes,Q123306526,Unbroken Spirit
+Q121126040,Chris Warner,Q123306532,Eating Your Heart Out
+Q5292597,Don Featherstone,Q123306563,Beautiful Lies: A Film About Peter Carey
+Q121143663,Sonya Pemberton,Q123306572,Alien Underworld
+Q121058017,Michael Davie,Q123306584,Afrika: Cape Town To Cairo
+Q117860598,Fiona Cochrane,Q123306592,Beating The Drum
+Q72905872,Richard Keddie,Q123306596,Outnumbered
+Q121315565,Bernard Peters,Q123306598,Australia Laughs. Volume 1
+Q121337736,Steve Graham,Q123306602,Three In One Aerobics Programme
+Q121034457,Stewart Faichney,Q123306627,Visions Of Victoria
+Q121035650,Andrew Liebman,Q123306637,Only One Atmosphere
+Q121034821,David Smith,Q123306649,Continent In Crisis
+Q121035336,Ian McKay,Q123306656,Joan Lindsay
+Q121036046,C Hunniford,Q123306670,The Australian Image. Pt. 1
+Q121144095,Ronnie Taylor,Q123306681,To Absent Friends
+Q121034777,Douglas Stanley,Q123306686,Sun Kosi: River Of Gold
+Q5932305,Hugh Piper,Q123306697,The Post
+Q6255888,John Ruane,Q123306710,I Hope The War Will Be Over Soon
+Q3991363,Tim Johnson,Q123306720,Fair Treatment
+Q121034905,Geoffrey Collings,Q123306729,Captain James Cook
+Q121298935,Alex Jaye,Q123306730,Project Out Of School: Planning A Quality Service
+Q121143832,Samia Mikhail,Q123306731,Red Light In Full Flight
+Q117885629,Stephen Ramsey,Q123306762,Shellshocked
+Q121078847,Lucy,Q123306766,Dream A Little Crazy – Architecture In Helsinki [Exhibition Video]
+Q121160041,Sean O'Brien,Q123306767,Two Thirds Sky
+Q121271133,Brendan Young,Q123306772,Three Chords And A Wardrobe
+Q121057812,Aviva Ziegler,Q123306773,What Is A Jew To You?
+Q26913030,Trevor Graham,Q123306776,"From Little Things Big Things Grow: Kev Carmody, Singer"
+Q108415797,Q108415797,Q123306823,Boffins. - Volume 2.
+Q120837806,Graham Chase,Q123306824,Modern Times
+Q121035360,Greg Reading,Q123306831,Learning About Life
+Q121091446,Gordon Glenn,Q123306834,Anna (Vietnamese Version)
+Q121315054,Victor Bindley,Q123306836,The Devil's Playground (1928)
+Q121159794,Christopher McCullough,Q123306853,Desert Tracks
+Q1339491,Peter Watkins,Q123306856,Media Project: A Film About Media Coverage Of The Gulf War And Memory
+Q438911,Gillian Armstrong,Q123306863,"14's Good, 18's Better"
+Q5932305,Hugh Piper,Q123306892,Double Concerto: A Film About The Pianist Roger Woodward
+Q543563,Phillip Noyce,Q123306911,Castor And Pollux: A Tale Of Two Spiritual Brothers
+Q121337064,Kevin Ballantine,Q123306912,Emmanuel Angelicas & Jon Lewis
+Q113456855,Christina Andreef,Q123306918,Excursion To The Bridge Of Friendship
+Q121034958,Lindesay Dresden,Q123306923,Mister Whiskers: My Favourite Nursery Rhymes
+Q121299297,Mitzi Goldman,Q123306924,Hatred
+Q120701920,Tony Stevens,Q123306930,Flowers And The Wide Sea. Pt. 1: The Sojourners
+Q121299038,Patricia L'Huede,Q123306936,Hunting The Wild Pineapple
+Q121271226,Martin Cohen,Q123306964,The Ambassadors Symphony
+Q121337379,John Lander,Q123306983,Does Dracula Have Aids?
+Q121034482,David Muir,Q123307005,The Australian Eye Ii
+Q121270863,Valerie Sayce,Q123307010,Exercise Beats Arthritis
+Q101526170,Bob Weis,Q123307034,Wills And Burke: The Untold Story
+Q121298845,Tony Chenn,Q123307048,Travelling In China: Through The Open Door
+Q108415797,Q108415797,Q123307050,Boffins. - Volume 3.
+Q121085955,Judith Adamson,Q123307085,Using The Land
+Q121299202,Janet McLeod,Q123307112,The Ridge
+Q121079194,Stafford Garner,Q123307115,Burma Railway
+Q57415831,Kathryn Millard,Q123307117,Travelling Light. Parklands
+Q117859684,Eugene Schlusser,Q123307139,"Rupert Bunny: Colour, Mood & The Senses"
+Q121271242,Christina Wilcox,Q123307145,"The Nights Belong To The Novelist: The Imaginitive World Of Elizabeth Jolley, Australian Writer"
+Q121337282,Colin South,Q123307156,G'Day: New Accents In Australian Tourism
+Q121091446,Gordon Glenn,Q123307170,Anna (Greek Version)
+Q6097453,Ivan Sen,Q123307178,Dust (On Wheels )
+Q121315651,Lindsay Frazer,Q123307180,Doesn'T Everybody Want A Golden Guitar
+Q121091446,Gordon Glenn,Q123307209,First Day
+Q19958066,Cathy Henkel,Q123307211,Walking Through A Minefield
+Q121271081,Geoff Tanner,Q123307221,Avalon: The 1992 Australian International Air Show
+Q4785317,Arch Nicholson,Q123307227,The Philippines: The Furthest Cross
+Q108415797,Q108415797,Q123304272,Prejudice: Equality ...At What Price
+Q121126827,Lynn Hegarty,Q123304282,How Wonderful
+Q121126795,Dave Williams,Q123304283,Spirit Of The Dance
+Q121035493,Colin Budds,Q123304285,Ready Or Not
+Q121035385,Sunny Leunig,Q123304286,Elevator Operator – Courtney Barnett
+Q120308523,Ian Dunlop,Q123304294,At Patantja Clay Pan
+Q7329929,Richard Wherrett,Q123304329,Summer Of The Seventeenth Doll [Australian Opera]
+Q121035095,Stewart Binns,Q123304358,Olympic Century : The Olympic Spirit
+Q121222981,Greg Ferguson,Q123304359,Sisters Are Doin' It For Themselves: Women In The Contemporary Music Industry
+Q121091446,Gordon Glenn,Q123304371,Anna (Turkish)
+Q120518012,Ivern Hendrickson,Q123304418,Flight Into Yesterday
+Q2408644,Brian Hannant,Q123304427,General Principles
+Q108415797,Q108415797,Q123304437,Johnson And Friends. - Volume 3.
+Q3308531,Michael Sporn,Q123304439,Doctor De Soto And 5 Other Funny Stories
+Q121298845,Tony Chenn,Q123304451,Travelling In Singapore
+Q117858976,Brian McKenzie,Q123304458,A Place To Belong
+Q121222753,Lina Caneva,Q123304471,The Mascot
+Q933562,Ben Lewin,Q123304511,The Migrant Experience
+Q7358887,Roger Scholes,Q123304515,The Valley
+Q7173104,Peter Butt,Q123304516,Our Melancholy Duty
+Q106376673,Glenda Hambly,Q123304522,Western Australia's Moving Memories...
+Q121085953,Don Fitzsimmons,Q123304526,Countering Sexism
+Q237268,Paul Cox,Q123304533,Done Bali
+Q120837806,Graham Chase,Q123304537,Democracy
+Q26913030,Trevor Graham,Q123304541,Sugar Slaves
+Q121271154,Mark Sanders,Q123304555,The Bush Myth
+Q117860478,Kay Pavlou,Q123304568,Not A Bedroom War
+Q5232078,David Caesar,Q123304590,Freely Given
+Q7173104,Peter Butt,Q123304593,Sheep's Back
+Q121337070,David Knaus,Q123304597,Contradictions
+Q7150070,Paul Currie,Q123304661,Lionheart [The Jesse Martin Story]
+Q121337294,Michael Balson,Q123304673,Passage Out Of Paradise
+Q117860556,Susan Lambert,Q123304677,Fair Play
+Q117862792,Daryl Dellora,Q123304702,Conspiracy
+Q121035677,Michael Vance,Q123304710,Justice: A Kindness Cup. Parts 1 & 2
+Q3050992,Elijah Moshinsky,Q123304728,Hansel And Gretel By Engelbert Humperdinck
+Q120308523,Ian Dunlop,Q123304737,Desert People
+Q121223348,Denis Phelan,Q123304741,Swimming And Diving
+Q121358047,Julia Redwood,Q123304742,Selling Australia
+Q121091446,Gordon Glenn,Q123304743,Penicillin: The Magic Bullet
+Q121271277,Gary Rhodes,Q123304744,Jack The Ripper: The Final Solution
+Q726345,David Greig,Q123304749,Kakadu: Land Of The Crocodile
+Q121222750,Leigh Kidd,Q123304750,Oil Painting For Beginners With Artist Val Osborn. Number 1
+Q120308523,Ian Dunlop,Q123304792,The Aborigines Of Australia
+Q121299227,Claudia Sangiorgi Dalimore,Q123304799,Native Tongue – Mo’Ju
+Q5292597,Don Featherstone,Q123304801,The Science Of Winning
+Q121085953,Don Fitzsimmons,Q123304808,Cover To Cover Looks At ...
+Q121299354,John Burnett,Q123304837,"No Bugles, No Drums"
+Q120401930,Philip Robertson,Q123304863,Belonging: Rituals Of Friendship And Association In An Australian Country Town
+Q121079427,Shane Yeend,Q123304872,Video Maker
+Q120308523,Ian Dunlop,Q123304895,Towards Baruya Manhood. Part 1. Village Life I
+Q121223088,Stephen Weingarth,Q123304896,A Day In The Life Of A Child: Introducing Environmental Action
+Q121034630,Tony Wright,Q123304899,What's So Funny?
+Q121034625,Rosie Jones,Q123304953,Holy Rollers
+Q121223447,Gillian Leahy,Q123304970,My Life Without Steve
+Q121079353,Robert Raymond,Q123304972,Life In The Desert
+Q117885629,Stephen Ramsey,Q123305003,The Professor's New Clothes
+Q121035126,Neal Chrisford,Q123305005,Better Wine Enjoyment
+Q121079104,David E. Barrow,Q123305020,The Human Jigsaw
+Q121298862,Eddie Moses,Q123305026,Touring Australia
+Q121222696,David Woodgate,Q123305059,Democratic Curriculum
+Q121299131,Tim Clark,Q123305066,In The Mind Of The Architect. Ep. 3. Corrugated Dreams
+Q7279354,Rachel Perkins,Q123305080,Freedom Rides
+Q121298847,Michael Dillon,Q123305095,Beyond Everest (1980). Beyond Everest: The Ongoing Climb Of Sherpa Hillary (2000)
+Q121159856,Roger Whittaker,Q123305097,China - The Red Sons
+Q120837806,Graham Chase,Q123305099,Solomon Islands Regain Independence
+Q120700890,John Fitzsimons,Q123305108,Design For Tomorrow
+Q121126009,Kim Kindersley,Q123305118,The Dolphin's Gift
+Q121035094,Peter Hicks,Q123305119,A Sense Of Direction
+Q121035805,Safina Uberoi,Q123305124,My Mother India
+Q15463660,Michael Blakemore,Q123305130,A Personal History Of The Australian Surf: Being The Confessions Of A Straight Poofter
+Q121337118,Alan Anderson,Q123305156,The Pictures That Moved: Australian Cinema 1896-1920
+Q78118903,Stéphane Bernasconi,Q123305171,The Adventures Of Tintin
+Q121034533,Ioannis Ioannou,Q123305219,Panacea: The Documentary
+Q121160043,Nick Frazer,Q123305230,Leave Me Alone: Sexual Harassment In The Workplace
+Q5056131,Cecil Holmes,Q123305234,Return To The Dreaming
+Q121035571,Christopher Tuckfield,Q123305244,Renzo Piano: Piece By Piece
+Q120518196,Shane Mulcahy,Q123305259,Transport In Plants And Animals: Capture Of Nutrients In Plants And Animals
+Q121271067,Debbie Hides,Q123305274,Aussie Fit: Getting Started
+Q121091446,Gordon Glenn,Q123305280,Anna (Arabic Version)
+Q974566,John Gray,Q123305282,Papua New Guinea Report
+Q121222578,Petro Romanhi,Q123305292,Did It Again – Kylie Minogue
+Q121036046,C Hunniford,Q123307280,The Australian Image. Pt. 2
+Q121357792,Mark Worth,Q123307302,Land Of The Morning Star
+Q6768591,Mark Lewis,Q123307334,The Floating Brothel
+Q121299519,Geoffrey Barnes,Q123307358,In The Desert We Have Written Our Names
+Q5232078,David Caesar,Q123307366,Shoppingtown
+Q121035877,Peter Jordan,Q123307369,The Sleep Of Reason
+Q120401930,Philip Robertson,Q123307372,At The Canoe Camp
+Q121057812,Aviva Ziegler,Q123307373,Facing The Demons
+Q121078914,Robert Parker,Q123307385,String Quartet
+Q121337680,Belinda Mason,Q123307391,City Of Dreams: The Collaboration Of Marion Mahon And Walter Burley Griffin
+Q121299519,Geoffrey Barnes,Q123307405,Journey Into Thailand
+Q121035510,Josh Thomas,Q123307412,Everything You Wanted – Clubfeet
+Q121299292,Darrell Rigby,Q123307423,Pilates Advanced Program
+Q5560473,Gil Brealey,Q123307426,Dusty
+Q106375394,Stephen Johnson,Q123307427,Treaty – Yothu Yindi
+Q120518188,Edwin Morrisby,Q123307432,Australians At The Olympics
+Q121315383,D.G. Corke,Q123307437,Soils Of Australia
+Q121091123,Michael Murray,Q123307443,Bronzed Aussie Gods
+Q120518095,Roger Hudson,Q123307447,Understanding Cancer
+Q121034908,Christine Sammers,Q123307476,Arguing The Toss Of A Cat
+Q7145564,Patricia Edgar,Q123307497,Mexico 75: No Place Else In The World To Be
+Q120518095,Roger Hudson,Q123307505,Understanding Cancer Pt.3
+Q121337722,Martyn Down,Q123307512,Broome And The Pearl Coast
+Q2442472,Tony Ayres,Q123307532,Sadness: A Monologue By William Yang
+Q121078785,Timothy Sullivan,Q123307535,Jack Absalom's Outback Australia Series
+Q121079028,Tony Wellington,Q123307546,Conflict Of Interest
+Q121223348,Denis Phelan,Q123307556,Olympic Glory The Golden Years: Aussies And Kiwis In Sport
+Q3293340,Mario Andreacchio,Q123307573,More Winners : Second Childhood
+Q121079353,Robert Raymond,Q123307606,The Cutting Edge
+Q121159794,Christopher McCullough,Q123307614,Out Of The Fiery Furnace. Parts 4 And 5
+Q121144017,Malcolm Dwyer,Q123307617,Julie Stafford's Taste Of Life : The Video
+Q121058001,Hugh Davidson,Q123307619,Adriana Lecouvreur
+Q6372399,Karl Zwicky,Q123307651,The Miraculous Mellops 2. Part 4
+Q5292597,Don Featherstone,Q123307654,Tales Of Helpmann : A Portrait Of Sir Robert Helpmann
+Q27929473,Pat Fiske,Q123307667,"Doc: A Portrait Of Herbert Vere Evatt, 1894-1965"
+Q121035454,Paul Williams,Q123307701,The Island Of Nevawuz
+Q121091293,Hadi Mahood,Q123307704,Iraq My Country: An Exiles Return To Samawa
+Q121126122,Bill Leimbach,Q123307705,Balinese Surfer
+Q121034977,Rosemary Burden,Q123307715,Because They'Re Black
+Q120518095,Roger Hudson,Q123307725,Risk Factors
+Q7610796,Stephen Wallace,Q123307729,Gordon Bennett
+Q121126298,Doc K Sternberg,Q123307741,Spotlight On Australian Ballet
+Q120358930,John Charles,Q123307743,Lakme
+Q121315311,Mal Tennant,Q123307763,Ecology
+Q121270977,Gillian Coote,Q123307774,The Fully Ordained Meat Pie
+Q121034482,David Muir,Q123307786,The Rough And The Smooth
+Q112468748,Geoff Burton,Q123307792,Conversations With A Dead Poet: Alan Wearne Recalls John Forbes
+Q121143927,Guy Norris,Q123307824,Miracle At Sea : The Tony Bullimore Rescue
+Q117862816,Dennis K. Smith,Q123307837,Troubled Minds: The Lithium Revolution
+Q121222750,Leigh Kidd,Q123307845,Oil Painting For Beginners With Artist Val Osborn. Number 2
+Q121035419,Michael Buckley,Q123307852,Two Songs By Dougie Young. Dread Beat And Blood
+Q120837806,Graham Chase,Q123307889,The Kimberley Mob
+Q117860751,Jane Oehr,Q123307895,On The Loose: Three Stories About Leaving School
+Q121126148,Mark Stiles,Q123307919,Kampuchea After Pol Pot
+Q121126499,Les McLaren,Q123307929,Five Bloody Weeks : The Syrian Campaign June-July 1941
+Q121034777,Douglas Stanley,Q123307931,For The Love Of A Child
+Q120304934,David Roberts,Q123307943,Thailand
+Q121034482,David Muir,Q123307944,The Australian Eye
+Q121298857,Paul Scott,Q123307959,Koalas: The Bare Facts
+Q121270638,G Roberts,Q123307976,Overcoming Neck And Back Pain
+Q121223348,Denis Phelan,Q123307998,Olympic Glory: The Golden Years
+Q120401930,Philip Robertson,Q123308022,Narritjin Maymuru
+Q121223518,Tina Dalton,Q123308038,Eye On The Reef
+Q121126499,Les McLaren,Q123308062,Namekas: Music In Lake Chambri
+Q121337039,David Pritchard,Q123308065,Floyd On Oz. - Volume 1.
+Q6437254,Kris Moyes,Q123308073,My People – The Presets
+Q19877070,Andrew Pike,Q123372013,Angels Of War
+Q24844292,Alan Burke,Q29322698,Macbeth
+Q29025753,Patrick Barton,Q29322795,The Road
+Q5715671,Henri Safran,Q29322955,The Criminals
+Q24844292,Alan Burke,Q29454809,The Tempest
+Q24844292,Alan Burke,Q29454824,La Boheme
+Q17007964,Nathan Hill,Q29470138,Model Behaviour
+Q113572899,Mark Lamprell,Q29907988,A Few Less Men
+Q15432108,Marijan David Vajda,Q30126372,The Saint: Wrong Number
+Q7607335,"Henry Herbert, 17th Earl of Pembroke",Q30126402,The Saint: The Software Murders
+Q5983094,Ian Toynton,Q30126413,The Saint: The Brazilian Connection
+Q3023139,Dennis Berry,Q30126427,The Saint: The Blue Dulac
+Q2050301,Paolo Barzman,Q30126432,The Saint: The Big Bang
+Q7976339,Wayne Hope,Q30321633,Now Add Honey
+Q5125261,Claire McCarthy,Q30597804,Ophelia
+Q24844292,Alan Burke,Q30599117,The Tell-Tale Heart
+Q27972888,Christopher Muir,Q30599320,Bastien and Bastienne
+Q27972888,Christopher Muir,Q30599331,She
+Q27972888,Christopher Muir,Q30599332,Martha
+Q28837213,Rod Kinnear,Q30599586,Rope
+Q28837213,Rod Kinnear,Q30600056,The Concert
+Q15497866,Henry Kaplan,Q30600140,Ruth
+Q28837213,Rod Kinnear,Q30600140,Ruth
+Q5981930,Ian Jones,Q30600151,Suspect
+Q23762162,Storry Walton,Q30602056,The Runaway
+Q436829,Russell Mulcahy,Q30610572,In Like Flynn
+Q471215,Leigh Whannell,Q30611788,Upgrade
+Q7610503,Stephen Sewell,Q30668220,Embedded
+Q6793366,Maurice Murphy,Q30688082,Aunty Jack Introduces Colour
+Q4757687,Andrew Lancaster,Q32941831,The Lost Aviator
+Q19868225,Todd Strauss-Schulson,Q32942298,Isn't It Romantic
+Q108047434,James Wan,Q33101622,Stygian
+Q436712,Ben Elton,Q34411664,Three Summers
+Q4461183,Warwick Thornton,Q35144519,Sweet Country
+Q1530946,Glendyn Ivin,Q38686109,Penguin Bloom
+Q21572777,Daniel Armstrong,Q39073942,Tarnation
+Q57578861,Ben Howling,Q39074257,Cargo
+Q57579266,Yolanda Ramke,Q39074257,Cargo
+Q58121597,Stephen McCallum,Q39074570,1%
+Q121091217,Damien Power,Q39075595,The Killing Ground
+Q39289131,Chris Sun,Q39288119,Daddy's Little Girl
+Q381768,Joel Edgerton,Q39659543,Boy Erased
+Q723820,Jeffrey Walker,Q41783910,Dance Academy: The Movie
+Q114915507,Jayson McNamara,Q41793672,Messenger on a White Horse
+Q5806081,Nick Hilligoss,Q42947737,Banjo Frogs
+Q5180694,Craig Anderson,Q42947761,Red Christmas
+Q42923097,Angelena Bonet,Q42947907,Angelena: Change The World
+Q862160,Bill Guttentag,Q46953499,Only the Dead
+Q6835217,Michael Ware,Q46953499,Only the Dead
+Q109317353,Clay Glen,Q46954959,A Second Chance
+Q115172852,Don Meers,Q46956191,Australien Skies
+Q113540511,Alex Holmes,Q46962861,Stop at Nothing: The Lance Armstrong Story
+Q192021,Simon Baker,Q47244559,Breath
+Q96287761,Rhiannon Bannenberg,Q47445594,Rip Tide
+Q7608585,Stephen Amis,Q47500713,The BBQ
+Q6438600,Kriv Stenders,Q48672667,Australia Day
+Q15710032,Robin Anderson,Q48672731,Black Harvest
+Q22279616,Jennifer Peedom,Q48672740,Mountain
+Q63256461,Shawn Seet,Q48672814,Storm Boy
+Q6846483,Mike Daly,Q48674553,Through the Dark
+Q109317353,Clay Glen,Q48795820,Raising the Bar
+Q109831129,Noel Cleary,Q48894174,Maya the Bee: The Honey Games
+Q109831146,Sergio Delfino,Q48894174,Maya the Bee: The Honey Games
+Q2388845,Michael Carson,Q49907029,Police Rescue
+Q5180756,Craig Boreham,Q50280735,Teenage Kicks
+Q16729060,Lilibet Foster,Q50314135,Be Here Now
+Q951522,Scott Hicks,Q50322070,Highly Strung
+Q21614619,James Marcus Haney,Q50414259,Austin to Boston
+Q114598881,Jonathon Narducci,Q50414475,Love Me
+Q113552779,Justin McMillan,Q50575626,Storm Surfers 3D
+Q113552780,Christopher Nelius,Q50575626,Storm Surfers 3D
+Q19872804,Dean Murphy,Q50650012,That's Not My Dog
+Q4772506,Anthony Field,Q110436898,We're All Fruit Salad! The Wiggles' Greatest Hits
+Q109648674,Chisholm McTavish,Q110446854,Yummy Yummy
+Q7150626,Paul Field,Q110449513,Here Comes the Big Red Car
+Q105697790,Sandra Sciberras,Q110518235,The Dustwalker
+Q123672413,Sara Kern,Q110752367,Moja Vesna
+Q1379404,Eva Orner,Q110772639,Burning
+Q27044516,Wayne Groom,Q110798364,Maslin Beach
+Q16169729,Jeff Daniels,Q110952223,The 10 Conditions of Love
+Q110982434,James Harkness,Q110982391,Birthday
+Q110983665,JJ Winlove,Q110983659,June Again
+Q22279616,Jennifer Peedom,Q111168114,River
+Q111168192,Joseph Nizeti,Q111168114,River
+Q26913030,Trevor Graham,Q111286680,Red Matildas
+Q108841275,Sharon Connolly,Q111286680,Red Matildas
+Q112205727,Renée Webster,Q111291128,How to Please a Woman
+Q95790033,Fin Edquist,Q111493759,Bad Girl
+Q21067198,Kiah Roache-Turner,Q111679725,Wyrmwood: Apocalypse
+Q983431,Matthew Reilly,Q111945687,Interceptor
+Q16948248,Howard Rubie,Q111966633,The World of The Seekers
+Q28837213,Rod Kinnear,Q111966633,The World of The Seekers
+Q117863119,Katie Found,Q111988443,My First Summer
+Q5180756,Craig Boreham,Q112031294,Lonesome
+Q112655888,Shaun M. Jefford,Q112655836,Beijing Punk
+Q9339626,Sophia Turkiewicz,Q112885667,Once My Mother
+Q115171541,Sally Aitken,Q113032290,Hot Potato: The Story of The Wiggles
+Q18002645,Andrew Traucki,Q113101194,The Reef: Stalked
+Q2691618,Matthias Temmermans,Q113117848,Mia and Me: The Hero of Centopia
+Q16201909,Michael Budd,Q113318707,Ruby's Choice
+Q4679987,Adam Wingard,Q113360912,Godzilla x Kong: The New Empire
+Q4886044,Ben Lawrence,Q113380071,Ithaka
+Q26703670,Goran Stolevski,Q113462425,Of an Age
+Q7343062,Robert Connolly,Q113570329,Blueback
+Q355300,Richard Curtis,Q113677792,We Are Still Here
+Q6764684,Mario Gaoa,Q113677792,We Are Still Here
+Q41804979,Tim Worrall,Q113677792,We Are Still Here
+Q69647747,Renae Maihi,Q113677792,We Are Still Here
+Q72881853,Dena Curtis,Q113677792,We Are Still Here
+Q101549114,Beck Cole,Q113677792,We Are Still Here
+Q111750451,Danielle MacLean,Q113677792,We Are Still Here
+Q123398369,Tracey Rigney,Q113677792,We Are Still Here
+Q124022022,Miki Magasiva,Q113677792,We Are Still Here
+Q124022023,Chantelle Burgoyne,Q113677792,We Are Still Here
+Q127050025,Matt Vesely,Q113696804,Monolith
+Q29442226,Jub Clerc,Q114433916,Sweet As
+Q114918499,Serge Ou,Q114714059,Iron Fists and Kung Fu Kicks
+Q1541117,Gracie Otto,Q115145917,Seriously Red
+Q96384115,James Becket,Q115206760,The Seeds of Vandana Shiva
+Q115206772,Camilla Denton Becket,Q115206760,The Seeds of Vandana Shiva
+Q127050027,Lachlan Mcleod,Q115393901,Clean
+Q96287761,Rhiannon Bannenberg,Q115402199,Mistletoe Ranch
+Q113995842,George Basha,Q115676246,Convict
+Q116526316,Noora Niasari,Q115686447,Shayda
+Q106465331,Tori Garrett,Q115802757,Sit. Stay. Love.
+Q13444656,Paul Ireland,Q116055825,Measure for Measure
+Q121118618,Danny Philippou,Q116193178,Talk to Me
+Q121118648,Michael Philippou,Q116193178,Talk to Me
+Q6767947,Mark Hartley,Q116259682,Girl at the Window
+Q6097453,Ivan Sen,Q116316729,Limbo
+Q1374169,Rolf de Heer,Q116329329,The Survival of Kindness
+Q116378094,Lachlan Pendragon,Q116378037,An Ostrich Told Me the World Is Fake and I Think I Believe It
+Q38030232,Sarah Spillane,Q116620354,True Spirit
+Q723820,Jeffrey Walker,Q116786106,The Portable Door
+Q22962943,Adam Cooper,Q117007959,Sleeping Dogs
+Q6387409,Ken Cameron,Q117039141,Secret Men's Business
+Q114804176,Nick Kozakis,Q117286448,Godless: The Eastfield Exorcism
+Q5109231,Christiaan Van Vuuren,Q117348347,A Sunburnt Christmas
+Q6387409,Ken Cameron,Q117456999,Out Of It
+Q117860847,Margot Nash,Q117598902,Call Me Mum
+Q449104,Lee Tamahori,Q117599075,The Convert
+Q4461183,Warwick Thornton,Q117745345,The New Boy
+Q8877,Steven Spielberg,Q117789100,Living Space
+Q5252901,Del Kathryn Barton,Q117790106,Blaze
+18d9164065dfa07b37099777a13900c4,http://www.wikidata.org/.well-known/genid/18d9164065dfa07b37099777a13900c4,Q118234786,Finding the Voice
+Q130583280,Gabriel Carrubba,Q118274975,Sunflower
+Q2576503,Q2576503,Q118405167,Anyone but You
+Q2059818,Paul Goldman,Q125897105,Kid Snow
+Q62600716,Sophie Hyde,Q125913481,Jimpa
+Q127049997,Michael Mier,Q125913482,Zombie Plane
+Q127050085,Lav Bodnaruk,Q125913482,Zombie Plane
+Q5262979,Derrick Borte,Q126374606,Bear Country
+Q109837803,Molly Reynolds,Q126855973,A Portrait of Love
+Q4910275,Bill Mousoulis,Q127599768,Ladykiller
+Q18637425,Richard Gray,Q127599809,Summer Coda
+Q7342927,Robert Chuter,Q127599819,The Dream Children
+Q5523655,Garnet Mae,Q127600253,Duran Duran
+Q116731371,Nadi Sha,Q127600353,Everything In Between
+Q6181268,Jeremy Cumpston,Q127600891,Bilched
+Q121118618,Danny Philippou,Q127602379,Bring Her Back
+Q121118648,Michael Philippou,Q127602379,Bring Her Back
+Q117862148,Samuel Van Grinsven,Q127727208,Went Up the Hill
+Q1541117,Gracie Otto,Q128115472,Otto by Otto
+Q125472995,Alice Maio Mackay,Q128640958,T Blockers
+Q442897,Rebel Wilson,Q128694739,The Deb
+Q22278226,Matthew Holmes,Q128799557,Fear Below
+Q3195038,Q3195038,Q130164709,Mismatch
+Q20177473,John Sheedy,Q130261793,Runt
+Q131617459,Jordon Prince-Wright,Q130341761,Before Dawn
+Q7804115,Tim Piper,Q130553765,Kangaroo Island
+Q131584545,Emma Hough Hobbs,Q130710042,Lesbian Space Princess
+Q131586065,Leela Varghese,Q130710042,Lesbian Space Princess
+Q7150626,Paul Field,Q130846647,The Wiggles Big Birthday!
+Q131324770,Allan Collins,Q131324169,Dhakiyarr vs. the King
+Q5113401,Christopher Weekes,Q131445860,Christmas on the Farm
+Q642465,Onir,Q131521072,My Melbourne
+Q3149575,Imtiaz Ali,Q131521072,My Melbourne
+Q6344216,Kabir Khan,Q131521072,My Melbourne
+Q45410390,Rima Das,Q131521072,My Melbourne
+Q4908103,Bill Bennett,Q131612512,The Cattle King
+Q132353668,Michael Shanks,Q131870558,Together
+Q6438600,Kriv Stenders,Q132202286,Lee Kernaghan: Boy from the Bush
+Q110876727,Michael Cusack,Q132636551,All Night Gaming
+Q4910275,Bill Mousoulis,Q132636562,Desire
+Q7176794,Peter Scarf,Q132636563,Fortune
+Q4910275,Bill Mousoulis,Q132636565,Lovesick
+Q1264239,Jürgen Corleis,Q132643339,Bergen-Belsen zum Beispiel
+Q7359708,Rohan Spong,Q132643427,The Songs They Sang
+Q5220137,Danny Ben-Moshe,Q132643442,Rewriting History
+Q117862634,Adam Geiger,Q132643503,Hitler’s Secret Bomb
+Q104671499,Ricard Cussó,Q107027981,The Tales from Sanctuary City
+Q117862148,Samuel Van Grinsven,Q107068760,Sequin in a Blue Room
+Q112570136,Monica Zanetti,Q107105075,Ellie & Abbie
+Q4772688,Anthony Hayes,Q107313347,Gold
+Q1159118,Dan Mazer,Q107427285,The Exchange
+Q104671499,Ricard Cussó,Q107524881,Daisy Quokka: World's Scariest Animal
+Q114249473,Genevieve Bailey,Q108084138,Happy Sad Man
+Q5594166,Granaz Moussavi,Q109236379,When Pomegranates Howl
+Q933562,Ben Lewin,Q109254833,Falling for Figaro
+Q105044112,Jonathan Ogilvie,Q109352492,Lone Wolf
+Q6073899,Ol Parker,Q109511080,Ticket to Paradise
+Q109837803,Molly Reynolds,Q109837874,My Name Is Gulpilil
+Q112199204,Trish Foreman,Q109846101,Don Spencer For Kids
+Q35189281,Renan Öztürk,Q109985890,The Sanctity of Space
+Q109986271,Freddie Wilkinson,Q109985890,The Sanctity of Space
+Q110188651,Dick Collingridge,Q110141668,Just Australian Trains
+Q4773006,Anthony Maras,Q27703167,Hotel Mumbai
+Q5294199,Donald Crombie,Q27703171,The Celluloid Heroes
+Q117860898,Geoff Bennett,Q27703209,The Great Mint Swindle
+Q27733947,Reinier Krol,Q27703211,Sometimes the Rain
+Q117862792,Daryl Dellora,Q27703239,Against the Innocent
+Q60215641,Laurie McInnes,Q123288117,Dogwatch
+Q6116523,Jackie McKimmie,Q123288125,Breaking Through
+Q6372399,Karl Zwicky,Q123288160,The Miraculous Mellops
+Q6410007,Kimble Rendall,Q123288165,Counting the Beat
+Q6768251,Mark Joffe,Q123288189,More Winners: Boy Soldiers
+Q6774325,Martha Ansara,Q123288190,Changing the Needle
+Q6791196,Matthew Saville,Q123288192,Roy Hollsdotter Live
+Q7173104,Peter Butt,Q123288240,Fortress Australia: The Secret Bid for the Atomic Bomb
+Q7173104,Peter Butt,Q123288241,"Lies, Spies and Olympics"
+Q7358879,Roger Sandall,Q123288278,Camels and the Pitjantjara
+Q743866,Esben Storm,Q123288283,More Winners: The Big Wish
+Q7610796,Stephen Wallace,Q123288287,Captives of Care
+Q7803256,Tim Burstall,Q123288307,The Prize
+Q912486,Brian Large,Q123288323,Il re pastore
+Q933562,Ben Lewin,Q123288346,Are you Fair Dinkum?
+Q933562,Ben Lewin,Q123288347,Lottie Lyell
+Q93838349,Judith MacDougall,Q123288349,The House-Opening
+Q96476049,Sue Clayton,Q123288359,The Last Crop
+Q15710032,Robin Anderson,Q123288609,Joe Leahy's Neighbours
+Q16107529,Tom Zubrycki,Q123289037,Kemira: Diary of a Strike
+Q4785317,Arch Nicholson,Q123302816,People Of The Cities
+Q101525831,Karin Altman,Q123302818,Raoul Wallenberg: Between The Lines
+Q121143697,Claire Jager,Q123302826,On The Side Of The Angels
+Q230448,Jane Campion,Q123302835,Three Films By Jane Campion
+Q121159981,Karl McPhee,Q123302883,Norm And Ahmed
+Q117860556,Susan Lambert,Q123302888,Your Money
+Q5238371,David Parer,Q123302897,Nature Of Australia. Parts 4-6
+Q121035094,Peter Hicks,Q123302905,Mountains Of Change
+Q5292597,Don Featherstone,Q123302916,An Asian Experience Slow Boat From Surabaya
+Q121126122,Bill Leimbach,Q123302918,Balinese Surfer 2: Wave Of Change
+Q4785317,Arch Nicholson,Q123302964,"Malaysia: Sparrow With Sparrow, Raven With Raven"
+Q121314971,Christine Rayfield,Q123302968,Riverboats Remembered: Murray Paddlesteamers On Film 1920's-1970's
+Q121078878,Graeme Rowland,Q123302969,The Cleo Laine Collection
+Q26913030,Trevor Graham,Q123302993,Painting The Town
+Q120358924,Pip Starr,Q123303002,Fight For Country
+Q120837806,Graham Chase,Q123303007,Bitter Rice
+Q121159771,Mathew Kelley,Q123303037,Big Brother Of Christmas Island: Tai Ko Seng
+Q121271376,Kathy Mueller,Q123303044,Betty Cuthbert
+Q121299131,Tim Clark,Q123303047,In The Mind Of The Architect. Ep. 2. The Public Good
+Q121034591,Liz Wight,Q123303066,Australia : The Great White Shark
+Q121035360,Greg Reading,Q123303101,Living Together
+Q25183124,George Whaley,Q123303102,More Winners : Mr. Edmund
+Q121057898,Chris Hilton,Q123303123,The Last Husky
+Q583186,Benjamin Millepied,Q105038174,Carmen
+Q112205479,Kodie Bedford,Q105474516,Dark Place
+Q106520537,Clare Knight,Q105560479,Back to the Outback
+Q5492176,Franklyn Barrett,Q105657667,The Melbourne Cup
+Q108797287,Simon Alberry,Q105681658,Space Dancing!
+Q1810579,Leah Purcell,Q106093003,The Drover’s Wife
+Q28152753,Michael Gracey,Q106261265,Better Man
+Q6317793,Justin Kurzel,Q106462638,Nitram
+Q61957196,Oliver Herbrich,Q106716226,Dead Heart
+Q26727317,Brodie Higgs,Q106719349,Elixir
+Q121034393,Tom Hurwitz,Q123307232,Malaysia
+Q121143935,Nicola Woolmington,Q123307233,Where Angels Fear To Tread
+Q117860381,Frank Heimans,Q123307240,The Eleven Powers
+Q99399116,David Corke,Q123307252,Kingdom Of The Lyrebird
+Q121144112,Kathy Drayton,Q123307255,Beach Story
+Q121035505,Paul Humfress,Q123307261,Artisans Of Australia
+Q121159861,Clive Doig,Q123307269,"Dinosaurs: Fun, Facts And Fantasy"
+Q121299349,Cathy Beitz,Q123307270,Collected Stories Of The Xpt
+Q114916654,Ian White,Q123420989,Mutiny in Heaven: The Birthday Party
+Q63699527,Lorcan Finnegan,Q123477948,The Surfer
+Q5238371,David Parer,Q123740720,The Dragons of Galapagos
+Q67155220,Charles William,Q123908641,Inside
+Q47658535,Mark Leonard Winter,Q124389705,The Rooster
+Q318712,Renny Harlin,Q124526427,Deep Water
+Q63256461,Shawn Seet,Q124536069,Five Blind Dates
+Q47004401,Zak Hilditch,Q124615876,We Bury the Dead
+Q94691545,Natalie Bailey,Q124842799,Audrey
+Q115171541,Sally Aitken,Q124858154,Every Little Thing
+Q125027160,George D. Malcolm,Q125053494,Grumblens
+Q125027160,George D. Malcolm,Q125053495,Eaglets
+Q21067198,Kiah Roache-Turner,Q125145603,Sting
+Q97751818,Brenda Matthews,Q125185537,The Last Daughter
+Q24395423,Maya Newell,Q125376383,The Dreamlife of Georgie Stone
+Q29264771,Richard Slapczynski,Q125397488,Moby Dick
+Q4932121,Bob Connolly,Q125424060,Mrs Carey's Concert
+Q958587,Frank Hurley,Q125470472,Southward Ho With Mawson
+Q958587,Frank Hurley,Q125470473,Siege of the South
+Q108760766,Barbara Anna Chobocky,Q133192788,Q133192788
+Q131887536,Q131887536,Q133192841,Q133192841
+Q131887536,Q131887536,Q133192843,Q133192843
+Q131887536,Q131887536,Q133192844,Q133192844
+Q131887536,Q131887536,Q133192845,Q133192845
+Q6375868,Kate Woods,Q133281185,Kangaroo
+Q7343062,Robert Connolly,Q133514352,Magic Beach
+Q27630796,Sean Byrne,Q133885811,Dangerous Animals
+Q22279616,Jennifer Peedom,Q134386482,Tenzing
+Q1773566,John Curran,Q134543341,Mercy Road
+Q47539915,Henri Bource,Q135038899,Savage Shadows
+Q16250789,Rod Freedman,Q135223289,Q135223289
+Q5220137,Danny Ben-Moshe,Q135223492,Q135223492
+Q16250789,Rod Freedman,Q135223541,Q135223541
+Q16250789,Rod Freedman,Q135223620,Q135223620
+Q4977200,Bruce Burgess,Q135223864,Q135223864
+Q28839557,Sigal Bujman,Q135223919,Q135223919
+Q5220137,Danny Ben-Moshe,Q135224141,Q135224141
+Q115272139,Luke Sparke,Q135472084,Primitive War
