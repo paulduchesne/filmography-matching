@@ -2,6 +2,8 @@
 
 Creator matching between filmographic datasets. 
 
+[Notebook](filmography_matching.ipynb)
+
 **Introduction**
 
 This work is based on suggestions by Georg Eckes, around filmography matching being significantly more reliable when considering not just individual name and film title similarity, but title similarity over multiple filmography entries between creators. The provided notebook automates this concept between two agent/title datasets.
